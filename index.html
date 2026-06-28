@@ -62,6 +62,27 @@
     .gridjs-wrapper { overflow-x: auto; }
     .gridjs-table { min-width: 600px; }
     .gridjs-th, .gridjs-td { white-space: normal !important; word-break: break-word; }
+    .about-page {
+      max-width: 700px;
+      margin: 0 auto;
+      line-height: 1.8;
+    }
+    .about-page h2 {
+      color: #58a6ff;
+      margin-top: 24px;
+      font-size: 1.2rem;
+    }
+    .about-page ul {
+      padding-left: 20px;
+    }
+    .about-page li {
+      margin-bottom: 8px;
+    }
+    .about-page a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    .about-page a:hover { text-decoration: underline; }
     footer {
       margin-top: 32px;
       padding-top: 16px;
@@ -86,6 +107,7 @@
     <button class="tab-btn" onclick="switchTab('ai')">🤖 AI</button>
     <button class="tab-btn" onclick="switchTab('sre')">⚙️ SRE</button>
     <button class="tab-btn" onclick="switchTab('trending')">🔥 Trending</button>
+    <button class="tab-btn" onclick="switchTab('about')">ℹ️ 關於</button>
   </div>
 
   <div id="tab-security" class="tab-content active">
@@ -104,9 +126,48 @@
     <div id="grid-sre"></div>
   </div>
   <div id="tab-trending" class="tab-content">
-    <div class="section-desc">GitHub Trending 每天顯示 GitHub 上最受歡迎的開源專案排行榜，根據星數增長速度排序，讓你快速掌握開源社群的最新動態與熱門技術。</div>
+    <div class="section-desc">GitHub Trending 每天顯示 GitHub 上最受歡迎的開源專案排行榜</div>
     <div class="last-updated" id="updated-trending"></div>
     <div id="grid-trending"></div>
+  </div>
+  <div id="tab-about" class="tab-content about-page">
+    <h2>📡 資料來源</h2>
+
+    <h3>🔒 Security</h3>
+    <ul>
+      <li><a href="https://www.ithome.com.tw/" target="_blank">iThome</a> — <a href="https://www.ithome.com.tw/rss" target="_blank">RSS</a></li>
+      <li><a href="https://www.informationsecurity.com.tw/main/index.aspx" target="_blank">資安人</a></li>
+      <li><a href="https://thehackernews.com/" target="_blank">The Hacker News</a> — <a href="https://feeds.feedburner.com/TheHackersNews" target="_blank">RSS</a></li>
+      <li><a href="https://www.bleepingcomputer.com/" target="_blank">BleepingComputer</a> — <a href="https://www.bleepingcomputer.com/feed/" target="_blank">RSS</a></li>
+      <li>**Threads:** <a href="https://www.threads.com/@nini38154" target="_blank">@nini38154（駭客）</a></li>
+    </ul>
+
+    <h3>🤖 AI</h3>
+    <ul>
+      <li><a href="https://www.deeplearning.ai/the-batch" target="_blank">DeepLearning.ai The Batch</a></li>
+      <li><a href="https://news.ycombinator.com/" target="_blank">Hacker News</a> — <a href="https://news.ycombinator.com/rss" target="_blank">RSS</a></li>
+      <li><a href="https://forums.developer.nvidia.com/latest" target="_blank">Nvidia Developer Forums</a></li>
+      <li><a href="https://huggingface.co/papers" target="_blank">Hugging Face Papers</a> — <a href="https://huggingface.co/api/papers" target="_blank">API</a></li>
+      <li><a href="https://www.marktechpost.com/category/technology/open-source/" target="_blank">Marktechpost OpenSource</a></li>
+      <li><a href="https://www.marktechpost.com/category/editors-pick/ai-agents/" target="_blank">Marktechpost AI Agent</a></li>
+      <li>**Threads:** <a href="https://www.threads.com/@ai.daily.learn" target="_blank">@ai.daily.learn</a> · <a href="https://www.threads.com/@govin999999" target="_blank">@govin999999</a></li>
+    </ul>
+
+    <h3>⚙️ SRE</h3>
+    <ul>
+      <li><a href="https://sreweekly.com/" target="_blank">SRE Weekly</a> — <a href="https://sreweekly.com/feed/" target="_blank">RSS</a></li>
+      <li><a href="https://www.infoq.com/" target="_blank">InfoQ</a> — <a href="https://www.infoq.com/feed/" target="_blank">RSS</a></li>
+    </ul>
+
+    <h3>🔥 Trending</h3>
+    <ul>
+      <li><a href="https://github.com/trending" target="_blank">GitHub Trending</a></li>
+    </ul>
+
+    <h2>📋 關於本站</h2>
+    <p>每日自動收集來自全球的 Security、AI、SRE 以及 GitHub Trending 的最新資訊。資料透過 RSS Feed、Sitemap、API 與網頁爬蟲自動更新，每天早上 06:00 與每次手動觸發時更新內容。</p>
+    <p>頁面使用 <a href="https://gridjs.io/" target="_blank">Grid.js</a> (MIT License) 實現表格與排序功能。<p>
+    <p>Powered by <strong>Hermes Agent</strong> · Hosted on <strong>GitHub Pages</strong></p>
   </div>
 
   <script src="https://unpkg.com/gridjs/dist/gridjs.production.min.js"></script>
