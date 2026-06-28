@@ -89,7 +89,7 @@
     <div id="grid-security"></div>
   </div>
   <div id="tab-ai" class="tab-content">
-    <div class="section-desc">來自 DeepLearning.ai The Batch Weekly Issue 與 Hacker News 熱門文章</div>
+    <div class="section-desc">來自 DeepLearning.ai The Batch 與 Hacker News 的 AI 最新文章</div>
     <div class="last-updated" id="updated-ai"></div>
     <div id="grid-ai"></div>
   </div>
@@ -108,25 +108,27 @@
   <script>
     async function loadCategory(category, file, gridId, updatedId) {
       try {
-        const resp = await fetch(file);
+        const resp = await fetch(file + '?t=' + Date.now());
         const data = await resp.json();
         document.getElementById(updatedId).textContent = '更新時間: ' + (data.updated || 'N/A');
-        
+
         let columns, tableData;
         if (category === 'trending') {
           columns = [
-            { name: '專案名稱', width: '25%', formatter: (cell, row) => gridjs.html('<a href="' + row.cells[1].data + '" target="_blank" style="color:#58a6ff;text-decoration:none;font-weight:bold;">' + cell + '</a>') },
-            { name: '說明', width: '50%' },
-            { name: '語言', width: '15%' },
-            { name: '來源', width: '10%', formatter: (cell) => gridjs.html('<span style="color:#8b949e;">' + cell + '</span>') }
+            { name: '專案', width: '22%', formatter: (cell, row) => gridjs.html('<a href="' + row.cells[1].data + '" target="_blank" style="color:#58a6ff;text-decoration:none;font-weight:bold;">' + cell + '</a>') },
+            { name: '說明', width: '43%' },
+            { name: '語言', width: '10%' },
+            { name: '來源 / 網站', width: '10%' },
+            { name: '網站', width: '15%', formatter: (cell) => gridjs.html('<span style="color:#8b949e;">' + cell + '</span>') }
           ];
-          tableData = data.items.map(item => [item.title, item.description || '', item.language || '', item.source]);
+          tableData = data.items.map(item => [item.title, item.description || '', item.language || '', item.source, item.site || 'github.com/trending']);
         } else {
           columns = [
-            { name: '標題', width: '70%', formatter: (cell, row) => gridjs.html('<a href="' + row.cells[1].data + '" target="_blank" style="color:#58a6ff;text-decoration:none;">' + cell + '</a>') },
-            { name: '來源', width: '30%', formatter: (cell) => gridjs.html('<span style="color:#8b949e;">' + cell + '</span>') }
+            { name: '標題', width: '55%', formatter: (cell, row) => gridjs.html('<a href="' + row.cells[1].data + '" target="_blank" style="color:#58a6ff;text-decoration:none;">' + cell + '</a>') },
+            { name: '來源', width: '20%' },
+            { name: '網站', width: '25%', formatter: (cell) => gridjs.html('<span style="color:#8b949e;">' + cell + '</span>') }
           ];
-          tableData = data.items.map(item => [item.title, item.url, item.source]);
+          tableData = data.items.map(item => [item.title, item.url, item.source, item.site || '']);
         }
 
         new gridjs.Grid({

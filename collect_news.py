@@ -78,16 +78,19 @@ def main():
     html = fetch_url("https://www.ithome.com.tw/")
     if html:
         links = extract_links(html, min_len=10)
+        seen = set()
         for title, url in links:
             clean_url = make_absolute(url, "https://www.ithome.com.tw")
-            if "?page=" in clean_url:
+            if "?page=" in clean_url or clean_url in seen:
                 continue
+            seen.add(clean_url)
             if len(title) < 15:
                 continue
             security_items.append({
                 "title": clean_title(title),
                 "url": clean_url,
-                "source": "iThome"
+                "source": "iThome",
+                "site": "ithome.com.tw"
             })
             if len(security_items) >= 15:
                 break
@@ -109,7 +112,8 @@ def main():
             security_items.append({
                 "title": clean_title(title),
                 "url": clean_url,
-                "source": "資安人"
+                "source": "資安人",
+                "site": "informationsecurity.com.tw"
             })
             count += 1
             if count >= 10:
@@ -122,59 +126,27 @@ def main():
     print("  AI:")
     ai_items = []
 
-    # DeepLearning.ai — find the latest weekly issue link, then scrape it
+    # DeepLearning.ai — scrape the /the-batch page directly for articles
     print("    Fetching DeepLearning.ai The Batch...")
     html = fetch_url("https://www.deeplearning.ai/the-batch/")
     if html:
-        # Find the first "Read the Issue" or link to a specific issue article
-        issue_links = re.findall(r'href="(/the-batch/[^"#?]+)"', html)
-        # Filter out the main /the-batch/ page link, find actual article links
-        articles = [l for l in issue_links if l != "/the-batch/" and l != "/the-batch"]
-        # Also look for article cards
-        article_matches = re.findall(r'href="(https?://www\.deeplearning\.ai/the-batch/[^"#?]+)"', html)
-        articles.extend([a for a in article_matches if a not in articles])
-        
-        issue_url = articles[0] if articles else None
-        
-        if issue_url:
-            print(f"      Found latest issue: {issue_url}")
-            issue_html = fetch_url(issue_url)
-            if issue_html:
-                links = extract_links(issue_html, min_len=15)
-                dl_count = 0
-                for title, url in links:
-                    clean = make_absolute(url, "https://www.deeplearning.ai")
-                    title_clean = clean_title(title)
-                    # Skip navigation/header/footer
-                    if any(skip in title_clean.lower() for skip in ["subscribe", "sign up", "newsletter", "archive", "search", "the batch"]):
-                        continue
-                    ai_items.append({
-                        "title": title_clean,
-                        "url": clean,
-                        "source": "DeepLearning.ai"
-                    })
-                    dl_count += 1
-                    if dl_count >= 15:
-                        break
-                print(f"      DeepLearning.ai: {dl_count} items")
-            else:
-                print(f"      Failed to fetch issue page")
-        else:
-            print(f"      No issue link found, falling back to page links")
-            links = extract_links(html, min_len=20)
-            dl_count = 0
-            for title, url in links:
-                ai_items.append({
-                    "title": clean_title(title),
-                    "url": make_absolute(url, "https://www.deeplearning.ai"),
-                    "source": "DeepLearning.ai"
-                })
-                dl_count += 1
-                if dl_count >= 10:
-                    break
-            print(f"      DeepLearning.ai (fallback): {dl_count} items")
+        links = extract_links(html, min_len=20)
+        dl_count = 0
+        for title, url in links:
+            clean = make_absolute(url, "https://www.deeplearning.ai")
+            title_clean = clean_title(title)
+            ai_items.append({
+                "title": title_clean,
+                "url": clean,
+                "source": "DeepLearning.ai",
+                "site": "deeplearning.ai"
+            })
+            dl_count += 1
+            if dl_count >= 15:
+                break
+        print(f"    DeepLearning.ai: {dl_count} items")
 
-    # Hacker News — front page is the "hot/active" stories (ranked by algorithm)
+    # Hacker News — front page is the "hot/active" stories
     print("    Fetching Hacker News (hot)...")
     html = fetch_url("https://news.ycombinator.com/")
     if html:
@@ -188,7 +160,8 @@ def main():
             ai_items.append({
                 "title": clean_title(title),
                 "url": url,
-                "source": "Hacker News"
+                "source": "Hacker News",
+                "site": "news.ycombinator.com"
             })
             hn_count += 1
             if hn_count >= 25:
@@ -214,7 +187,8 @@ def main():
             sre_items.append({
                 "title": clean_title(title),
                 "url": make_absolute(url, "https://sreweekly.com"),
-                "source": "SRE Weekly"
+                "source": "SRE Weekly",
+                "site": "sreweekly.com"
             })
             if len(sre_items) >= 30:
                 break
@@ -229,46 +203,72 @@ def main():
     print("    Fetching GitHub Trending...")
     html = fetch_url("https://github.com/trending")
     if html:
-        # Parse repo article blocks
-        # Each trending repo has a structure like:
-        # <h2><a href="/owner/repo">owner / repo</a></h2>
-        # <p>description</p>
-        # <span>language</span>
-        repo_pattern = re.compile(
-            r'<h2[^>]*>\s*<a[^>]*href="(/\w[^"]+)"[^>]*>([^<]+)</a>',
-            re.IGNORECASE
-        )
-        desc_pattern = re.compile(
-            r'<p[^>]*class="col-9[^"]*"[^>]*>\s*(.+?)\s*</p>',
-            re.IGNORECASE | re.DOTALL
-        )
-        lang_pattern = re.compile(
-            r'<span[^>]*itemprop="programmingLanguage"[^>]*>([^<]+)</span>',
-            re.IGNORECASE
-        )
+        # Use a simpler approach: find all article blocks
+        # Split by <article class="Box-row">
+        articles_raw = re.split(r'<article\s+class="Box-row"[^>]*>', html, flags=re.IGNORECASE)
+        print(f"    Found {len(articles_raw)-1} article blocks")
 
-        # Get all descriptions and languages
-        descriptions = [clean_title(m.group(1)) for m in desc_pattern.finditer(html)]
-        languages = [m.group(1).strip() for m in lang_pattern.finditer(html)]
-        
-        repo_count = 0
-        for m in repo_pattern.finditer(html):
-            repo_path = m.group(1).strip()
-            title = m.group(2).strip().replace('\n', '').replace('  ', ' ')
-            if repo_path.count("/") == 2:
-                desc = descriptions[repo_count] if repo_count < len(descriptions) else ""
-                lang = languages[repo_count] if repo_count < len(languages) else ""
-                trending_items.append({
-                    "title": title.strip(),
-                    "url": f"https://github.com{repo_path}",
-                    "description": desc[:300],
-                    "language": lang,
-                    "source": "GitHub Trending"
-                })
-                repo_count += 1
-                if repo_count >= 25:
-                    break
-        print(f"    GitHub Trending: {repo_count} items")
+        for article_html in articles_raw[1:]:  # skip first split part
+            # Extract repo name from h2 > a
+            repo_match = re.search(r'href="(/\w[^"/]+/[^"#?]+)"', article_html)
+            if not repo_match:
+                continue
+            repo_path = repo_match.group(1)
+            if repo_path.count("/") != 2:
+                continue
+
+            # Clean repo name
+            repo_name = repo_path.strip("/")
+
+            # Extract description
+            desc_match = re.search(r'<p[^>]*class="col-9[^"]*"[^>]*>\s*(.*?)\s*</p>', article_html, re.DOTALL)
+            description = clean_title(desc_match.group(1)) if desc_match else ""
+
+            # Extract language
+            lang_match = re.search(r'<span[^>]*itemprop="programmingLanguage"[^>]*>([^<]+)</span>', article_html)
+            language = lang_match.group(1).strip() if lang_match else ""
+
+            # Extract stars
+            stars_match = re.search(r'Octicon[^>]*star[^>]*</svg>\s*([\d,]+)', article_html)
+            stars = stars_match.group(1).strip() if stars_match else ""
+
+            # Extract forks
+            forks_match = re.search(r'Octicon[^>]*repo[-]forked[^>]*</svg>\s*([\d,]+)', article_html)
+            forks = forks_match.group(1).strip() if forks_match else ""
+
+            # Extract today stars
+            today_match = re.search(r'([\d,]+)\s+stars\s+today', article_html, re.IGNORECASE)
+            today_stars = today_match.group(1).strip() if today_match else ""
+
+            # Build description with details
+            full_desc = description
+            details_parts = []
+            if stars:
+                details_parts.append(f"⭐ {stars} stars")
+            if forks:
+                details_parts.append(f"⑂ {forks} forks")
+            if today_stars:
+                details_parts.append(f"📈 {today_stars} today")
+            if details_parts:
+                extra = " · ".join(details_parts)
+                if full_desc:
+                    full_desc = f"{full_desc}\n({extra})"
+                else:
+                    full_desc = extra
+
+            trending_items.append({
+                "title": repo_name,
+                "url": f"https://github.com{repo_path}",
+                "description": full_desc[:300],
+                "language": language,
+                "source": "GitHub Trending",
+                "site": "github.com/trending"
+            })
+
+            if len(trending_items) >= 25:
+                break
+
+        print(f"    GitHub Trending: {len(trending_items)} items")
 
     save_json("trending", trending_items)
 

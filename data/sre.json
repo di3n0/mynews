@@ -1,156 +1,186 @@
 {
-  "updated": "2026-06-28 14:43",
+  "updated": "2026-06-28 14:58",
   "category": "Sre",
   "items": [
     {
       "title": "About SRE Weekly",
       "url": "https://sreweekly.com/about-sre-weekly-2/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Sponsorship Information",
       "url": "https://sreweekly.com/sponsorship-information/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "SRE Weekly Issue #522",
       "url": "https://sreweekly.com/sre-weekly-issue-522/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "View on sreweekly.com",
       "url": "https://sreweekly.com/sre-weekly-issue-522/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "See the full results",
       "url": "https://sreweekly.com/link/522",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Incident status updates are a translation problem, and the right translator probably isn’t in Engineering",
       "url": "https://greatcircle.com/blog/2026/03/31/status-update-translation/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
       "url": "https://blog.cloudflare.com/scaling-security-scans/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Vibe-Coded Infra Is Your New Reliability Hazard",
       "url": "https://hackernoon.com/vibe-coded-infra-is-your-new-reliability-hazard",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "An incident response playbook for satellite operations on AWS (Part-1): Detection and forensic readiness",
       "url": "https://aws.amazon.com/blogs/publicsector/an-incident-response-playbook-for-satellite-operations-on-aws-part-1-detection-and-forensic-readiness/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Incident Fest &#8217;26",
       "url": "https://www.uptimelabs.io/incident-fest-26",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "The feedback loops behind Kubernetes",
       "url": "https://planetscale.com/blog/the-feedback-loops-behind-kubernetes",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Meet Alice. Alice is impatient.",
       "url": "http://brooker.co.za/blog/2026/06/19/waiting.html",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "SRE Weekly Issue #521",
       "url": "https://sreweekly.com/sre-weekly-issue-521/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "View on sreweekly.com",
       "url": "https://sreweekly.com/sre-weekly-issue-521/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Try Bronto today",
       "url": "https://sreweekly.com/link/521",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "In incidents, swarming is a feature, not a bug",
       "url": "https://greatcircle.com/blog/2026/03/24/swarming-is-a-feature/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Exactly Once Processing: Myth vs Reality",
       "url": "https://dzone.com/articles/exactly-once-processing",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "How we reduced core unit boot time from hours to minutes",
       "url": "https://blog.cloudflare.com/optimizing-core-unit-boot-time/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
       "url": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
       "url": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "When failover isn’t safe: Building high-availability PostgreSQL on Kubernetes",
       "url": "https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "When Claude changed, everything changed: Managing AI blast radius in production",
       "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Why we need resilient software design &#8211; Part 2",
       "url": "https://www.ufried.com/blog/why_resilient_software_design_2/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "SRE Weekly Issue #520",
       "url": "https://sreweekly.com/sre-weekly-issue-520/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "View on sreweekly.com",
       "url": "https://sreweekly.com/sre-weekly-issue-520/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Prevent incidents proactively",
       "url": "https://sreweekly.com/link/520",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "AI Agents Expose a Design Gap in Microservices Resilience",
       "url": "https://dzone.com/articles/ai-agents-expose-a-design-gap-in-microservices-res",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
       "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "Reddit r/sre: How long does your company give new people before they put them oncall",
       "url": "https://www.reddit.com/r/sre/comments/1tnh70c/how_long_does_your_company_give_new_people_before/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     },
     {
       "title": "u/modern_medicine_isnt",
       "url": "https://www.reddit.com/user/modern_medicine_isnt/",
-      "source": "SRE Weekly"
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
     }
   ]
 }
