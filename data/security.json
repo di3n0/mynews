@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-29 01:21",
+  "updated": "2026-06-29 06:00",
   "category": "Security",
   "items": [
+    {
+      "title": "Linux被揭露新的本機權限提升漏洞DirtyClone，CVSS嚴重度評分高達8.8分",
+      "url": "https://www.ithome.com.tw/news/176913",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
     {
       "title": "Linux存在新的本機權限提升漏洞pedit COW，搭配5.18版至 7.1-rc6版核心的系統均可能受影響",
       "url": "https://www.ithome.com.tw/news/176912",
@@ -83,12 +89,6 @@
     {
       "title": "Deno 2.9新增桌面應用工具，網頁專案可封裝成跨平臺應用程式",
       "url": "https://www.ithome.com.tw/news/176895",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "產品體驗平臺公司Pendo、雲端通訊服務廠商8×8受Klue供應鏈攻擊影響，並引發資料外洩",
-      "url": "https://www.ithome.com.tw/news/176896",
       "source": "iThome",
       "site": "ithome.com.tw"
     },

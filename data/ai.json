@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 01:22",
+  "updated": "2026-06-29 06:01",
   "category": "Ai",
   "items": [
     {
@@ -93,14 +93,44 @@
       "site": "deeplearning.ai"
     },
     {
-      "title": "5k Restaurant Menus, Years 1880-1920",
-      "url": "https://pudding.cool/2026/06/menu-collection/",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Librepods: AirPods liberated",
+      "url": "https://github.com/librepods-org/librepods",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The Boeing 747 begins its final descent",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -111,26 +141,26 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Examining circuit boards from the Space Shuttle's I&#x2F;O Processor",
-      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The curious case of the disappearing Polish S (2015)",
-      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C&#x2F;CUDA from scratch",
+      "url": "https://github.com/JustVugg/nanoeuler",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-      "url": "https://github.com/openai/codex/issues/2847",
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "url": "https://github.com/kamaludu/bash4llm/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Flock cameras track more than your license plate, and they're spreading fast",
-      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -141,44 +171,62 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
-      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "EU to legislate about Chat Control behind closed doors",
-      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "title": "Examining circuit boards from the Space Shuttle's I&#x2F;O Processor",
+      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Do Babies Dream of Baby Sheep?",
-      "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Tokenmaxxing is dead, long live Tokenmaxxing",
-      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "title": "Staying Awake (2008)",
+      "url": "https://harpers.org/archive/2008/02/staying-awake/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "title": "Show HN: DRM-Free Books",
+      "url": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "California legislature agrees to upload driver's licenses to national database",
-      "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
+      "title": "The US Used to Demand the Best Tech. Now We Ban It",
+      "url": "https://www.pcmag.com/opinions/the-us-used-to-demand-the-best-tech-now-we-ban-it",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "DLL that was not present in memory despite not being formally unloaded",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "title": "Do LLMs pass the mirror test?",
+      "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa",
+      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -189,62 +237,62 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Reflections on Software Engineering in the Age of AI",
-      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+      "title": "The KIDS Act would require age checks to get online",
+      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Google limits Meta's use of its Gemini AI models",
-      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
+      "title": "403 Forbidden / Authorization failed error",
+      "url": "https://forums.developer.nvidia.com/t/403-forbidden-authorization-failed-error/374828",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Bringing Swift to the Apple ][",
-      "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
+      "title": "Docker Image: NVIDIA vLLM 0.23.0 with Claude Code 2.1.195+ Compatibility",
+      "url": "https://forums.developer.nvidia.com/t/docker-image-nvidia-vllm-0-23-0-with-claude-code-2-1-195-compatibility/374827",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "The Boeing 747 Begins Its Final Descent",
-      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
+      "title": "Eigr&#39;s gold by Leathery Tendons",
+      "url": "https://forums.developer.nvidia.com/t/eigrs-gold-by-leathery-tendons/374826",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Programmable Probabilistic Computer with 1M p-bits",
-      "url": "https://arxiv.org/abs/2606.25313",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
+      "title": "Bug Report: Random rendering freezes in Proton games on RTX 50-series cards (recovers after Alt+Tab/window refocus)",
+      "url": "https://forums.developer.nvidia.com/t/bug-report-random-rendering-freezes-in-proton-games-on-rtx-50-series-cards-recovers-after-alt-tab-window-refocus/374825",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
-      "url": "https://github.com/open-energy-transition/open-tyndp",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
+      "title": "ASL dataset missing in Lab 4a (sign_mnist_train.csv and sign_mnist_valid.csv not found)",
+      "url": "https://forums.developer.nvidia.com/t/asl-dataset-missing-in-lab-4a-sign-mnist-train-csv-and-sign-mnist-valid-csv-not-found/374824",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
-      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
+      "title": "Manual Account Verification Request – Region: Russia",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-russia/374822",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
+      "title": "Hybrid Edge-Cloud modular VLA(Vision Language Action) Pipeline using NVIDIA NIM for Autonomous Driving",
+      "url": "https://forums.developer.nvidia.com/t/hybrid-edge-cloud-modular-vla-vision-language-action-pipeline-using-nvidia-nim-for-autonomous-driving/374818",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
+      "title": "Feature request: Support for legacy driver 390.xx on modern Linux kernels (6.8+)",
+      "url": "https://forums.developer.nvidia.com/t/feature-request-support-for-legacy-driver-390-xx-on-modern-linux-kernels-6-8/374817",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Bug Report: VRAM not reclaimed for sampled cross-process dma_buf imports",
-      "url": "https://forums.developer.nvidia.com/t/bug-report-vram-not-reclaimed-for-sampled-cross-process-dma-buf-imports/374816",
+      "title": "Bug Report: VRAM not reclaimed for sampled cross-process dma_buf imports in 595.71.05 driver",
+      "url": "https://forums.developer.nvidia.com/t/bug-report-vram-not-reclaimed-for-sampled-cross-process-dma-buf-imports-in-595-71-05-driver/374816",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -281,54 +329,6 @@
     {
       "title": "RTX5060笔记本ubuntu,显卡驱动595.71,内核版本6.17.0-35-generic,isaacsim5.1无法使用，尝试过isaacsim6.0可以使用但是有bug",
       "url": "https://forums.developer.nvidia.com/t/rtx5060-ubuntu-595-71-6-17-0-35-generic-isaacsim5-1-isaacsim6-0-bug/374808",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Manual Account Verification Request – Region: Bangladesh (+880)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-bangladesh-880/374807",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "DGX Spark shuts down within minutes after OS reinstall (kernel panic during first boot update)",
-      "url": "https://forums.developer.nvidia.com/t/dgx-spark-shuts-down-within-minutes-after-os-reinstall-kernel-panic-during-first-boot-update/374806",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Unable to verify phone number (+92 Pakistan) for NVIDIA Build",
-      "url": "https://forums.developer.nvidia.com/t/unable-to-verify-phone-number-92-pakistan-for-nvidia-build/374804",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Slow performance of VIC based rectification",
-      "url": "https://forums.developer.nvidia.com/t/slow-performance-of-vic-based-rectification/374803",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Manual Verification Request – Bangladesh (+880)",
-      "url": "https://forums.developer.nvidia.com/t/manual-verification-request-bangladesh-880/374802",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Ornith-1.0-35B-int4-AutoRound For GB10",
-      "url": "https://forums.developer.nvidia.com/t/ornith-1-0-35b-int4-autoround-for-gb10/374801",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "GB10 (Asus GX10) GPU maxing out at 60W, firmware/platform cap? Need help",
-      "url": "https://forums.developer.nvidia.com/t/gb10-asus-gx10-gpu-maxing-out-at-60w-firmware-platform-cap-need-help/374791",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Request to enable \"Public API Endpoints\" permission for Personal Organization (403 Forbidden)",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-personal-organization-403-forbidden/374790",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -411,14 +411,14 @@
       "site": "huggingface.co"
     },
     {
-      "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
-      "url": "https://huggingface.co/papers/2606.27192",
+      "title": "Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "url": "https://huggingface.co/papers/2606.27226",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
-      "url": "https://huggingface.co/papers/2606.27163",
+      "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
+      "url": "https://huggingface.co/papers/2606.27192",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
