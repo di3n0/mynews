@@ -1,76 +1,10 @@
 {
-  "updated": "2026-06-29 00:37",
+  "updated": "2026-06-29 00:47",
   "category": "Sre",
   "items": [
     {
-      "title": "About SRE Weekly",
-      "url": "https://sreweekly.com/about-sre-weekly-2/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Sponsorship Information",
-      "url": "https://sreweekly.com/sponsorship-information/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
       "title": "SRE Weekly Issue #522",
       "url": "https://sreweekly.com/sre-weekly-issue-522/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "View on sreweekly.com",
-      "url": "https://sreweekly.com/sre-weekly-issue-522/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "See the full results",
-      "url": "https://sreweekly.com/link/522",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Incident status updates are a translation problem, and the right translator probably isn’t in Engineering",
-      "url": "https://greatcircle.com/blog/2026/03/31/status-update-translation/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
-      "url": "https://blog.cloudflare.com/scaling-security-scans/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Vibe-Coded Infra Is Your New Reliability Hazard",
-      "url": "https://hackernoon.com/vibe-coded-infra-is-your-new-reliability-hazard",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "An incident response playbook for satellite operations on AWS (Part-1): Detection and forensic readiness",
-      "url": "https://aws.amazon.com/blogs/publicsector/an-incident-response-playbook-for-satellite-operations-on-aws-part-1-detection-and-forensic-readiness/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Incident Fest &#8217;26",
-      "url": "https://www.uptimelabs.io/incident-fest-26",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "The feedback loops behind Kubernetes",
-      "url": "https://planetscale.com/blog/the-feedback-loops-behind-kubernetes",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Meet Alice. Alice is impatient.",
-      "url": "http://brooker.co.za/blog/2026/06/19/waiting.html",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
@@ -81,106 +15,112 @@
       "site": "sreweekly.com"
     },
     {
-      "title": "View on sreweekly.com",
-      "url": "https://sreweekly.com/sre-weekly-issue-521/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Try Bronto today",
-      "url": "https://sreweekly.com/link/521",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "In incidents, swarming is a feature, not a bug",
-      "url": "https://greatcircle.com/blog/2026/03/24/swarming-is-a-feature/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Exactly Once Processing: Myth vs Reality",
-      "url": "https://dzone.com/articles/exactly-once-processing",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "How we reduced core unit boot time from hours to minutes",
-      "url": "https://blog.cloudflare.com/optimizing-core-unit-boot-time/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
-      "url": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Sitar-agent: Building a reliable dynamic configuration sidecar at scale",
-      "url": "https://medium.com/airbnb-engineering/sitar-agent-building-a-reliable-dynamic-configuration-sidecar-at-scale-b7e00c152068",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "When failover isn’t safe: Building high-availability PostgreSQL on Kubernetes",
-      "url": "https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "When Claude changed, everything changed: Managing AI blast radius in production",
-      "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Why we need resilient software design &#8211; Part 2",
-      "url": "https://www.ufried.com/blog/why_resilient_software_design_2/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
       "title": "SRE Weekly Issue #520",
       "url": "https://sreweekly.com/sre-weekly-issue-520/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
     {
-      "title": "View on sreweekly.com",
-      "url": "https://sreweekly.com/sre-weekly-issue-520/",
+      "title": "SRE Weekly Issue #519",
+      "url": "https://sreweekly.com/sre-weekly-issue-519/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
     {
-      "title": "Prevent incidents proactively",
-      "url": "https://sreweekly.com/link/520",
+      "title": "SRE Weekly Issue #518",
+      "url": "https://sreweekly.com/sre-weekly-issue-518/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
     {
-      "title": "AI Agents Expose a Design Gap in Microservices Resilience",
-      "url": "https://dzone.com/articles/ai-agents-expose-a-design-gap-in-microservices-res",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
+      "title": "Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop",
+      "url": "https://www.infoq.com/news/2026/06/swift-6-4-beta-features/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
-      "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
-      "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
+      "title": "AWS Previews FinOps Agent for Cost Analysis and Optimization",
+      "url": "https://www.infoq.com/news/2026/06/aws-finops-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
-      "title": "Reddit r/sre: How long does your company give new people before they put them oncall",
-      "url": "https://www.reddit.com/r/sre/comments/1tnh70c/how_long_does_your_company_give_new_people_before/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
+      "title": "AWS Introduces Workload Credentials Provider for Automated Certificate and Secret Management",
+      "url": "https://www.infoq.com/news/2026/06/aws-credentials-provider/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
-      "title": "u/modern_medicine_isnt",
-      "url": "https://www.reddit.com/user/modern_medicine_isnt/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
+      "title": "Vercel Introduces Eve, an Open-Source Framework for Building AI Agents",
+      "url": "https://www.infoq.com/news/2026/06/vercel-eve-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: AI Works, Pull Requests Don’t: How AI Is Breaking the SDLC and What To Do About It",
+      "url": "https://www.infoq.com/presentations/ai-sdlc-pull-request/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Argo CD 3.5 Tightens Supply Chain Security with Internal mTLS and Source Integrity",
+      "url": "https://www.infoq.com/news/2026/06/argocd-supply-chain-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Dapr 1.18 Introduces Verifiable Execution, Bringing Cryptographic Trust to AI Agents and Workflows",
+      "url": "https://www.infoq.com/news/2026/06/dapr-1-18-cryptographic-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "How Cloudflare Solved a Congestion Bug in quiche",
+      "url": "https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Building a European Cloud Orchestration Platform within an Enterprise",
+      "url": "https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: Rust at the Core - Accelerating Polyglot SDK Development",
+      "url": "https://www.infoq.com/presentations/rust-polyglot-sdk/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Cloudflare Ships Agent Skills for Zero Trust Deployment and Migration",
+      "url": "https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform",
+      "url": "https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Grab Builds Secure Agentic AI Workload Platform",
+      "url": "https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Anthropic Lead: HTML Increasingly Better Than Markdown at Keeping Humans Engaged in Agentic Loops",
+      "url": "https://www.infoq.com/news/2026/06/anthropic-html-markdown-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-Tuning",
+      "url": "https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 00:37",
+  "updated": "2026-06-29 00:47",
   "category": "Trending",
   "items": [
     {
@@ -29,7 +29,7 @@
     {
       "title": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag\n(📈 1,456 today)",
+      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.\n(📈 1,456 today)",
       "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
@@ -45,7 +45,7 @@
     {
       "title": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary\n(📈 2,162 today)",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.\n(📈 2,162 today)",
       "language": "C",
       "source": "GitHub Trending",
       "site": "github.com/trending"
