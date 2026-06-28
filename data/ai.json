@@ -1,12 +1,72 @@
 {
-  "updated": "2026-06-28 16:00",
+  "updated": "2026-06-29 00:37",
   "category": "Ai",
   "items": [
     {
-      "title": "Voice for AI Agents and Applications",
-      "url": "https://bit.ly/4vWtmln",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
+      "title": "EU Open Sources Ten-Year Network Development Planning Tools",
+      "url": "https://github.com/open-energy-transition/open-tyndp",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "5k Restaurant Menus, Years 1880-1920",
+      "url": "https://pudding.cool/2026/06/menu-collection/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "url": "https://github.com/openai/codex/issues/2847",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "EU to legislate about Chat Control behind closed doors",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Flock cameras track more than your license plate, and they're spreading fast",
+      "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Examining circuit boards from the Space Shuttle's I&#x2F;O Processor",
+      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "California legislature agrees to upload driver's licenses to national database",
+      "url": "https://papersplease.org/wp/2026/06/27/california-legislature-agrees-to-upload-drivers-licenses-to-national-database/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Michigan bill would bar employers from requiring after-hours coms with workers",
+      "url": "https://www.cbsnews.com/detroit/news/workplace-boundaries-act-employees-after-hours/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Do Babies Dream of Baby Sheep?",
+      "url": "https://devz.cl/posts/do-babies-dream-of-electric-sheep/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
     },
     {
       "title": "Marfa Public Radio Puts You to Sleep",
@@ -15,14 +75,50 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
+      "title": "Show HN: Zanagrams",
+      "url": "https://zanagrams.com/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Bashblog – a single bash script to create blogs",
-      "url": "https://github.com/cfenollosa/bashblog",
+      "title": "The MUMPS 76 Primer – anniversary edition",
+      "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "DLL that was not present in memory despite not being formally unloaded",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Google limits Meta's use of its Gemini AI models",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Does Your Paper Really Suck?",
+      "url": "https://www.sina.bio/posts/does-your-paper-really-suck.html",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Bringing Swift to the Apple ][",
+      "url": "https://yeokhengmeng.com/2026/06/swift-on-apple-ii/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The origins of the school system aimed to produce independent, critical thinkers",
+      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Designing a Personal Pebble Watchface",
+      "url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -33,20 +129,8 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -57,104 +141,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Engineering for Bounded Cognition",
-      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Space Shuttle Endeavour's 20-story vertical display",
-      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "The case for physical media ownership",
-      "url": "https://dervis.de/physical/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Regular expressions that work \"everywhere\"",
-      "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Experimenting with Random() in CSS",
-      "url": "https://polypane.app/blog/experimenting-with-random-in-css/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Turning music into a chore is how I became a musician (2022)",
-      "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Reflecting to optimise",
-      "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Feds Killed Polestar and Spared Volvo",
-      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "The best response to AI slop and online noise is from Robin Williams",
-      "url": "https://jayacunzo.com/blog/your-move-chief",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Enhancing X11 Application Security with LXC (2025)",
-      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     }
