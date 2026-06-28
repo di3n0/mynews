@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28 14:58",
+  "updated": "2026-06-28 16:00",
   "category": "Ai",
   "items": [
     {
@@ -17,6 +17,12 @@
     {
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
       "url": "https://github.com/itsthelore/wayfinder-router",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Bashblog – a single bash script to create blogs",
+      "url": "https://github.com/cfenollosa/bashblog",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -51,20 +57,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Bashblog – a single bash script to create blogs",
-      "url": "https://github.com/cfenollosa/bashblog",
+      "title": "Engineering for Bounded Cognition",
+      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
       "title": "Ford hired AI and sacked humans. It backfired badly",
       "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "The Shape of the System - Engineering for Bounded Cognition",
-      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -93,26 +93,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
       "title": "Regular expressions that work \"everywhere\"",
       "url": "https://www.johndcook.com/blog/2026/06/23/regex-everywhere/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
-      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Reflecting to optimise",
-      "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -123,38 +111,50 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
       "title": "Asian AI startups launch Mythos-like models",
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Enhancing X11 Application Security with LXC",
-      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "title": "Experimenting with Random() in CSS",
+      "url": "https://polypane.app/blog/experimenting-with-random-in-css/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Turning music into a chore is how I became a musician",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Turning music into a chore is how I became a musician (2022)",
       "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Suspicious Discontinuities (2020)",
-      "url": "https://danluu.com/discontinuities/",
+      "title": "Reflecting to optimise",
+      "url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "title": "Feds Killed Polestar and Spared Volvo",
+      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The best response to AI slop and online noise is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Enhancing X11 Application Security with LXC (2025)",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     }
