@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28 13:00",
+  "updated": "2026-06-28 14:43",
   "category": "Security",
   "items": [
     {
@@ -8,13 +8,38 @@
       "source": "iThome"
     },
     {
-      "title": "IT EXPLAINED",
-      "url": "https://webinar.ithome.com.tw/",
+      "title": "因應FortiBleed外洩大量Fortinet設備登入憑證，英國NCSC建議企業可先用兩款工具自行檢測是否名列其中",
+      "url": "https://www.ithome.com.tw/news/176757",
       "source": "iThome"
     },
     {
-      "title": "南非殯葬與保險巨頭遭駭導致服務中斷，改人工作業並證實個資外洩",
-      "url": "https://www.ithome.com.tw/news/176903",
+      "title": "殭屍網路AryStinger感染約4千臺D-Link路由器",
+      "url": "https://www.ithome.com.tw/news/176759",
+      "source": "iThome"
+    },
+    {
+      "title": "IBM發表0.7奈米晶片，靠3D堆疊架構讓電晶體密度翻倍",
+      "url": "https://www.ithome.com.tw/news/176880",
+      "source": "iThome"
+    },
+    {
+      "title": "北市府「AI龍蝦」出任務！北市以OpenClaw打造公務AI助理CiviClaw開始公務應用測試",
+      "url": "https://www.ithome.com.tw/news/176804",
+      "source": "iThome"
+    },
+    {
+      "title": "LG與三星智慧電視逾三成App讓用戶電視慘變代理伺服器節點",
+      "url": "https://www.ithome.com.tw/news/176829",
+      "source": "iThome"
+    },
+    {
+      "title": "微軟悄悄展延Windows 10 ESU到2027年10月",
+      "url": "https://www.ithome.com.tw/news/176897",
+      "source": "iThome"
+    },
+    {
+      "title": "FortiBleed曝光逾7萬臺Fortinet設備憑證資料，臺灣受影響數量居全球第三",
+      "url": "https://www.ithome.com.tw/news/176718",
       "source": "iThome"
     },
     {
@@ -28,54 +53,34 @@
       "source": "iThome"
     },
     {
+      "title": "MedTech醫療科技雙周報第51期：健保署今年將擴增LOINC上傳欄位、醫學中心優先試傳",
+      "url": "https://www.ithome.com.tw/news/176723",
+      "source": "iThome"
+    },
+    {
       "title": "【資安週報】0608-0612，全球漏洞治理迎來新變革，美國CISA開始勒令高風險漏洞3天內須修補",
       "url": "https://www.ithome.com.tw/news/176582",
       "source": "iThome"
     },
     {
-      "title": "南非殯葬與保險巨頭遭駭導致服務中斷，改人工作業並證實個資外洩",
-      "url": "https://www.ithome.com.tw/news/176903",
+      "title": "【資安週報】0601~0605，漏洞問題成國家嚴防風險，印度要求企業組織在關鍵漏洞公布12小時內完成修補",
+      "url": "https://www.ithome.com.tw/news/176407",
       "source": "iThome"
     },
     {
-      "title": "23個OpenClaw技能外掛利用搶註手法上架ClawHub官方市集",
-      "url": "https://www.ithome.com.tw/news/176905",
+      "title": "Linux存在新的本機權限提升漏洞pedit COW，搭配5.18版至 7.1-rc6版核心的系統均可能受影響",
+      "url": "https://www.ithome.com.tw/news/176912",
       "source": "iThome"
     },
     {
-      "title": "【資安日報】6月26日，執法行動瓦解惡意軟體Amadey、StealC、SocGholish活動",
-      "url": "https://www.ithome.com.tw/news/176902",
+      "title": "本週Google二度發布Chrome 149穩定版更新，修補3項高風險漏洞",
+      "url": "https://www.ithome.com.tw/news/176911",
       "source": "iThome"
     },
     {
-      "title": "Operation Endgame",
-      "url": "https://www.ithome.com.tw/tags/operation-endgame",
-      "source": "iThome"
-    },
-    {
-      "title": "SocGholish",
-      "url": "https://www.ithome.com.tw/tags/socgholish",
-      "source": "iThome"
-    },
-    {
-      "title": "執法行動Operation Endgame瓦解惡意軟體Amadey、StealC、SocGholish的犯罪網路",
-      "url": "https://www.ithome.com.tw/news/176899",
-      "source": "iThome"
-    },
-    {
-      "title": "Klue供應鏈攻擊影響範圍擴大，AI營收情資平臺Gong的用戶也受到波及",
-      "url": "https://www.ithome.com.tw/news/176898",
-      "source": "iThome"
-    },
-    {
-      "title": "Windows 10",
-      "url": "https://www.ithome.com.tw/tags/windows-10",
-      "source": "iThome"
-    },
-    {
-      "title": "微軟悄悄展延Windows 10 ESU到2027年10月",
-      "url": "https://www.ithome.com.tw/news/176897",
-      "source": "iThome"
+      "title": "2026 政府資安論壇",
+      "url": "https://www.informationsecurity.com.tw/event/",
+      "source": "資安人"
     }
   ]
 }

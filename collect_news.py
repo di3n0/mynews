@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Daily news collector for /home/dieno/mynews
-分類: Security, AI, SRE
-Output: data/security.json, data/ai.json, data/sre.json
+分類: Security, AI, SRE, Trending
+Output: data/security.json, data/ai.json, data/sre.json, data/trending.json
 """
 
 import json
@@ -14,8 +14,7 @@ from pathlib import Path
 
 DATA_DIR = Path("/home/dieno/mynews/data")
 
-def fetch_url(url, timeout=15):
-    """Fetch a URL and return text content."""
+def fetch_url(url, timeout=20):
     try:
         result = subprocess.run(
             ["curl", "-sL", "--connect-timeout", "10", "--max-time", str(timeout), url],
@@ -27,32 +26,26 @@ def fetch_url(url, timeout=15):
         print(f"  Error fetching {url}: {e}", file=sys.stderr)
     return ""
 
-def extract_links(html, url_pattern=None, min_len=5):
-    """Extract (title, url) pairs from HTML."""
+def extract_links(html, min_len=5):
     items = []
-    # Match <a ... href="..." ...>TITLE</a>
     pattern = re.compile(r'<a[^>]*href="([^"]+)"[^>]*>([^<]+)</a>', re.IGNORECASE | re.DOTALL)
     for m in pattern.finditer(html):
         url = m.group(1).strip()
         title = m.group(2).strip()
-        title = re.sub(r'<[^>]+>', '', title)  # strip inner HTML
+        title = re.sub(r'<[^>]+>', '', title)
         if not title or len(title) < min_len:
             continue
         if url.startswith("#") or url.startswith("javascript:"):
-            continue
-        if url_pattern and url_pattern not in url:
             continue
         items.append((title, url))
     return items
 
 def clean_title(title):
-    """Clean up a title string."""
     title = re.sub(r'\s+', ' ', title).strip()
     title = title.replace('&#x27;', "'").replace('&amp;', '&').replace('&quot;', '"').replace('&lt;', '<').replace('&gt;', '>')
-    return title[:150]
+    return title[:200]
 
 def make_absolute(url, base):
-    """Convert relative URL to absolute."""
     if url.startswith("http"):
         return url
     if url.startswith("//"):
@@ -64,7 +57,6 @@ def make_absolute(url, base):
     return base.rstrip("/") + "/" + url.lstrip("/")
 
 def save_json(category, items):
-    """Save items to JSON file."""
     filepath = DATA_DIR / f"{category}.json"
     data = {
         "updated": datetime.now().strftime("%Y-%m-%d %H:%M"),
@@ -77,20 +69,24 @@ def save_json(category, items):
 
 def main():
     print(f"[{datetime.now().strftime('%H:%M')}] Collecting news...")
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
 
     # === Security ===
     print("  Security:")
     security_items = []
 
-    print("    Fetching iThome (資安)...")
-    html = fetch_url("https://www.ithome.com.tw/security")
+    print("    Fetching iThome...")
+    html = fetch_url("https://www.ithome.com.tw/")
     if html:
         links = extract_links(html, min_len=10)
         for title, url in links:
+            clean_url = make_absolute(url, "https://www.ithome.com.tw")
+            if "?page=" in clean_url:
+                continue
+            if len(title) < 15:
+                continue
             security_items.append({
                 "title": clean_title(title),
-                "url": make_absolute(url, "https://www.ithome.com.tw"),
+                "url": clean_url,
                 "source": "iThome"
             })
             if len(security_items) >= 15:
@@ -98,20 +94,27 @@ def main():
         print(f"    iThome: {len(security_items)} items")
 
     print("    Fetching 資安人...")
-    html = fetch_url("https://www.secumanager.com/")
+    html = fetch_url("https://www.informationsecurity.com.tw/main/index.aspx")
     if html:
         links = extract_links(html, min_len=10)
-        secumanager_count = 0
+        count = 0
+        seen_urls = set()
         for title, url in links:
+            clean_url = make_absolute(url, "https://www.informationsecurity.com.tw")
+            if clean_url in seen_urls:
+                continue
+            seen_urls.add(clean_url)
+            if len(clean_url) < 30 or "?" in clean_url:
+                continue
             security_items.append({
                 "title": clean_title(title),
-                "url": make_absolute(url, "https://www.secumanager.com"),
+                "url": clean_url,
                 "source": "資安人"
             })
-            secumanager_count += 1
-            if secumanager_count >= 10:
+            count += 1
+            if count >= 10:
                 break
-        print(f"    資安人: {secumanager_count} items")
+        print(f"    資安人: {count} items")
 
     save_json("security", security_items)
 
@@ -119,31 +122,48 @@ def main():
     print("  AI:")
     ai_items = []
 
-    print("    Fetching GitHub Trending...")
-    html = fetch_url("https://github.com/trending")
-    if html:
-        gh_pattern = re.compile(r'<h[23][^>]*>\s*<a[^>]*href="(/\w[^"]+)"[^>]*>([^<]+)</a>', re.IGNORECASE)
-        for m in gh_pattern.finditer(html):
-            repo_path = m.group(1).strip()
-            title = m.group(2).strip()
-            if repo_path.count("/") == 2:
-                ai_items.append({
-                    "title": f"{title.strip('/')}",
-                    "url": f"https://github.com{repo_path}",
-                    "source": "GitHub Trending"
-                })
-                if len([x for x in ai_items if x["source"] == "GitHub Trending"]) >= 15:
-                    break
-        print(f"    GitHub Trending: {len([x for x in ai_items if x['source'] == 'GitHub Trending'])} items")
-
-    print("    Fetching DeepLearning.ai...")
+    # DeepLearning.ai — find the latest weekly issue link, then scrape it
+    print("    Fetching DeepLearning.ai The Batch...")
     html = fetch_url("https://www.deeplearning.ai/the-batch/")
     if html:
-        links = extract_links(html, min_len=15)
-        dl_count = 0
-        for title, url in links:
-            title_lower = title.lower()
-            if any(kw in title_lower for kw in ["ai", "model", "learning", "neural", "gpt", "llm", "machine", "data", "robot", "compute", "gpu", "research"]):
+        # Find the first "Read the Issue" or link to a specific issue article
+        issue_links = re.findall(r'href="(/the-batch/[^"#?]+)"', html)
+        # Filter out the main /the-batch/ page link, find actual article links
+        articles = [l for l in issue_links if l != "/the-batch/" and l != "/the-batch"]
+        # Also look for article cards
+        article_matches = re.findall(r'href="(https?://www\.deeplearning\.ai/the-batch/[^"#?]+)"', html)
+        articles.extend([a for a in article_matches if a not in articles])
+        
+        issue_url = articles[0] if articles else None
+        
+        if issue_url:
+            print(f"      Found latest issue: {issue_url}")
+            issue_html = fetch_url(issue_url)
+            if issue_html:
+                links = extract_links(issue_html, min_len=15)
+                dl_count = 0
+                for title, url in links:
+                    clean = make_absolute(url, "https://www.deeplearning.ai")
+                    title_clean = clean_title(title)
+                    # Skip navigation/header/footer
+                    if any(skip in title_clean.lower() for skip in ["subscribe", "sign up", "newsletter", "archive", "search", "the batch"]):
+                        continue
+                    ai_items.append({
+                        "title": title_clean,
+                        "url": clean,
+                        "source": "DeepLearning.ai"
+                    })
+                    dl_count += 1
+                    if dl_count >= 15:
+                        break
+                print(f"      DeepLearning.ai: {dl_count} items")
+            else:
+                print(f"      Failed to fetch issue page")
+        else:
+            print(f"      No issue link found, falling back to page links")
+            links = extract_links(html, min_len=20)
+            dl_count = 0
+            for title, url in links:
                 ai_items.append({
                     "title": clean_title(title),
                     "url": make_absolute(url, "https://www.deeplearning.ai"),
@@ -152,9 +172,10 @@ def main():
                 dl_count += 1
                 if dl_count >= 10:
                     break
-        print(f"    DeepLearning.ai: {dl_count} items")
+            print(f"      DeepLearning.ai (fallback): {dl_count} items")
 
-    print("    Fetching Hacker News...")
+    # Hacker News — front page is the "hot/active" stories (ranked by algorithm)
+    print("    Fetching Hacker News (hot)...")
     html = fetch_url("https://news.ycombinator.com/")
     if html:
         hn_pattern = re.compile(r'class="titleline"[^>]*>\s*<a[^>]*href="([^"]+)"[^>]*>([^<]+)', re.IGNORECASE)
@@ -170,7 +191,7 @@ def main():
                 "source": "Hacker News"
             })
             hn_count += 1
-            if hn_count >= 20:
+            if hn_count >= 25:
                 break
         print(f"    Hacker News: {hn_count} items")
 
@@ -186,7 +207,6 @@ def main():
     if html:
         links = extract_links(html, min_len=15)
         for title, url in links:
-            # Skip navigation/social links
             if any(skip in url for skip in ["sreweekly.com/category", "sreweekly.com/tag", "twitter.com", "facebook.com", "linkedin.com"]):
                 continue
             if any(skip in title.lower() for skip in ["subscribe", "archives", "search", "login"]):
@@ -201,6 +221,56 @@ def main():
         print(f"    SRE Weekly: {len(sre_items)} items")
 
     save_json("sre", sre_items)
+
+    # === GitHub Trending ===
+    print("  Trending:")
+    trending_items = []
+
+    print("    Fetching GitHub Trending...")
+    html = fetch_url("https://github.com/trending")
+    if html:
+        # Parse repo article blocks
+        # Each trending repo has a structure like:
+        # <h2><a href="/owner/repo">owner / repo</a></h2>
+        # <p>description</p>
+        # <span>language</span>
+        repo_pattern = re.compile(
+            r'<h2[^>]*>\s*<a[^>]*href="(/\w[^"]+)"[^>]*>([^<]+)</a>',
+            re.IGNORECASE
+        )
+        desc_pattern = re.compile(
+            r'<p[^>]*class="col-9[^"]*"[^>]*>\s*(.+?)\s*</p>',
+            re.IGNORECASE | re.DOTALL
+        )
+        lang_pattern = re.compile(
+            r'<span[^>]*itemprop="programmingLanguage"[^>]*>([^<]+)</span>',
+            re.IGNORECASE
+        )
+
+        # Get all descriptions and languages
+        descriptions = [clean_title(m.group(1)) for m in desc_pattern.finditer(html)]
+        languages = [m.group(1).strip() for m in lang_pattern.finditer(html)]
+        
+        repo_count = 0
+        for m in repo_pattern.finditer(html):
+            repo_path = m.group(1).strip()
+            title = m.group(2).strip().replace('\n', '').replace('  ', ' ')
+            if repo_path.count("/") == 2:
+                desc = descriptions[repo_count] if repo_count < len(descriptions) else ""
+                lang = languages[repo_count] if repo_count < len(languages) else ""
+                trending_items.append({
+                    "title": title.strip(),
+                    "url": f"https://github.com{repo_path}",
+                    "description": desc[:300],
+                    "language": lang,
+                    "source": "GitHub Trending"
+                })
+                repo_count += 1
+                if repo_count >= 25:
+                    break
+        print(f"    GitHub Trending: {repo_count} items")
+
+    save_json("trending", trending_items)
 
     print("Done!")
 

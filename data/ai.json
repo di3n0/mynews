@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28 13:00",
+  "updated": "2026-06-28 14:43",
   "category": "Ai",
   "items": [
     {
@@ -13,6 +13,11 @@
       "source": "Hacker News"
     },
     {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "source": "Hacker News"
+    },
+    {
       "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
       "url": "https://decomp-academy.dev",
       "source": "Hacker News"
@@ -20,11 +25,6 @@
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
       "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
       "source": "Hacker News"
     },
     {
@@ -48,8 +48,18 @@
       "source": "Hacker News"
     },
     {
+      "title": "Bashblog – a single bash script to create blogs",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "source": "Hacker News"
+    },
+    {
       "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
       "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
       "source": "Hacker News"
     },
     {
@@ -63,28 +73,8 @@
       "source": "Hacker News"
     },
     {
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Enhancing X11 Application Security with LXC",
-      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
-      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
       "source": "Hacker News"
     },
     {
@@ -93,18 +83,53 @@
       "source": "Hacker News"
     },
     {
-      "title": "The Shape of the System - Engineering for Bounded Cognition",
-      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "source": "Hacker News"
     },
     {
-      "title": "Response to AI slop is from Robin Williams",
-      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
       "source": "Hacker News"
     },
     {
       "title": "Asian AI startups launch Mythos-like models",
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Turning music into a chore is how I became a musician",
+      "url": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Shape of the System - Engineering for Bounded Cognition",
+      "url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Enhancing X11 Application Security with LXC",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Suspicious Discontinuities (2020)",
+      "url": "https://danluu.com/discontinuities/",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+      "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
       "source": "Hacker News"
     }
   ]

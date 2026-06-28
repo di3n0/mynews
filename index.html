@@ -23,6 +23,7 @@
       display: flex;
       gap: 10px;
       margin-bottom: 20px;
+      flex-wrap: wrap;
     }
     .tab-btn {
       padding: 10px 24px;
@@ -53,8 +54,14 @@
       font-size: 14px;
       margin-bottom: 10px;
     }
-    .gridjs-wrapper {
-      overflow-x: auto;
+    .section-desc {
+      color: #8b949e;
+      font-size: 14px;
+      margin-bottom: 16px;
+      padding: 12px;
+      background: #161b22;
+      border-radius: 6px;
+      border-left: 3px solid #58a6ff;
     }
     footer {
       margin-top: 40px;
@@ -73,19 +80,28 @@
     <button class="tab-btn active" onclick="switchTab('security')">🔒 Security</button>
     <button class="tab-btn" onclick="switchTab('ai')">🤖 AI</button>
     <button class="tab-btn" onclick="switchTab('sre')">⚙️ SRE</button>
+    <button class="tab-btn" onclick="switchTab('trending')">🔥 Trending</button>
   </div>
 
   <div id="tab-security" class="tab-content active">
+    <div class="section-desc">來自 iThome 與 資安人的最新資安新聞</div>
     <div class="last-updated" id="updated-security"></div>
     <div id="grid-security"></div>
   </div>
   <div id="tab-ai" class="tab-content">
+    <div class="section-desc">來自 DeepLearning.ai The Batch Weekly Issue 與 Hacker News 熱門文章</div>
     <div class="last-updated" id="updated-ai"></div>
     <div id="grid-ai"></div>
   </div>
   <div id="tab-sre" class="tab-content">
+    <div class="section-desc">來自 SRE Weekly 的最新文章</div>
     <div class="last-updated" id="updated-sre"></div>
     <div id="grid-sre"></div>
+  </div>
+  <div id="tab-trending" class="tab-content">
+    <div class="section-desc">GitHub Trending 每天顯示 GitHub 上最受歡迎的開源專案排行榜，根據星數增長速度排序，讓你快速掌握開源社群的最新動態與熱門技術。</div>
+    <div class="last-updated" id="updated-trending"></div>
+    <div id="grid-trending"></div>
   </div>
 
   <script src="https://unpkg.com/gridjs/dist/gridjs.production.min.js"></script>
@@ -94,14 +110,29 @@
       try {
         const resp = await fetch(file);
         const data = await resp.json();
-        document.getElementById(updatedId).textContent = `更新時間: ${data.updated || 'N/A'}`;
+        document.getElementById(updatedId).textContent = '更新時間: ' + (data.updated || 'N/A');
+        
+        let columns, tableData;
+        if (category === 'trending') {
+          columns = [
+            { name: '專案名稱', width: '25%', formatter: (cell, row) => gridjs.html('<a href="' + row.cells[1].data + '" target="_blank" style="color:#58a6ff;text-decoration:none;font-weight:bold;">' + cell + '</a>') },
+            { name: '說明', width: '50%' },
+            { name: '語言', width: '15%' },
+            { name: '來源', width: '10%', formatter: (cell) => gridjs.html('<span style="color:#8b949e;">' + cell + '</span>') }
+          ];
+          tableData = data.items.map(item => [item.title, item.description || '', item.language || '', item.source]);
+        } else {
+          columns = [
+            { name: '標題', width: '70%', formatter: (cell, row) => gridjs.html('<a href="' + row.cells[1].data + '" target="_blank" style="color:#58a6ff;text-decoration:none;">' + cell + '</a>') },
+            { name: '來源', width: '30%', formatter: (cell) => gridjs.html('<span style="color:#8b949e;">' + cell + '</span>') }
+          ];
+          tableData = data.items.map(item => [item.title, item.url, item.source]);
+        }
+
         new gridjs.Grid({
-          columns: [
-            { name: '標題', width: '70%', formatter: (cell, row) => gridjs.html(`<a href="${row.cells[1].data}" target="_blank" style="color:#58a6ff;text-decoration:none;">${cell}</a>`) },
-            { name: '來源', width: '30%', formatter: (cell) => gridjs.html(`<span style="color:#8b949e;">${cell}</span>`) }
-          ],
-          data: data.items.map(item => [item.title, item.url, item.source]),
-          sort: false,
+          columns: columns,
+          data: tableData,
+          sort: true,
           search: true,
           pagination: { enabled: true, limit: 30 },
           style: {
@@ -111,26 +142,32 @@
           }
         }).render(document.getElementById(gridId));
       } catch(e) {
-        document.getElementById(gridId).innerHTML = `<p style="color:#f85149;">載入失敗: ${e.message}</p>`;
+        document.getElementById(gridId).innerHTML = '<p style="color:#f85149;">載入失敗: ' + e.message + '</p>';
       }
     }
 
     function switchTab(tab) {
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
       document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-      document.querySelector(`.tab-btn[onclick*="'${tab}'"]`).classList.add('active');
-      document.getElementById(`tab-${tab}`).classList.add('active');
+      var btns = document.querySelectorAll('.tab-btn');
+      for (var i = 0; i < btns.length; i++) {
+        if (btns[i].textContent.toLowerCase().includes(tab)) {
+          btns[i].classList.add('active');
+          break;
+        }
+      }
+      document.getElementById('tab-' + tab).classList.add('active');
     }
 
-    // 載入各分類
     loadCategory('security', 'data/security.json', 'grid-security', 'updated-security');
     loadCategory('ai', 'data/ai.json', 'grid-ai', 'updated-ai');
     loadCategory('sre', 'data/sre.json', 'grid-sre', 'updated-sre');
+    loadCategory('trending', 'data/trending.json', 'grid-trending', 'updated-trending');
   </script>
 
   <footer>
-    <p>Powered by Hermes Agent &middot; Built with <a href="https://gridjs.io/" target="_blank" style="color:#58a6ff;">Grid.js</a> (MIT License)</p>
-    <p>Data collected from GitHub Trending, DeepLearning.ai The Batch, Hacker News, SRE Weekly, iThome, 資安人</p>
+    <p>Powered by Hermes Agent · Built with <a href="https://gridjs.io/" target="_blank" style="color:#58a6ff;">Grid.js</a> (MIT License)</p>
+    <p>Data collected from iThome, 資安人, DeepLearning.ai, Hacker News, SRE Weekly, GitHub Trending</p>
     <p>版權聲明: 所有新聞內容與標題分別屬於其各自來源。本頁面僅為自動化彙整，不承擔內容責任。</p>
   </footer>
 </body>
