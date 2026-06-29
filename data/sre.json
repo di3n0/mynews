@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-29 06:01",
+  "updated": "2026-06-30 06:01",
   "category": "Sre",
   "items": [
+    {
+      "title": "SRE Weekly Issue #523",
+      "url": "https://sreweekly.com/sre-weekly-issue-523/",
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
+    },
     {
       "title": "SRE Weekly Issue #522",
       "url": "https://sreweekly.com/sre-weekly-issue-522/",
@@ -27,10 +33,40 @@
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #518",
-      "url": "https://sreweekly.com/sre-weekly-issue-518/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
+      "title": "Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS",
+      "url": "https://www.infoq.com/news/2026/06/eliya-jvm-diagnostic-profile/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Inside Target’s LLM-Based System for Semantic Matching in Marketing Forecast Pipelines",
+      "url": "https://www.infoq.com/news/2026/06/target-ai-campaign-forecasting/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: Million PDFs: Building a Modern Document Infrastructure with Rust and Typst",
+      "url": "https://www.infoq.com/presentations/document-infrastructure-rust-typst/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution",
+      "url": "https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Podcast: Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insights from Adam Wiggins",
+      "url": "https://www.infoq.com/podcasts/natural-evolution-cloud-native/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "AI Tools Accelerates Coding, but Not Overall Software Delivery, GitLab Research Finds",
+      "url": "https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Swift 6.4 Brings New Language Features and Swift Testing/XCTest Interop",
@@ -57,20 +93,20 @@
       "site": "infoq.com"
     },
     {
-      "title": "Presentation: AI Works, Pull Requests Don’t: How AI Is Breaking the SDLC and What To Do About It",
+      "title": "Presentation: AI Works, Pull Requests Don’t: How AI is Breaking the SDLC and What to Do about it",
       "url": "https://www.infoq.com/presentations/ai-sdlc-pull-request/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Argo CD 3.5 Tightens Supply Chain Security with Internal mTLS and Source Integrity",
-      "url": "https://www.infoq.com/news/2026/06/argocd-supply-chain-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
       "title": "Dapr 1.18 Introduces Verifiable Execution, Bringing Cryptographic Trust to AI Agents and Workflows",
       "url": "https://www.infoq.com/news/2026/06/dapr-1-18-cryptographic-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Argo CD 3.5 Tightens Supply Chain Security with Internal mTLS and Source Integrity",
+      "url": "https://www.infoq.com/news/2026/06/argocd-supply-chain-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
@@ -83,42 +119,6 @@
     {
       "title": "Building a European Cloud Orchestration Platform within an Enterprise",
       "url": "https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Presentation: Rust at the Core - Accelerating Polyglot SDK Development",
-      "url": "https://www.infoq.com/presentations/rust-polyglot-sdk/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Cloudflare Ships Agent Skills for Zero Trust Deployment and Migration",
-      "url": "https://www.infoq.com/news/2026/06/cloudflare-one-stack-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Slack Outlines Four-Phase Journey to a Multi-Cloud AI Serving Platform",
-      "url": "https://www.infoq.com/news/2026/06/slack-multicloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Grab Builds Secure Agentic AI Workload Platform",
-      "url": "https://www.infoq.com/news/2026/06/grab-ai-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Anthropic Lead: HTML Increasingly Better Than Markdown at Keeping Humans Engaged in Agentic Loops",
-      "url": "https://www.infoq.com/news/2026/06/anthropic-html-markdown-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Google OpenRL is an Experimental Self-hosted API for LLM Post-Training Fine-Tuning",
-      "url": "https://www.infoq.com/news/2026/06/google-open-rl-fine-tuning/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }

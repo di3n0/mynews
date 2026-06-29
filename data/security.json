@@ -1,99 +1,141 @@
 {
-  "updated": "2026-06-29 06:00",
+  "updated": "2026-06-30 06:00",
   "category": "Security",
   "items": [
     {
-      "title": "Linux被揭露新的本機權限提升漏洞DirtyClone，CVSS嚴重度評分高達8.8分",
-      "url": "https://www.ithome.com.tw/news/176913",
+      "title": "中國駭客UAT-7237鎖定東南亞政府及能源關鍵基礎設施，散布後門TinyRCT",
+      "url": "https://www.ithome.com.tw/news/176945",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Linux存在新的本機權限提升漏洞pedit COW，搭配5.18版至 7.1-rc6版核心的系統均可能受影響",
-      "url": "https://www.ithome.com.tw/news/176912",
+      "title": "PostgreSQL資料庫管理工具pgAdmin 4發布更新，修補7項資安漏洞",
+      "url": "https://www.ithome.com.tw/news/176955",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "本週Google二度發布Chrome 149穩定版更新，修補3項高風險漏洞",
-      "url": "https://www.ithome.com.tw/news/176911",
+      "title": "研究人員揭露知名Chrome廣告攔截擴充套件暗藏遠端執行程式碼後門風險，逾千萬用戶恐受影響",
+      "url": "https://www.ithome.com.tw/news/176944",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "史丹佛大學年度AI報告：AI考試快滿分了，下個戰場是Agent能否完成任務",
-      "url": "https://www.ithome.com.tw/news/176910",
+      "title": "攻擊者濫用OpenAI組織邀請，偽冒企業租戶誘員工加入",
+      "url": "https://www.ithome.com.tw/news/176942",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Linux基金會擬推代理名稱系統，替AI代理建立可信身分基礎",
-      "url": "https://www.ithome.com.tw/news/176909",
+      "title": "Amadey與StealC共用基礎設施，兩週內感染逾14萬臺電腦",
+      "url": "https://www.ithome.com.tw/news/176943",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "台水揭露智慧水務轉型最新進展，導入AI從精準加藥到預測維護，提升供水韌性與減碳效益",
-      "url": "https://www.ithome.com.tw/news/176908",
+      "title": "資安研究人員揭露SQL Server 2025 AI功能存在濫用風險，攻擊者可藉此竊取敏感資訊",
+      "url": "https://www.ithome.com.tw/news/176941",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "南非殯葬與保險巨頭遭駭導致服務中斷，改人工作業並證實個資外洩",
-      "url": "https://www.ithome.com.tw/news/176903",
+      "title": "研究人員揭露WARP攻擊，可透過Reddit等內容誤導AI研究代理",
+      "url": "https://www.ithome.com.tw/news/176940",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "生成式AI年化營收突破1,750億美元，報告指AI需求已獲營收驗證",
-      "url": "https://www.ithome.com.tw/news/176907",
+      "title": "Swift編譯器核心元件現可用Swift實作",
+      "url": "https://www.ithome.com.tw/news/176937",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "23個OpenClaw技能外掛利用搶註手法上架ClawHub官方市集",
-      "url": "https://www.ithome.com.tw/news/176905",
+      "title": "波蘭破獲SIM Swap犯罪集團，透過接管門號竊取數位資產",
+      "url": "https://www.ithome.com.tw/news/176939",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "加州推出AI失業追蹤器，監測AI對勞動市場衝擊",
-      "url": "https://www.ithome.com.tw/news/176904",
+      "title": "馬來西亞NC4示警，攻擊者利用Joomla JCE漏洞攻擊政府網站",
+      "url": "https://www.ithome.com.tw/news/176938",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】6月26日，執法行動瓦解惡意軟體Amadey、StealC、SocGholish活動",
-      "url": "https://www.ithome.com.tw/news/176902",
+      "title": "【資安日報】6月29日，美國將以政府採購帶動PQC產業升級",
+      "url": "https://www.ithome.com.tw/news/176936",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "執法行動Operation Endgame瓦解惡意軟體Amadey、StealC、SocGholish的犯罪網路",
-      "url": "https://www.ithome.com.tw/news/176899",
+      "title": "從DevSecOps走向信任設計，酷澎：資安更大的目標是消除使用者不確定感",
+      "url": "https://www.ithome.com.tw/news/176935",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Klue供應鏈攻擊影響範圍擴大，AI營收情資平臺Gong的用戶也受到波及",
-      "url": "https://www.ithome.com.tw/news/176898",
+      "title": "Linux基金會成立Akrites計畫，因應AI加速開源漏洞攻擊風險",
+      "url": "https://www.ithome.com.tw/news/176934",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "微軟悄悄展延Windows 10 ESU到2027年10月",
-      "url": "https://www.ithome.com.tw/news/176897",
+      "title": "澳洲通訊局ASD規畫新版企業資安指引，將取代Essential Eight框架",
+      "url": "https://www.ithome.com.tw/news/176933",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Deno 2.9新增桌面應用工具，網頁專案可封裝成跨平臺應用程式",
-      "url": "https://www.ithome.com.tw/news/176895",
+      "title": "Google Play新收費制6月30日開跑，美英歐開放第三方支付",
+      "url": "https://www.ithome.com.tw/news/176932",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "資安署雙警示齊發：曬票恐洩個資、網通設備暴露成駭客跳板",
+      "title": "PTC Windchill 遠端程式碼執行漏洞納入 KEV 目錄，攻擊者仍持續部署 Web Shell",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13042",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/29第三方供應商風險升高，教育機構為資料外洩付出高昂代價報告指出，網頁應用程式是教育產業最主要的入侵管道，占該產業外洩事件的 71%。2025 年夏末，某勒索軟體集......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13041",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/29日本電信 KDDI 旗下系統遭入侵，影響日本六家 ISP 逾 1,420 萬筆電子郵件帳密KDDI 表示，自 6 月 17 日起已持續與受影響的 ISP 業者聯繫，並已通報日本個人資訊保護委員會及總務省。目......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13040",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/29群暉科技 Synology 修補 MailPlus Server 三項重大漏洞，逾 2,100 台暴露於網路在 DiskStation Manager（DSM）v7.3、7.2.2 或 7.2.1 上運行 MailPlus Server 的使用者，......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13039",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/26邊緣裝置成國家級攻擊跳板：Cisco SD-WAN 遭駭事件揭示電信基礎設施新威脅Cisco 已於 2026 年 6 月 10 日釋出 CVE-2026-20245 的修補程式，CVE-2026-20127 及 CVE-2......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13037",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/26微軟 6 月 Patch Tuesday 修補 200 漏洞，Exchange Server 零時差遭主動攻擊台灣企業首當其衝台灣企業廣泛採用 Exchange Server 作為企業郵件系統，資安團隊應視此為最高優先修補項目。......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13036",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/26美國聯邦新版資安指令上路，業界：三天完成鑑識調查才是真正難關BOD 26-04 的核心是一套風險矩陣式分級模型，以四項條件評估每個漏洞的威脅程度：該漏洞是否已列入 CISA 的......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13035",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/26資安署雙警示齊發：曬票恐洩個資、網通設備暴露成駭客跳板兩則警訊涵蓋個人與機關兩個層面，顯示當前資安威脅已全面滲透日常生活與關鍵基礎設施，呼籲全民提高警覺。......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13034",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
@@ -123,48 +165,6 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/06/25報告：治理能力才是穩定幣時代的核心競爭力隨著台灣推動虛擬資產監管，金融機構與企業應及早為穩定幣治理時代做好準備......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13030",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "觀點 -2026/06/24超越人類監督：前沿 AI 時代的新挑戰與應對高度自主的「前沿 AI」模型崛起，正使網路安全逐漸超出人類即時掌控的範圍，演變為機器對機器的即時攻防戰......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/06/24Moxa 獲 IEC 62443-4-1 ML3 雙認證成功取得 ML3 認證，印證 Moxa 已將標準化 SDL 推行至全公司，並落實於日常營運、定期審查及持續改善的企業......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13025",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/06/23Sophos 加入 OpenAI 資安聯盟，運用前沿 AI 強化客戶防禦能力Sophos 結合代理式 SOC 與預防式架構，以及 OpenAI 的資安能力，協助超過 625,000 家客戶......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13027",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/06/18SailPoint擬收購Entro以加速升級Agentic Fabric解決方案Entro將為SailPoint帶來深度的機密探索與非人類身分掃描能力，進而鞏固SailPoint在人類、機器和 AI代理領域......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13028",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "解決方案 -2026/06/16F5與NVIDIA攜手推出新功能加速 AI 推論，共同提升AI 工廠的經濟效益F5 BIG-IP Next for Kubernetes 與 BlueField DPU 的整合，可提升token吞吐量、降低每個toke......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13024",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/06/16A10 Networks 收購TrojAI，擴展 AI產品藍圖加速 A10 的人工智慧策略，打造涵蓋模型、應用與 AI Agent 的全方位 AI 安全防護......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13023",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "Sophos 與 Rubrik 攜手推出由 Rubrik Cyber Resilience 技術支援的 Microsoft 365 備份與復原服務",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13019",
       "source": "資安人",
@@ -177,16 +177,76 @@
       "site": "informationsecurity.com.tw"
     },
     {
+      "title": "從發現到控制：如何在 OT 環境中評估與處理高危漏洞",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13018",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
       "title": "新興威脅組織 OP-512 以客製化 Web Shell 框架攻擊 IIS 伺服器，疑與中國有關",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13017",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "從發現到控制：如何在 OT 環境中評估與處理高危漏洞",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13018",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+      "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+      "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+      "url": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "url": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
@@ -215,66 +275,6 @@
     {
       "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
       "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-      "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "url": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-      "url": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
-      "url": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
-      "url": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
-      "url": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
