@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 18:01",
+  "updated": "2026-06-30 18:10",
   "category": "Ai",
   "items": [
     {
@@ -159,6 +159,12 @@
       "site": "news.ycombinator.com"
     },
     {
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
       "title": "Linux for the Sega MegaDrive",
       "url": "https://github.com/LinuxMD/linuxmd",
       "source": "Hacker News",
@@ -233,12 +239,6 @@
     {
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "url": "https://humphri.es/blog/WATaBoy/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "What happens when you run a CUDA kernel?",
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
