@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 06:00",
+  "updated": "2026-06-30 16:58",
   "category": "Ai",
   "items": [
     {
@@ -93,6 +93,12 @@
       "site": "deeplearning.ai"
     },
     {
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
       "source": "Hacker News",
@@ -105,8 +111,62 @@
       "site": "news.ycombinator.com"
     },
     {
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Old Computer Challenge",
+      "url": "http://occ.sdf.org/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The end of the AArch64 desktop experiment",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Linux for the Sega MegaDrive",
+      "url": "https://github.com/LinuxMD/linuxmd",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -117,32 +177,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "title": "Popping the GPU Bubble",
+      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Wallace the 6 inch f&#x2F;2.8 telescope, building it, and hiking with it",
-      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "JumpServer: Open-Source Privileged Access Management",
-      "url": "https://github.com/jumpserver/jumpserver",
+      "title": "One million passports leaked online",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -153,14 +195,20 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "What happens when you run a CUDA kernel?",
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "title": "Zig – SPIR-V Backend Progress",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Working With AI: A concrete example",
-      "url": "https://htmx.org/essays/working-with-ai/",
+      "title": "How to corrupt an SQLite database file",
+      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -171,14 +219,8 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
-      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -189,236 +231,194 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Font-Family Recommendations",
-      "url": "https://chrismorgan.info/font-family",
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "You Don't Know Jack About Formal Verification",
-      "url": "https://queue.acm.org/detail.cfm?id=3819084",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "The Permission Slip",
-      "url": "https://www.cringely.com/2026/05/28/the-permission-slip/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "One million passports leaked online",
-      "url": "https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Venetian Bridge Brawls in 17th and 18th Century Art",
-      "url": "https://publicdomainreview.org/collection/venice-bridge-fights/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Is sunscreen the new margarine? (2021)",
-      "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "The Return of Aspect Oriented Programming",
-      "url": "https://thomaswc.com/blog/the_return_of_aop.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "How can I get DeepSeek-V4-Pro running on my 8 Spark cluster?",
-      "url": "https://forums.developer.nvidia.com/t/how-can-i-get-deepseek-v4-pro-running-on-my-8-spark-cluster/374920",
+      "title": "Jetson Orin: No remote kernel console without custom kernel build (netconsole disabled, serial-tegra lacks console support)",
+      "url": "https://forums.developer.nvidia.com/t/jetson-orin-no-remote-kernel-console-without-custom-kernel-build-netconsole-disabled-serial-tegra-lacks-console-support/374950",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Graphics driver crash when playing Baldur&#39;s Gate 3",
-      "url": "https://forums.developer.nvidia.com/t/graphics-driver-crash-when-playing-baldurs-gate-3/374917",
+      "title": "Two thin SMF mesh parts are diffusing into each other",
+      "url": "https://forums.developer.nvidia.com/t/two-thin-smf-mesh-parts-are-diffusing-into-each-other/374949",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "SDF Mesh approximation not taking effect on imported multi-mesh asset, still cooking convex decomposition",
-      "url": "https://forums.developer.nvidia.com/t/sdf-mesh-approximation-not-taking-effect-on-imported-multi-mesh-asset-still-cooking-convex-decomposition/374910",
+      "title": "Request to enable Public API Endpoints for personal organization",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-personal-organization/374948",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Bangladesh (+880) - Need NIM API Access",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-bangladesh-880-need-nim-api-access/374909",
+      "title": "How to Calculate the Bank Conflicts",
+      "url": "https://forums.developer.nvidia.com/t/how-to-calculate-the-bank-conflicts/374947",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Production Branch (PB 25h1) Removal from the NGC Product Catalog",
-      "url": "https://forums.developer.nvidia.com/t/production-branch-pb-25h1-removal-from-the-ngc-product-catalog/374908",
+      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/374942",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Add missing Nemotron model to Inference Endpoints",
-      "url": "https://forums.developer.nvidia.com/t/add-missing-nemotron-model-to-inference-endpoints/374907",
+      "title": "Jetson AGX Orin Developer Kit - Hardware Failure / Unable to Power On",
+      "url": "https://forums.developer.nvidia.com/t/jetson-agx-orin-developer-kit-hardware-failure-unable-to-power-on/374941",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Is the nvvrs-pseq-rtc mutex_unlock fix in any released JetPack? IRQ \"nobody cared\" storm on AGX Orin (JP5.1.4 / L4T 35.6.0)",
-      "url": "https://forums.developer.nvidia.com/t/is-the-nvvrs-pseq-rtc-mutex-unlock-fix-in-any-released-jetpack-irq-nobody-cared-storm-on-agx-orin-jp5-1-4-l4t-35-6-0/374906",
+      "title": "DFlash 추론 가속 디코딩으로 NVIDIA Blackwell에서 최대 15배 추론 성능 향상하기",
+      "url": "https://forums.developer.nvidia.com/t/dflash-nvidia-blackwell-15/374940",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Accoubt Verifiation to get API",
-      "url": "https://forums.developer.nvidia.com/t/manual-accoubt-verifiation-to-get-api/374905",
+      "title": "Image_transport republish with hardware decoder on Jetson Orin Nano?",
+      "url": "https://forums.developer.nvidia.com/t/image-transport-republish-with-hardware-decoder-on-jetson-orin-nano/374939",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "CUDA graph deadlocks in nested loops on Ada, Hopper and Blackwell",
-      "url": "https://forums.developer.nvidia.com/t/cuda-graph-deadlocks-in-nested-loops-on-ada-hopper-and-blackwell/374904",
+      "title": "Spark 2 should be compatible with Spark 1",
+      "url": "https://forums.developer.nvidia.com/t/spark-2-should-be-compatible-with-spark-1/374936",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "RTX 5060 Ti + EPYC 7302P: Open kernel modules negotiate PCIe Gen1, Proprietary driver negotiates correct link but fails RmInitAdapter",
-      "url": "https://forums.developer.nvidia.com/t/rtx-5060-ti-epyc-7302p-open-kernel-modules-negotiate-pcie-gen1-proprietary-driver-negotiates-correct-link-but-fails-rminitadapter/374903",
+      "title": "NVIDIA BioNeMo Agent Toolkit으로 생명과학 연구를 위한 AI 사이언티스트 구축하기",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-bionemo-agent-toolkit-ai/374935",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "RTX 5090 hardware sensor failure (stuck at 750MHz)",
-      "url": "https://forums.developer.nvidia.com/t/rtx-5090-hardware-sensor-failure-stuck-at-750mhz/374902",
+      "title": "CCCL Runtime: CUDA를 위한 현대적인 C++ 런타임",
+      "url": "https://forums.developer.nvidia.com/t/cccl-runtime-cuda-c/374934",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Production Branch Removal for 25h1",
-      "url": "https://forums.developer.nvidia.com/t/production-branch-removal-for-25h1/374901",
+      "title": "Help Powering Jetson Orin Nano Super Dev Kit, 8GB Module Using a 6S LiPo Battery",
+      "url": "https://forums.developer.nvidia.com/t/help-powering-jetson-orin-nano-super-dev-kit-8gb-module-using-a-6s-lipo-battery/374932",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request for NVIDIA NIM API Rate Limit Increase (40 → 200 RPM)",
-      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-nim-api-rate-limit-increase-40-200-rpm/374898",
+      "title": "Security Bulletin: NVIDIA DGX Spark - May 2026 - CVE-2026-24218",
+      "url": "https://forums.developer.nvidia.com/t/security-bulletin-nvidia-dgx-spark-may-2026-cve-2026-24218/374930",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "How to Govern Autonomous Agents in Enterprise AI Factories",
-      "url": "https://forums.developer.nvidia.com/t/how-to-govern-autonomous-agents-in-enterprise-ai-factories/374896",
+      "title": "Jetson AGX Orin 32GB - \"The connected Jetson device is not ready for flash\"",
+      "url": "https://forums.developer.nvidia.com/t/jetson-agx-orin-32gb-the-connected-jetson-device-is-not-ready-for-flash/374929",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Jetson-stats installed but jtop is not recogized",
-      "url": "https://forums.developer.nvidia.com/t/jetson-stats-installed-but-jtop-is-not-recogized/374893",
+      "title": "Request to enable \"Public API Endpoints\" permission for my personal organization (403 Forbidden)",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization-403-forbidden/374928",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
-      "url": "https://huggingface.co/papers/2606.28322",
+      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+      "url": "https://huggingface.co/papers/2606.30616",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
-      "url": "https://huggingface.co/papers/2606.28277",
+      "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
+      "url": "https://huggingface.co/papers/2606.30598",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation",
-      "url": "https://huggingface.co/papers/2606.28276",
+      "title": "Orca: The World is in Your Mind",
+      "url": "https://huggingface.co/papers/2606.30534",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration",
-      "url": "https://huggingface.co/papers/2606.28215",
+      "title": "Beyond IID: How General Are Tabular Foundation Models, Really?",
+      "url": "https://huggingface.co/papers/2606.30410",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems",
-      "url": "https://huggingface.co/papers/2606.28187",
+      "title": "The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction",
+      "url": "https://huggingface.co/papers/2606.30308",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots",
-      "url": "https://huggingface.co/papers/2606.28133",
+      "title": "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model",
+      "url": "https://huggingface.co/papers/2606.30292",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation",
-      "url": "https://huggingface.co/papers/2606.28128",
+      "title": "TACO: Tool-Augmented Credit Optimization for Agentic Tool Use",
+      "url": "https://huggingface.co/papers/2606.30251",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "OSOR: One-Step Diffusion Inpainting for Effect-Aware Object Removal",
-      "url": "https://huggingface.co/papers/2606.28094",
+      "title": "Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark",
+      "url": "https://huggingface.co/papers/2606.30170",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MultiHashFormer: Hash-based Generative Language Models",
-      "url": "https://huggingface.co/papers/2606.28057",
+      "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
+      "url": "https://huggingface.co/papers/2606.30084",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation",
-      "url": "https://huggingface.co/papers/2606.27978",
+      "title": "Little Brains, Big Feats: Exploring Compact Language Models",
+      "url": "https://huggingface.co/papers/2606.30062",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
-      "url": "https://huggingface.co/papers/2606.27974",
+      "title": "Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes",
+      "url": "https://huggingface.co/papers/2606.30047",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding",
-      "url": "https://huggingface.co/papers/2606.27922",
+      "title": "Walking in the Implicit: Interactive World Exploration via Neural Scene Representation",
+      "url": "https://huggingface.co/papers/2606.30045",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "A Study of Temporal Fusion Strategies for Named Entity Recognition in Historical Texts",
-      "url": "https://huggingface.co/papers/2606.27881",
+      "title": "Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting",
+      "url": "https://huggingface.co/papers/2606.30017",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SpatialUAV: Benchmarking Spatial Intelligence for Low-Altitude UAV Perception, Collaboration, and Motion",
-      "url": "https://huggingface.co/papers/2606.27876",
+      "title": "SICAGE: Speaker-Independent Culture-Aware Gesture Generation using TED4C-L Dataset",
+      "url": "https://huggingface.co/papers/2606.30001",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning",
-      "url": "https://huggingface.co/papers/2606.27828",
+      "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
+      "url": "https://huggingface.co/papers/2606.29957",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
@@ -483,6 +483,12 @@
       "site": "marktechpost.com"
     },
     {
+      "title": "OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway",
+      "url": "https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/",
+      "source": "Marktechpost AI Agent",
+      "site": "marktechpost.com"
+    },
+    {
       "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery",
       "url": "https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/",
       "source": "Marktechpost AI Agent",
@@ -533,12 +539,6 @@
     {
       "title": "Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent&#8217;s Work and Learns Overnight",
       "url": "https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "NVIDIA SkillSpector Guide: Scanning AI Skills for Security Risks with Static Analysis and SARIF Reports",
-      "url": "https://www.marktechpost.com/2026/06/17/nvidia-skillspector-guide-scanning-ai-skills-for-security-risks-with-static-analysis-and-sarif-reports/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }

@@ -1,99 +1,105 @@
 {
-  "updated": "2026-06-30 06:00",
+  "updated": "2026-06-30 16:57",
   "category": "Security",
   "items": [
     {
-      "title": "中國駭客UAT-7237鎖定東南亞政府及能源關鍵基礎設施，散布後門TinyRCT",
-      "url": "https://www.ithome.com.tw/news/176945",
+      "title": "Veeam發布Backup for Microsoft 365 8.5版，強化Microsoft 365資料保護與管理能力",
+      "url": "https://www.ithome.com.tw/news/176981",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "PostgreSQL資料庫管理工具pgAdmin 4發布更新，修補7項資安漏洞",
-      "url": "https://www.ithome.com.tw/news/176955",
+      "title": "CI/CD供應鏈存在Cordyceps風險，GitHub Actions流程恐遭挾持",
+      "url": "https://www.ithome.com.tw/news/176978",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "研究人員揭露知名Chrome廣告攔截擴充套件暗藏遠端執行程式碼後門風險，逾千萬用戶恐受影響",
-      "url": "https://www.ithome.com.tw/news/176944",
+      "title": "日產汽車證實Oracle PeopleSoft系統被駭",
+      "url": "https://www.ithome.com.tw/news/176980",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "攻擊者濫用OpenAI組織邀請，偽冒企業租戶誘員工加入",
-      "url": "https://www.ithome.com.tw/news/176942",
+      "title": "Arena將AI模型評測變現，年化收入達1億美元",
+      "url": "https://www.ithome.com.tw/news/176979",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Amadey與StealC共用基礎設施，兩週內感染逾14萬臺電腦",
-      "url": "https://www.ithome.com.tw/news/176943",
+      "title": "立院三讀通過「虛擬資產服務法」，服務商採許可制，金融業可申請兼營",
+      "url": "https://www.ithome.com.tw/news/176977",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "資安研究人員揭露SQL Server 2025 AI功能存在濫用風險，攻擊者可藉此竊取敏感資訊",
-      "url": "https://www.ithome.com.tw/news/176941",
+      "title": "【資安日報】6月30日，網路曬票存在風險，資安署呼籲民眾應有效遮蔽條碼",
+      "url": "https://www.ithome.com.tw/news/176976",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "研究人員揭露WARP攻擊，可透過Reddit等內容誤導AI研究代理",
-      "url": "https://www.ithome.com.tw/news/176940",
+      "title": "群暉修補MailPlus Server重大漏洞，未更新可能導致攻擊者讀寫檔案或阻斷服務",
+      "url": "https://www.ithome.com.tw/news/176975",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Swift編譯器核心元件現可用Swift實作",
-      "url": "https://www.ithome.com.tw/news/176937",
+      "title": "美國聯邦保險監管機構遭Oracle PeopleSoft漏洞入侵導致資料外洩",
+      "url": "https://www.ithome.com.tw/news/176973",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "波蘭破獲SIM Swap犯罪集團，透過接管門號竊取數位資產",
-      "url": "https://www.ithome.com.tw/news/176939",
+      "title": "俄羅斯駭客Turla使用後門StockStay於烏克蘭從事間諜活動",
+      "url": "https://www.ithome.com.tw/news/176972",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "馬來西亞NC4示警，攻擊者利用Joomla JCE漏洞攻擊政府網站",
-      "url": "https://www.ithome.com.tw/news/176938",
+      "title": "美國FCC強化海底電纜管理，新規納入終端設備並加速安全審查",
+      "url": "https://www.ithome.com.tw/news/176971",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】6月29日，美國將以政府採購帶動PQC產業升級",
-      "url": "https://www.ithome.com.tw/news/176936",
+      "title": "WhatsApp告別純手機號碼時代，將推出Username",
+      "url": "https://www.ithome.com.tw/news/176970",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "從DevSecOps走向信任設計，酷澎：資安更大的目標是消除使用者不確定感",
-      "url": "https://www.ithome.com.tw/news/176935",
+      "title": "Google在美免費開放Nano Banana為基礎的個人化AI圖像生成工具",
+      "url": "https://www.ithome.com.tw/news/176969",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Linux基金會成立Akrites計畫，因應AI加速開源漏洞攻擊風險",
-      "url": "https://www.ithome.com.tw/news/176934",
+      "title": "一張打卡照，讓你的假期與演唱會門票落入他人之手",
+      "url": "https://www.ithome.com.tw/news/176968",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "澳洲通訊局ASD規畫新版企業資安指引，將取代Essential Eight框架",
-      "url": "https://www.ithome.com.tw/news/176933",
+      "title": "微軟延長Windows Server 2022熱修補支援至2027年10月",
+      "url": "https://www.ithome.com.tw/news/176967",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Google Play新收費制6月30日開跑，美英歐開放第三方支付",
-      "url": "https://www.ithome.com.tw/news/176932",
+      "title": "大規模Edge惡意延伸套件活動StegoAd超過2年，微軟移除119個惡意套件",
+      "url": "https://www.ithome.com.tw/news/176966",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "PTC Windchill 遠端程式碼執行漏洞納入 KEV 目錄，攻擊者仍持續部署 Web Shell",
+      "title": "AI 攻防再進化：DEVCORE 紅隊實證曝光，企業風險評估速度為何跟不上 AI 迭代",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13046",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/29PTC Windchill 遠端程式碼執行漏洞納入 KEV 目錄，攻擊者仍持續部署 Web Shell此次事件是 PTC 產品首次有漏洞被列入 CISA 的 KEV 目錄，也再次凸顯威脅行為者能在漏洞揭露後迅速將其武器......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13042",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
@@ -113,6 +119,12 @@
     {
       "title": "新聞 -2026/06/29群暉科技 Synology 修補 MailPlus Server 三項重大漏洞，逾 2,100 台暴露於網路在 DiskStation Manager（DSM）v7.3、7.2.2 或 7.2.1 上運行 MailPlus Server 的使用者，......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13039",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/29Check Point 將 OpenAI 資安技術整合至旗下安全產品Check Point 成少數獲准將 OpenAI 防禦能力導入企業日常安全工具的資安業者之一......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13038",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -153,14 +165,8 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "觀點 -2026/06/25傳統防火牆只看 IP，語意防火牆看「意圖」：林宜隆教授解析神經符號架構與 AI 治理三標準如何聯手對抗工業化攻擊面對已經工業化的網路犯罪集團，我們還在用手工作坊的邏輯防守。問題的根源不在工具數量，而在防禦思維的層......",
+      "title": "傳統防火牆只看 IP，語意防火牆看「意圖」：林宜隆教授解析神經符號架構與 AI 治理三標準如何聯手對抗工業化攻擊",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13029",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "觀點 -2026/06/25AI 驅動雲端 SOC 轉型實踐：如何利用自動化劇本與 AI 調查縮短 80% 資安事件處置時間？地端 SOC 傳統監控正面臨海量日誌 Data Overload 與告警疲勞困局。雲力橘子分享如何透過 AI 雲端 SOC 與 SO......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13031",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -187,6 +193,18 @@
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13017",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
@@ -263,18 +281,6 @@
     {
       "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
       "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-      "url": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "url": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

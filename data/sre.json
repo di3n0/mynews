@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 06:01",
+  "updated": "2026-06-30 16:58",
   "category": "Sre",
   "items": [
     {
@@ -31,6 +31,12 @@
       "url": "https://sreweekly.com/sre-weekly-issue-519/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
+    },
+    {
+      "title": "Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI",
+      "url": "https://www.infoq.com/news/2026/06/java-news-roundup-jun22-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Eliya 25 Brings a JVM-Level Diagnostic Profile to OpenJDK 25 LTS",
@@ -113,12 +119,6 @@
     {
       "title": "How Cloudflare Solved a Congestion Bug in quiche",
       "url": "https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Building a European Cloud Orchestration Platform within an Enterprise",
-      "url": "https://www.infoq.com/news/2026/06/europe-cloud-enterprise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
