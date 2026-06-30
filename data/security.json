@@ -1,7 +1,31 @@
 {
-  "updated": "2026-06-30 18:30",
+  "updated": "2026-07-01 06:01",
   "category": "Security",
   "items": [
+    {
+      "title": "雅婷智慧推FedGPT主權AI平臺，瞄準72%企業地端部署需求",
+      "url": "https://www.ithome.com.tw/news/176993",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "美超微AI伺服器出口案調查擴大，青雲、是方電訊遭搜索，是方澄清僅提供機房服務",
+      "url": "https://www.ithome.com.tw/news/176991",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "Meta用AI從打字腦訊號重建語句，推進非侵入式腦機介面研究",
+      "url": "https://www.ithome.com.tw/news/176990",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "資安界如何優化漏洞修補優先順序？HackerCat教你快速搞懂CVSS、EPSS、KEV這三項指標",
+      "url": "https://www.ithome.com.tw/news/176987",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
     {
       "title": "Nakivo發布Backup &amp; Replication 11新版本，新增支援VMware vSphere 9與Proxmox VE 9平臺",
       "url": "https://www.ithome.com.tw/news/176989",
@@ -69,32 +93,14 @@
       "site": "ithome.com.tw"
     },
     {
-      "title": "WhatsApp告別純手機號碼時代，將推出Username",
-      "url": "https://www.ithome.com.tw/news/176970",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "Google在美免費開放Nano Banana為基礎的個人化AI圖像生成工具",
-      "url": "https://www.ithome.com.tw/news/176969",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "一張打卡照，讓你的假期與演唱會門票落入他人之手",
-      "url": "https://www.ithome.com.tw/news/176968",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "微軟延長Windows Server 2022熱修補支援至2027年10月",
-      "url": "https://www.ithome.com.tw/news/176967",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
       "title": "AI 攻防再進化：DEVCORE 紅隊實證曝光，企業風險評估速度為何跟不上 AI 迭代",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13046",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/30Cisco CUCM 漏洞 PoC 公開不足 24 小時即遭武器化，攻擊者可取得 root 權限資安專家表示，已啟用 WebDialer 且尚未修補 CVE-2026-20230 的組織應假設自身已遭掃描。資安業者 Horizon3......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13045",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -159,12 +165,6 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/06/26資安署雙警示齊發：曬票恐洩個資、網通設備暴露成駭客跳板兩則警訊涵蓋個人與機關兩個層面，顯示當前資安威脅已全面滲透日常生活與關鍵基礎設施，呼籲全民提高警覺。......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13034",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "傳統防火牆只看 IP，語意防火牆看「意圖」：林宜隆教授解析神經符號架構與 AI 治理三標準如何聯手對抗工業化攻擊",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13029",
       "source": "資安人",
@@ -177,22 +177,76 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "Miasma 蠕蟲攻擊微軟 73 個 GitHub 儲存庫，AI 編碼工具成新傳播向量",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13020",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "從發現到控制：如何在 OT 環境中評估與處理高危漏洞",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13018",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新興威脅組織 OP-512 以客製化 Web Shell 框架攻擊 IIS 伺服器，疑與中國有關",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13017",
+      "title": "Miasma 蠕蟲攻擊微軟 73 個 GitHub 儲存庫，AI 編碼工具成新傳播向量",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13020",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "資安署雙警示齊發：曬票恐洩個資、網通設備暴露成駭客跳板",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13034",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+      "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+      "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
+      "url": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+      "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
@@ -207,20 +261,8 @@
       "site": "thehackernews.com"
     },
     {
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
       "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
       "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
@@ -231,56 +273,14 @@
       "site": "thehackernews.com"
     },
     {
-      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-      "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-      "url": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Why Post-Quantum Cryptography Starts With Credentials",
-      "url": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-      "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

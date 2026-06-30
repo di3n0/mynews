@@ -1,28 +1,58 @@
 {
-  "updated": "2026-06-30 18:30",
+  "updated": "2026-07-01 06:01",
   "category": "Ai",
   "items": [
     {
-      "title": "Open Source Low Tech",
-      "url": "https://opensourcelowtech.org/",
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "url": "https://mechanical-pencil.com/products/car",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "I built a mmWave material classification radar (2025)",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Stroustrup's Rule (2024)",
+      "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -33,212 +63,182 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The operating cost starts after the demo",
-      "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "title": "Knoppix",
+      "url": "https://www.knopper.net/knoppix/index-en.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Antares Achieves Criticality of Mark-0 Reactor",
-      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+      "url": "https://www.gutenberg.org/ebooks/24518",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
+      "title": "Waveloop: What Fable left me",
+      "url": "https://neynt.ca/writing/waveloop/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The end of the AArch64 desktop experiment",
-      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "title": "Set up your own DoH (DNS over HTTPS) service",
+      "url": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "title": "Show HN: My 13-year-old built an ant colony tracker",
+      "url": "https://formicarium.es",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "title": "Long Island's decommissioned nuclear power plant",
+      "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "title": "Have you restarted your computer this week?",
+      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Old Computer Challenge",
-      "url": "http://occ.sdf.org/",
+      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
+      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Linux for the Sega MegaDrive",
-      "url": "https://github.com/LinuxMD/linuxmd",
+      "title": "I built a 10 inch mini rack from aluminium extrusions",
+      "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
+      "url": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "One million passports leaked online",
-      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
+      "url": "https://www.w3.org/DesignIssues/MatrixURIs.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How to corrupt an SQLite database file",
-      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "title": "A peek into Reddit's anti-spam internals",
+      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "title": "Morbid: Debunking Modern Longevity Science",
+      "url": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
-      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+      "title": "Amazon seller reveals glimpse of shadow bribery market",
+      "url": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Zig – SPIR-V Backend Progress",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+      "title": "RF hacking my cloud-controlled ceiling fan",
+      "url": "https://samwilkinson.io/posts/2026-06-24-rf-hacking-dreo",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-      "url": "https://arxiv.org/abs/2606.22283",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Dark Sky Lighting",
-      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/374954",
+      "title": "TensorRT-Edge-LLM on Jetson AGX Thor: “No math backend found” although CUDA is installed",
+      "url": "https://forums.developer.nvidia.com/t/tensorrt-edge-llm-on-jetson-agx-thor-no-math-backend-found-although-cuda-is-installed/375013",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "T5000 with jetpack7.2 flash fail",
-      "url": "https://forums.developer.nvidia.com/t/t5000-with-jetpack7-2-flash-fail/374953",
+      "title": "Manual Account Verification Request - Bangladesh (+880)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-bangladesh-880/375012",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "AGX Orin 64GB DevKit - MB1 PSC Mailbox Timeout (0xc1c00606) & USB Read Timeout during Flash",
-      "url": "https://forums.developer.nvidia.com/t/agx-orin-64gb-devkit-mb1-psc-mailbox-timeout-0xc1c00606-usb-read-timeout-during-flash/374952",
+      "title": "Tegra-host1x 13e00000.host1x: syncpt_load failed",
+      "url": "https://forums.developer.nvidia.com/t/tegra-host1x-13e00000-host1x-syncpt-load-failed/375009",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Trying to Beat the Bandwidth: A Lesson in Futility",
-      "url": "https://forums.developer.nvidia.com/t/trying-to-beat-the-bandwidth-a-lesson-in-futility/374951",
+      "title": "Enclosed Rack Cooling",
+      "url": "https://forums.developer.nvidia.com/t/enclosed-rack-cooling/375008",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Jetson Orin: No remote kernel console without custom kernel build (netconsole disabled, serial-tegra lacks console support)",
-      "url": "https://forums.developer.nvidia.com/t/jetson-orin-no-remote-kernel-console-without-custom-kernel-build-netconsole-disabled-serial-tegra-lacks-console-support/374950",
+      "title": "Не могу подтвердить учетную запись из России",
+      "url": "https://forums.developer.nvidia.com/t/topic/375005",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Two thin SMF mesh parts are diffusing into each other",
-      "url": "https://forums.developer.nvidia.com/t/two-thin-smf-mesh-parts-are-diffusing-into-each-other/374949",
+      "title": "Manual Account Verification Request - Pakistan (+92) [nehalpeachy24@gmail.com]",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-pakistan-92-nehalpeachy24-gmail-com/375004",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable Public API Endpoints for personal organization",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-personal-organization/374948",
+      "title": "RTX 4090 driver crash",
+      "url": "https://forums.developer.nvidia.com/t/rtx-4090-driver-crash/375003",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "How to Calculate the Bank Conflicts",
-      "url": "https://forums.developer.nvidia.com/t/how-to-calculate-the-bank-conflicts/374947",
+      "title": "Requesting Manual Account Verification - Bangladesh Country Code Missing",
+      "url": "https://forums.developer.nvidia.com/t/requesting-manual-account-verification-bangladesh-country-code-missing/374999",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/374942",
+      "title": "Academic research grant portal closed early?",
+      "url": "https://forums.developer.nvidia.com/t/academic-research-grant-portal-closed-early/374990",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Jetson AGX Orin Developer Kit - Hardware Failure / Unable to Power On",
-      "url": "https://forums.developer.nvidia.com/t/jetson-agx-orin-developer-kit-hardware-failure-unable-to-power-on/374941",
+      "title": "Does BlueField-3 DPU (OPN: 900-9D3B6-00SV-AA0) support port splitting?",
+      "url": "https://forums.developer.nvidia.com/t/does-bluefield-3-dpu-opn-900-9d3b6-00sv-aa0-support-port-splitting/374989",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "DFlash 추론 가속 디코딩으로 NVIDIA Blackwell에서 최대 15배 추론 성능 향상하기",
-      "url": "https://forums.developer.nvidia.com/t/dflash-nvidia-blackwell-15/374940",
+      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
+      "url": "https://forums.developer.nvidia.com/t/designing-gpu-accelerated-query-engines-with-nvidia-gqe/374988",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Image_transport republish with hardware decoder on Jetson Orin Nano?",
-      "url": "https://forums.developer.nvidia.com/t/image-transport-republish-with-hardware-decoder-on-jetson-orin-nano/374939",
+      "title": "NVIDIA Software update Bricked my 2 Sparks",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-software-update-bricked-my-2-sparks/374985",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Spark 2 should be compatible with Spark 1",
-      "url": "https://forums.developer.nvidia.com/t/spark-2-should-be-compatible-with-spark-1/374936",
+      "title": "Manual Account Verification Request — Bangladesh (+880) — Phone Number Not in List",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-bangladesh-880-phone-number-not-in-list/374982",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NVIDIA BioNeMo Agent Toolkit으로 생명과학 연구를 위한 AI 사이언티스트 구축하기",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-bionemo-agent-toolkit-ai/374935",
+      "title": "NVIDIA Nemotron TwoTower 30B-A3B - Anyone tried this out yet?",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-nemotron-twotower-30b-a3b-anyone-tried-this-out-yet/374980",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "CCCL Runtime: CUDA를 위한 현대적인 C++ 런타임",
-      "url": "https://forums.developer.nvidia.com/t/cccl-runtime-cuda-c/374934",
+      "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
+      "url": "https://forums.developer.nvidia.com/t/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/374976",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -399,6 +399,12 @@
       "site": "huggingface.co"
     },
     {
+      "title": "Illuminating Unified Multimodal Model for Free-form Interleaved Text-Image Generation",
+      "url": "https://huggingface.co/papers/2606.30054",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes",
       "url": "https://huggingface.co/papers/2606.30047",
       "source": "Hugging Face",
@@ -411,14 +417,8 @@
       "site": "huggingface.co"
     },
     {
-      "title": "Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting",
-      "url": "https://huggingface.co/papers/2606.30017",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "SICAGE: Speaker-Independent Culture-Aware Gesture Generation using TED4C-L Dataset",
-      "url": "https://huggingface.co/papers/2606.30001",
+      "title": "MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs",
+      "url": "https://huggingface.co/papers/2606.30026",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
