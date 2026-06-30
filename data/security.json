@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-30 16:57",
+  "updated": "2026-06-30 17:40",
   "category": "Security",
   "items": [
     {
-      "title": "Veeam發布Backup for Microsoft 365 8.5版，強化Microsoft 365資料保護與管理能力",
+      "title": "Veeam強化Microsoft 365資料保護與管理能力，提升Exchange與SharePoint備份效能",
       "url": "https://www.ithome.com.tw/news/176981",
       "source": "iThome",
       "site": "ithome.com.tw"
@@ -39,7 +39,7 @@
       "site": "ithome.com.tw"
     },
     {
-      "title": "群暉修補MailPlus Server重大漏洞，未更新可能導致攻擊者讀寫檔案或阻斷服務",
+      "title": "群暉修補MailPlus Server重大漏洞，全球近2,100臺系統暴露於網路，面臨潛在攻擊風險",
       "url": "https://www.ithome.com.tw/news/176975",
       "source": "iThome",
       "site": "ithome.com.tw"
@@ -195,6 +195,18 @@
       "site": "informationsecurity.com.tw"
     },
     {
+      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
       "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
       "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
       "source": "The Hacker News",
@@ -269,18 +281,6 @@
     {
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
       "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
-      "url": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-      "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

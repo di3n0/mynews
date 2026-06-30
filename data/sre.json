@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 16:58",
+  "updated": "2026-06-30 17:40",
   "category": "Sre",
   "items": [
     {
@@ -31,6 +31,18 @@
       "url": "https://sreweekly.com/sre-weekly-issue-519/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
+    },
+    {
+      "title": "AWS Launches Lambda MicroVMs for Isolated Agent and User Code Execution",
+      "url": "https://www.infoq.com/news/2026/06/aws-lambda-microvms/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Article: Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design",
+      "url": "https://www.infoq.com/articles/tradeoffs-event-driven-design/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Java News Roundup: Hardwood 1.0, Endive 1.0, Azul Payara, Quarkus, WildFly, LangChain4j, OSSI",
@@ -107,18 +119,6 @@
     {
       "title": "Dapr 1.18 Introduces Verifiable Execution, Bringing Cryptographic Trust to AI Agents and Workflows",
       "url": "https://www.infoq.com/news/2026/06/dapr-1-18-cryptographic-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Argo CD 3.5 Tightens Supply Chain Security with Internal mTLS and Source Integrity",
-      "url": "https://www.infoq.com/news/2026/06/argocd-supply-chain-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "How Cloudflare Solved a Congestion Bug in quiche",
-      "url": "https://www.infoq.com/news/2026/06/cloudflare-bug-quiche/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }

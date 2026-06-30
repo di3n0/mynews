@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 16:58",
+  "updated": "2026-06-30 17:40",
   "category": "Ai",
   "items": [
     {
@@ -153,8 +153,8 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
-      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -165,20 +165,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
-      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Popping the GPU Bubble",
-      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "title": "The operating cost starts after the demo",
+      "url": "https://twoheads.net/the-promise-is-unattended-work/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -195,12 +189,6 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Zig – SPIR-V Backend Progress",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
       "title": "How to corrupt an SQLite database file",
       "url": "https://www.sqlite.org/howtocorrupt.html",
       "source": "Hacker News",
@@ -213,14 +201,20 @@
       "site": "news.ycombinator.com"
     },
     {
+      "title": "Zig – SPIR-V Backend Progress",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
       "title": "Apple Neural Engine: Architecture, Programming, and Performance",
       "url": "https://arxiv.org/abs/2606.22283",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+      "title": "Popping the GPU Bubble",
+      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -231,8 +225,8 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -241,6 +235,30 @@
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
+    },
+    {
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "T5000 with jetpack7.2 flash fail",
+      "url": "https://forums.developer.nvidia.com/t/t5000-with-jetpack7-2-flash-fail/374953",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
+    },
+    {
+      "title": "AGX Orin 64GB DevKit - MB1 PSC Mailbox Timeout (0xc1c00606) & USB Read Timeout during Flash",
+      "url": "https://forums.developer.nvidia.com/t/agx-orin-64gb-devkit-mb1-psc-mailbox-timeout-0xc1c00606-usb-read-timeout-during-flash/374952",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
+    },
+    {
+      "title": "Trying to Beat the Bandwidth: A Lesson in Futility",
+      "url": "https://forums.developer.nvidia.com/t/trying-to-beat-the-bandwidth-a-lesson-in-futility/374951",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
     },
     {
       "title": "Jetson Orin: No remote kernel console without custom kernel build (netconsole disabled, serial-tegra lacks console support)",
@@ -311,24 +329,6 @@
     {
       "title": "Help Powering Jetson Orin Nano Super Dev Kit, 8GB Module Using a 6S LiPo Battery",
       "url": "https://forums.developer.nvidia.com/t/help-powering-jetson-orin-nano-super-dev-kit-8gb-module-using-a-6s-lipo-battery/374932",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Security Bulletin: NVIDIA DGX Spark - May 2026 - CVE-2026-24218",
-      "url": "https://forums.developer.nvidia.com/t/security-bulletin-nvidia-dgx-spark-may-2026-cve-2026-24218/374930",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Jetson AGX Orin 32GB - \"The connected Jetson device is not ready for flash\"",
-      "url": "https://forums.developer.nvidia.com/t/jetson-agx-orin-32gb-the-connected-jetson-device-is-not-ready-for-flash/374929",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Request to enable \"Public API Endpoints\" permission for my personal organization (403 Forbidden)",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization-403-forbidden/374928",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
