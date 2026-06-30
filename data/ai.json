@@ -1,97 +1,7 @@
 {
-  "updated": "2026-06-30 18:10",
+  "updated": "2026-06-30 18:30",
   "category": "Ai",
   "items": [
-    {
-      "title": "About",
-      "url": "https://www.deeplearning.ai/the-batch/about",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Gpt 5 6 Arrives But Only For Approved Partners",
-      "url": "https://www.deeplearning.ai/the-batch/gpt-5-6-arrives-but-only-for-approved-partners",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Biological Molecules As Language",
-      "url": "https://www.deeplearning.ai/the-batch/biological-molecules-as-language",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Large Model Ai For Apple Devices",
-      "url": "https://www.deeplearning.ai/the-batch/large-model-ai-for-apple-devices",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Ai Degrees On The Rise",
-      "url": "https://www.deeplearning.ai/the-batch/ai-degrees-on-the-rise",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Top Agentic Performance Low Cost",
-      "url": "https://www.deeplearning.ai/the-batch/top-agentic-performance-low-cost",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Three Key Loops For Building Great Software",
-      "url": "https://www.deeplearning.ai/the-batch/three-key-loops-for-building-great-software",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Issue 359",
-      "url": "https://www.deeplearning.ai/the-batch/issue-359",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Inside Jalapeno Openais First Inference Chip",
-      "url": "https://www.deeplearning.ai/the-batch/inside-jalapeno-openais-first-inference-chip",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "U S Chatbot Use Passes 50 Percent",
-      "url": "https://www.deeplearning.ai/the-batch/u-s-chatbot-use-passes-50-percent",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Reinforcement Learning With Hints",
-      "url": "https://www.deeplearning.ai/the-batch/reinforcement-learning-with-hints",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Nvidias Nemotron Goes Big",
-      "url": "https://www.deeplearning.ai/the-batch/nvidias-nemotron-goes-big",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Agentic Tests Beyond The Bug Hunt",
-      "url": "https://www.deeplearning.ai/the-batch/agentic-tests-beyond-the-bug-hunt",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Claudes Benchmark Problems",
-      "url": "https://www.deeplearning.ai/the-batch/claudes-benchmark-problems",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Open Platforms Beat Power Plays",
-      "url": "https://www.deeplearning.ai/the-batch/open-platforms-beat-power-plays",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
     {
       "title": "Open Source Low Tech",
       "url": "https://opensourcelowtech.org/",
@@ -117,14 +27,32 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "url": "https://karolina.mgdubiel.com/drone/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
       "title": "The operating cost starts after the demo",
       "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The end of the AArch64 desktop experiment",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -141,12 +69,6 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The end of the AArch64 desktop experiment",
-      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
       "source": "Hacker News",
@@ -159,20 +81,8 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "url": "https://karolina.mgdubiel.com/drone/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
       "title": "Linux for the Sega MegaDrive",
       "url": "https://github.com/LinuxMD/linuxmd",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
-      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -333,6 +243,102 @@
       "site": "forums.developer.nvidia.com"
     },
     {
+      "title": "About",
+      "url": "https://www.deeplearning.ai/the-batch/about",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Gpt 5 6 Arrives But Only For Approved Partners",
+      "url": "https://www.deeplearning.ai/the-batch/gpt-5-6-arrives-but-only-for-approved-partners",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Biological Molecules As Language",
+      "url": "https://www.deeplearning.ai/the-batch/biological-molecules-as-language",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Large Model Ai For Apple Devices",
+      "url": "https://www.deeplearning.ai/the-batch/large-model-ai-for-apple-devices",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Ai Degrees On The Rise",
+      "url": "https://www.deeplearning.ai/the-batch/ai-degrees-on-the-rise",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Top Agentic Performance Low Cost",
+      "url": "https://www.deeplearning.ai/the-batch/top-agentic-performance-low-cost",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Three Key Loops For Building Great Software",
+      "url": "https://www.deeplearning.ai/the-batch/three-key-loops-for-building-great-software",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Issue 359",
+      "url": "https://www.deeplearning.ai/the-batch/issue-359",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Inside Jalapeno Openais First Inference Chip",
+      "url": "https://www.deeplearning.ai/the-batch/inside-jalapeno-openais-first-inference-chip",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "U S Chatbot Use Passes 50 Percent",
+      "url": "https://www.deeplearning.ai/the-batch/u-s-chatbot-use-passes-50-percent",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Reinforcement Learning With Hints",
+      "url": "https://www.deeplearning.ai/the-batch/reinforcement-learning-with-hints",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Nvidias Nemotron Goes Big",
+      "url": "https://www.deeplearning.ai/the-batch/nvidias-nemotron-goes-big",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Agentic Tests Beyond The Bug Hunt",
+      "url": "https://www.deeplearning.ai/the-batch/agentic-tests-beyond-the-bug-hunt",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Claudes Benchmark Problems",
+      "url": "https://www.deeplearning.ai/the-batch/claudes-benchmark-problems",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Open Platforms Beat Power Plays",
+      "url": "https://www.deeplearning.ai/the-batch/open-platforms-beat-power-plays",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "url": "https://huggingface.co/papers/2606.30634",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
       "url": "https://huggingface.co/papers/2606.30616",
       "source": "Hugging Face",
@@ -413,12 +419,6 @@
     {
       "title": "SICAGE: Speaker-Independent Culture-Aware Gesture Generation using TED4C-L Dataset",
       "url": "https://huggingface.co/papers/2606.30001",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "SWE-Together: Evaluating Coding Agents in Interactive User Sessions",
-      "url": "https://huggingface.co/papers/2606.29957",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },

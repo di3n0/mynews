@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-30 18:10",
+  "updated": "2026-06-30 18:30",
   "category": "Security",
   "items": [
+    {
+      "title": "Nakivo發布Backup &amp; Replication 11新版本，新增支援VMware vSphere 9與Proxmox VE 9平臺",
+      "url": "https://www.ithome.com.tw/news/176989",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
     {
       "title": "Veeam強化Microsoft 365資料保護與管理能力，提升Exchange與SharePoint備份效能",
       "url": "https://www.ithome.com.tw/news/176981",
@@ -87,14 +93,20 @@
       "site": "ithome.com.tw"
     },
     {
-      "title": "大規模Edge惡意延伸套件活動StegoAd超過2年，微軟移除119個惡意套件",
-      "url": "https://www.ithome.com.tw/news/176966",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
       "title": "AI 攻防再進化：DEVCORE 紅隊實證曝光，企業風險評估速度為何跟不上 AI 迭代",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13046",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/30美國 CISA 發布 SASE 採用指南，協助聯邦機構邁向零信任架構在 TIC 2.0 架構下，各機構通常會將所有網際網路流量導向少數中央存取點。CISA 指出，這種設計容易形成瓶頸......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13044",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/29TrendAI將Claude Compliance API 整合至TrendAI Vision One平台全新整合方案將Claude Enterprise與Claude Platform的AI可視性、治理及風險控管能力納入延伸攻擊面管理架構......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13043",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -149,18 +161,6 @@
     {
       "title": "新聞 -2026/06/26資安署雙警示齊發：曬票恐洩個資、網通設備暴露成駭客跳板兩則警訊涵蓋個人與機關兩個層面，顯示當前資安威脅已全面滲透日常生活與關鍵基礎設施，呼籲全民提高警覺。......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13034",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/06/26IBM、Red Hat 與 Palo Alto Networks 擴大 Project Lightwell 合作此次合作整合漏洞發現、虛擬修補與軟體修復，協助企業縮短從漏洞發現到獲得保護的時間......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13033",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/06/26調查：66% 企業擁抱代理式 AI 科技政策牽動投資版圖調查顯示，企業對 AI 投資的布局趨向多元化。在未來一年內，41% 受訪企業認為生成式 AI 是投資重點，22% 則......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13032",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
