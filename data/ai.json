@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 17:56",
+  "updated": "2026-06-30 18:01",
   "category": "Ai",
   "items": [
     {
@@ -117,14 +117,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The operating cost starts after the demo",
-      "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "title": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Memory Safe Context Switching",
-      "url": "https://fil-c.org/context_switches",
+      "title": "The operating cost starts after the demo",
+      "url": "https://twoheads.net/the-promise-is-unattended-work/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -135,14 +135,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The end of the AArch64 desktop experiment",
-      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "title": "The end of the AArch64 desktop experiment",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -243,6 +243,12 @@
       "site": "news.ycombinator.com"
     },
     {
+      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/374954",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
+    },
+    {
       "title": "T5000 with jetpack7.2 flash fail",
       "url": "https://forums.developer.nvidia.com/t/t5000-with-jetpack7-2-flash-fail/374953",
       "source": "Nvidia",
@@ -323,12 +329,6 @@
     {
       "title": "CCCL Runtime: CUDA를 위한 현대적인 C++ 런타임",
       "url": "https://forums.developer.nvidia.com/t/cccl-runtime-cuda-c/374934",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "Help Powering Jetson Orin Nano Super Dev Kit, 8GB Module Using a 6S LiPo Battery",
-      "url": "https://forums.developer.nvidia.com/t/help-powering-jetson-orin-nano-super-dev-kit-8gb-module-using-a-6s-lipo-battery/374932",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
