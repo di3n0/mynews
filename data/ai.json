@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 17:40",
+  "updated": "2026-06-30 17:56",
   "category": "Ai",
   "items": [
     {
@@ -117,6 +117,12 @@
       "site": "news.ycombinator.com"
     },
     {
+      "title": "The operating cost starts after the demo",
+      "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
       "title": "Memory Safe Context Switching",
       "url": "https://fil-c.org/context_switches",
       "source": "Hacker News",
@@ -129,14 +135,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "title": "The end of the AArch64 desktop experiment",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Old Computer Challenge",
-      "url": "http://occ.sdf.org/",
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -147,14 +153,8 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The end of the AArch64 desktop experiment",
-      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
-      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
+      "title": "Old Computer Challenge",
+      "url": "http://occ.sdf.org/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -165,14 +165,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The operating cost starts after the demo",
-      "url": "https://twoheads.net/the-promise-is-unattended-work/",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -183,14 +183,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "title": "How to corrupt an SQLite database file",
+      "url": "https://www.sqlite.org/howtocorrupt.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How to corrupt an SQLite database file",
-      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -213,20 +213,14 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Popping the GPU Bubble",
-      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
       "title": "Dark Sky Lighting",
       "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-      "url": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -239,6 +233,12 @@
     {
       "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
       "url": "https://humphri.es/blog/WATaBoy/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
