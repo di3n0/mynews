@@ -1,250 +1,256 @@
 {
-  "updated": "2026-07-01 06:01",
+  "updated": "2026-07-02 06:00",
   "category": "Ai",
   "items": [
     {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "title": "ZCode: Claude Code from the Makers of GLM",
+      "url": "https://zcode.z.ai/cn",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I ported Kubernetes to the browser",
-      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How does a pull-back car work? Illustrated teardown",
-      "url": "https://mechanical-pencil.com/products/car",
+      "title": "Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I built a mmWave material classification radar (2025)",
-      "url": "https://gauthier-lechevalier.com/radar",
+      "title": "Proliferate (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Stroustrup's Rule (2024)",
-      "url": "https://buttondown.com/hillelwayne/archive/stroustrups-rule/",
+      "title": "Internal Combustion Engine (2021)",
+      "url": "https://ciechanow.ski/internal-combustion-engine/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "url": "https://karolina.mgdubiel.com/drone/",
+      "title": "Ask HN: Who is hiring? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48747976",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Knoppix",
-      "url": "https://www.knopper.net/knoppix/index-en.html",
+      "title": "Fable 5 Is Back",
+      "url": "https://twitter.com/claudeai/status/2072402636813607381",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-      "url": "https://www.gutenberg.org/ebooks/24518",
+      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
+      "url": "https://blog.cloudflare.com/monetization-gateway/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Waveloop: What Fable left me",
-      "url": "https://neynt.ca/writing/waveloop/",
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "url": "https://probelab.io/blog/optimistic-provide/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Set up your own DoH (DNS over HTTPS) service",
-      "url": "https://nochan.net/b/Internet-Crap/20260602-Set-Up-Your-Own-DoH-Service/",
+      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "url": "https://news.ycombinator.com/item?id=48746752",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: My 13-year-old built an ant colony tracker",
-      "url": "https://formicarium.es",
+      "title": "One KW wind turbine without civil engineering",
+      "url": "https://www.windtowatt.com/index-en.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Long Island's decommissioned nuclear power plant",
-      "url": "https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/",
+      "title": "Ask HN: Who wants to be hired? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48747975",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Have you restarted your computer this week?",
-      "url": "https://taonaw.com/2026/06/27/have-you-restarted-your-computer.html",
+      "title": "The Apple Disk II Controller Card",
+      "url": "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "CERN bids farewell to the LHC and enters Long Shutdown 3",
-      "url": "https://home.cern/cern-bids-farewell-to-the-lhc-and-enters-long-shutdown-3/",
+      "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
+      "url": "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I built a 10 inch mini rack from aluminium extrusions",
-      "url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
+      "title": "Most rewrites serve the engineer, not the business",
+      "url": "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Reading the internals of Postgres: Database cluster, databases, and tables",
-      "url": "https://www.buraksen.dev/articles/internals-of-postgresql-db-cluster-and-tables",
+      "title": "Hanami 3.0: In Full Bloom",
+      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Matrix URIs, a URL syntax from Tim Berners-Lee that never shipped (1996)",
-      "url": "https://www.w3.org/DesignIssues/MatrixURIs.html",
+      "title": "I Left Harry's All-Night Hamburgers",
+      "url": "https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "A peek into Reddit's anti-spam internals",
-      "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "url": "https://www.weaverobotics.com/isaac-1",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Morbid: Debunking Modern Longevity Science",
-      "url": "https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel",
+      "title": "1-Bit Pixel Art Emojis",
+      "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Amazon seller reveals glimpse of shadow bribery market",
-      "url": "https://www.latimes.com/business/story/2026-06-30/shadow-bribery-market-inside-amazon-preys-on-desperate-sellers",
+      "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
+      "url": "https://wasm.chdb.io/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "RF hacking my cloud-controlled ceiling fan",
-      "url": "https://samwilkinson.io/posts/2026-06-24-rf-hacking-dreo",
+      "title": "Fable open sourced NanoClaw's agent factory. It cost $800",
+      "url": "https://twitter.com/Gavriel_Cohen/status/2072432348805669139",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "TensorRT-Edge-LLM on Jetson AGX Thor: “No math backend found” although CUDA is installed",
-      "url": "https://forums.developer.nvidia.com/t/tensorrt-edge-llm-on-jetson-agx-thor-no-math-backend-found-although-cuda-is-installed/375013",
+      "title": "\"Air conditioned GB10 x2 \" How i stopped sudden shutdowns",
+      "url": "https://forums.developer.nvidia.com/t/air-conditioned-gb10-x2-how-i-stopped-sudden-shutdowns/375157",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Bangladesh (+880)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-bangladesh-880/375012",
+      "title": "Chunjiang-Intelligence/DeepSeek-v4-Fable model is this legit?",
+      "url": "https://forums.developer.nvidia.com/t/chunjiang-intelligence-deepseek-v4-fable-model-is-this-legit/375156",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Tegra-host1x 13e00000.host1x: syncpt_load failed",
-      "url": "https://forums.developer.nvidia.com/t/tegra-host1x-13e00000-host1x-syncpt-load-failed/375009",
+      "title": "How are you protecting your AI models when deploying to customer edge hardware?",
+      "url": "https://forums.developer.nvidia.com/t/how-are-you-protecting-your-ai-models-when-deploying-to-customer-edge-hardware/375154",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Enclosed Rack Cooling",
-      "url": "https://forums.developer.nvidia.com/t/enclosed-rack-cooling/375008",
+      "title": "Off-the-shelf cooling enclosure",
+      "url": "https://forums.developer.nvidia.com/t/off-the-shelf-cooling-enclosure/375153",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Не могу подтвердить учетную запись из России",
-      "url": "https://forums.developer.nvidia.com/t/topic/375005",
+      "title": "Manual Account Verification Request - Russia (+7) - Need NIM API Access",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-russia-7-need-nim-api-access/375152",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Pakistan (+92) [nehalpeachy24@gmail.com]",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-pakistan-92-nehalpeachy24-gmail-com/375004",
+      "title": "Simulation of redesign and development",
+      "url": "https://forums.developer.nvidia.com/t/simulation-of-redesign-and-development/375143",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "RTX 4090 driver crash",
-      "url": "https://forums.developer.nvidia.com/t/rtx-4090-driver-crash/375003",
+      "title": "Kmer size control in haplotypecaller",
+      "url": "https://forums.developer.nvidia.com/t/kmer-size-control-in-haplotypecaller/375142",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Requesting Manual Account Verification - Bangladesh Country Code Missing",
-      "url": "https://forums.developer.nvidia.com/t/requesting-manual-account-verification-bangladesh-country-code-missing/374999",
+      "title": "**NVIDIA Omniverse Licensing Change**",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-omniverse-licensing-change/375141",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Academic research grant portal closed early?",
-      "url": "https://forums.developer.nvidia.com/t/academic-research-grant-portal-closed-early/374990",
+      "title": "RTX 2080 - Fan control broken (0 RPM, uncontrollable) since driver at least 581.x, worse on 610.x",
+      "url": "https://forums.developer.nvidia.com/t/rtx-2080-fan-control-broken-0-rpm-uncontrollable-since-driver-at-least-581-x-worse-on-610-x/375139",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Does BlueField-3 DPU (OPN: 900-9D3B6-00SV-AA0) support port splitting?",
-      "url": "https://forums.developer.nvidia.com/t/does-bluefield-3-dpu-opn-900-9d3b6-00sv-aa0-support-port-splitting/374989",
+      "title": "NVIDIA Omniverse Licensing Change",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-omniverse-licensing-change/375138",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Designing GPU-Accelerated Query Engines with NVIDIA GQE",
-      "url": "https://forums.developer.nvidia.com/t/designing-gpu-accelerated-query-engines-with-nvidia-gqe/374988",
+      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/375137",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NVIDIA Software update Bricked my 2 Sparks",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-software-update-bricked-my-2-sparks/374985",
+      "title": "Request to enable \"Public API Endpoints\" permission for my personal organization – 403 on integrate.api.nvidia.co",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization-403-on-integrate-api-nvidia-co/375134",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request — Bangladesh (+880) — Phone Number Not in List",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-bangladesh-880-phone-number-not-in-list/374982",
+      "title": "Jetson Orin INA3221",
+      "url": "https://forums.developer.nvidia.com/t/jetson-orin-ina3221/375133",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NVIDIA Nemotron TwoTower 30B-A3B - Anyone tried this out yet?",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-nemotron-twotower-30b-a3b-anyone-tried-this-out-yet/374980",
+      "title": "Phone number verification - Vietnam (+84)",
+      "url": "https://forums.developer.nvidia.com/t/phone-number-verification-vietnam-84/375130",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Optimizing a Neural Reconstruction Pipeline Using NVIDIA Nsight Developer Tools",
-      "url": "https://forums.developer.nvidia.com/t/optimizing-a-neural-reconstruction-pipeline-using-nvidia-nsight-developer-tools/374976",
+      "title": "HP OMEN 16-am0015ns: brightness control non-functional",
+      "url": "https://forums.developer.nvidia.com/t/hp-omen-16-am0015ns-brightness-control-non-functional/375129",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
       "title": "About",
       "url": "https://www.deeplearning.ai/the-batch/about",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Anthropic Opus 4 8 Leaps Forward",
+      "url": "https://www.deeplearning.ai/the-batch/anthropic-opus-4-8-leaps-forward",
       "source": "DeepLearning.ai",
       "site": "deeplearning.ai"
     },
@@ -327,100 +333,106 @@
       "site": "deeplearning.ai"
     },
     {
-      "title": "Open Platforms Beat Power Plays",
-      "url": "https://www.deeplearning.ai/the-batch/open-platforms-beat-power-plays",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
-      "url": "https://huggingface.co/papers/2606.30634",
+      "title": "FaceMoE: Mixture of Experts for Low-Resolution Face Recognition",
+      "url": "https://huggingface.co/papers/2606.32040",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
-      "url": "https://huggingface.co/papers/2606.30616",
+      "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
+      "url": "https://huggingface.co/papers/2606.32039",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation",
-      "url": "https://huggingface.co/papers/2606.30598",
+      "title": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
+      "url": "https://huggingface.co/papers/2606.32036",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Orca: The World is in Your Mind",
-      "url": "https://huggingface.co/papers/2606.30534",
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "https://huggingface.co/papers/2606.32034",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Beyond IID: How General Are Tabular Foundation Models, Really?",
-      "url": "https://huggingface.co/papers/2606.30410",
+      "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
+      "url": "https://huggingface.co/papers/2606.32033",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction",
-      "url": "https://huggingface.co/papers/2606.30308",
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "url": "https://huggingface.co/papers/2606.32032",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model",
-      "url": "https://huggingface.co/papers/2606.30292",
+      "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2606.32017",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "TACO: Tool-Augmented Credit Optimization for Agentic Tool Use",
-      "url": "https://huggingface.co/papers/2606.30251",
+      "title": "DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching",
+      "url": "https://huggingface.co/papers/2606.31980",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark",
-      "url": "https://huggingface.co/papers/2606.30170",
+      "title": "LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields",
+      "url": "https://huggingface.co/papers/2606.31941",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding",
-      "url": "https://huggingface.co/papers/2606.30084",
+      "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
+      "url": "https://huggingface.co/papers/2606.31924",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Little Brains, Big Feats: Exploring Compact Language Models",
-      "url": "https://huggingface.co/papers/2606.30062",
+      "title": "Creating Intelligence: A Computational Foundation for AGI",
+      "url": "https://huggingface.co/papers/2606.31819",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Illuminating Unified Multimodal Model for Free-form Interleaved Text-Image Generation",
-      "url": "https://huggingface.co/papers/2606.30054",
+      "title": "MuSViT: A Foundation Vision Model for Sheet Music Representation",
+      "url": "https://huggingface.co/papers/2606.31811",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes",
-      "url": "https://huggingface.co/papers/2606.30047",
+      "title": "MemLearner: Learning to Query Context memory for Video World Models",
+      "url": "https://huggingface.co/papers/2606.31734",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Walking in the Implicit: Interactive World Exploration via Neural Scene Representation",
-      "url": "https://huggingface.co/papers/2606.30045",
+      "title": "HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation",
+      "url": "https://huggingface.co/papers/2606.31682",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs",
-      "url": "https://huggingface.co/papers/2606.30026",
+      "title": "FLARE-AI: Flaw Reporting for AI",
+      "url": "https://huggingface.co/papers/2606.31567",
       "source": "Hugging Face",
       "site": "huggingface.co"
+    },
+    {
+      "title": "NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
+      "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
+    },
+    {
+      "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression",
+      "url": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
       "title": "Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
@@ -471,15 +483,9 @@
       "site": "marktechpost.com"
     },
     {
-      "title": "Prime Intellect Releases prime-rl 0.6.0 to Train Trillion-Parameter MoE Models on Agentic RL Workloads",
-      "url": "https://www.marktechpost.com/2026/06/23/prime-intellect-releases-prime-rl-0-6-0-to-train-trillion-parameter-moe-models-on-agentic-rl-workloads/",
-      "source": "Marktechpost OpenSource",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "MoonMath AI Open-Sources a HIP Attention Kernel for AMD MI300X That Beats AITER v3 on Every Shape and Rounding Mode",
-      "url": "https://www.marktechpost.com/2026/06/22/moonmath-ai-open-sources-a-hip-attention-kernel-for-amd-mi300x-that-beats-aiter-v3-on-every-shape-and-rounding-mode/",
-      "source": "Marktechpost OpenSource",
+      "title": "Linq&#8217;s iMessage Apps Bring Payments, Tickets, Flights, and Games Into the iMessage Bubble Through the imessage_app Part",
+      "url": "https://www.marktechpost.com/2026/06/30/linqs-imessage-apps/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
@@ -533,12 +539,6 @@
     {
       "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
       "url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Perplexity Launches Brain, a Self-Improving Memory System That Builds a Context Graph of an Agent&#8217;s Work and Learns Overnight",
-      "url": "https://www.marktechpost.com/2026/06/18/perplexity-launches-brain/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }

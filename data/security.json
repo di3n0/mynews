@@ -1,99 +1,111 @@
 {
-  "updated": "2026-07-01 06:01",
+  "updated": "2026-07-02 06:00",
   "category": "Security",
   "items": [
     {
-      "title": "雅婷智慧推FedGPT主權AI平臺，瞄準72%企業地端部署需求",
-      "url": "https://www.ithome.com.tw/news/176993",
+      "title": "研究揭露AirDrop與Quick Share安全漏洞，允許駭客癱瘓分享功能",
+      "url": "https://www.ithome.com.tw/news/177024",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "美超微AI伺服器出口案調查擴大，青雲、是方電訊遭搜索，是方澄清僅提供機房服務",
-      "url": "https://www.ithome.com.tw/news/176991",
+      "title": "OpenAI發表基準測試GeneBench-Pro，讓AI模型評測更接近生物學研究任務",
+      "url": "https://www.ithome.com.tw/news/177023",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Meta用AI從打字腦訊號重建語句，推進非侵入式腦機介面研究",
-      "url": "https://www.ithome.com.tw/news/176990",
+      "title": "Google修補Gemini CLI重大漏洞，若未更新可能導致CI/CD環境遭遠端執行程式碼攻擊",
+      "url": "https://www.ithome.com.tw/news/177022",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "資安界如何優化漏洞修補優先順序？HackerCat教你快速搞懂CVSS、EPSS、KEV這三項指標",
-      "url": "https://www.ithome.com.tw/news/176987",
+      "title": "隱藏來電號碼警示語音防詐奏效，7月起市話、行動隱藏號碼警示語音全面上路",
+      "url": "https://www.ithome.com.tw/news/177021",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Nakivo發布Backup &amp; Replication 11新版本，新增支援VMware vSphere 9與Proxmox VE 9平臺",
-      "url": "https://www.ithome.com.tw/news/176989",
+      "title": "研究人員揭露含大量零位元的RSA金鑰較易破解，特定金鑰結構特徵恐削弱加密安全性",
+      "url": "https://www.ithome.com.tw/news/177020",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Veeam強化Microsoft 365資料保護與管理能力，提升Exchange與SharePoint備份效能",
-      "url": "https://www.ithome.com.tw/news/176981",
+      "title": "愛立信：AI原生6G將更重視能源效率，AI已用於最佳化行動網路降低耗能",
+      "url": "https://www.ithome.com.tw/news/177012",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "CI/CD供應鏈存在Cordyceps風險，GitHub Actions流程恐遭挾持",
-      "url": "https://www.ithome.com.tw/news/176978",
+      "title": "Anthropic公布科學研究專用開發環境Claude Science",
+      "url": "https://www.ithome.com.tw/news/177018",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "日產汽車證實Oracle PeopleSoft系統被駭",
-      "url": "https://www.ithome.com.tw/news/176980",
+      "title": "數發部揭主權AI策略：算力中心必須在臺灣、模型需具備3大理解力，另看好主權AI服務出海",
+      "url": "https://www.ithome.com.tw/news/177017",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Arena將AI模型評測變現，年化收入達1億美元",
-      "url": "https://www.ithome.com.tw/news/176979",
+      "title": "Citrix修補NetScaler ADC與Gateway 6項漏洞，包含可能導致敏感資訊外洩或阻斷服務攻擊的重大漏洞",
+      "url": "https://www.ithome.com.tw/news/177016",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "立院三讀通過「虛擬資產服務法」，服務商採許可制，金融業可申請兼營",
-      "url": "https://www.ithome.com.tw/news/176977",
+      "title": "Anthropic稱Fable 5出口管制解除，7月1日恢復全球上線",
+      "url": "https://www.ithome.com.tw/news/177013",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】6月30日，網路曬票存在風險，資安署呼籲民眾應有效遮蔽條碼",
-      "url": "https://www.ithome.com.tw/news/176976",
+      "title": "Next.js 16.3大幅改善打包工具Turbopack記憶體用量與建置快取",
+      "url": "https://www.ithome.com.tw/news/177006",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "群暉修補MailPlus Server重大漏洞，全球近2,100臺系統暴露於網路，面臨潛在攻擊風險",
-      "url": "https://www.ithome.com.tw/news/176975",
+      "title": "【資安日報】7月1日，PChome旗下Pi拍錢包傳出資料外洩",
+      "url": "https://www.ithome.com.tw/news/177011",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "美國聯邦保險監管機構遭Oracle PeopleSoft漏洞入侵導致資料外洩",
-      "url": "https://www.ithome.com.tw/news/176973",
+      "title": "Apple修補30餘項iOS、macOS與Safari漏洞，部分WebKit瀏覽器漏洞由AI工具協助發現",
+      "url": "https://www.ithome.com.tw/news/177010",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "俄羅斯駭客Turla使用後門StockStay於烏克蘭從事間諜活動",
-      "url": "https://www.ithome.com.tw/news/176972",
+      "title": "勒索軟體Blackfield聲稱攻擊散熱解決方案廠商尼得科超眾，向日本母公司勒索200萬美元",
+      "url": "https://www.ithome.com.tw/news/177009",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "美國FCC強化海底電纜管理，新規納入終端設備並加速安全審查",
-      "url": "https://www.ithome.com.tw/news/176971",
+      "title": "Google關閉Tenor API，第三方GIF搜尋生態重新洗牌",
+      "url": "https://www.ithome.com.tw/news/177008",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "AI 攻防再進化：DEVCORE 紅隊實證曝光，企業風險評估速度為何跟不上 AI 迭代",
+      "title": "Linux 基金會啟動Akrites計畫，因應AI加速漏洞發現與利用的威脅",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13048",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/01中文語系 APT 組織 CL-STA-1062 針對東南亞部署新型後門 TinyRCT此次攻擊活動主要針對能源與政府部門的國有企業。Unit 42 指出，CL-STA-1062 與 UAT-7237 存在重疊之處，後......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13047",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/06/30AI 攻防再進化：DEVCORE 紅隊實證曝光，企業風險評估速度為何跟不上 AI 迭代多數大型企業仍維持一年一次的風險評估與滲透測試頻率，但若企業高度仰賴 AI 模型，模型本身的版本更新與能......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13046",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
@@ -153,18 +165,6 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/06/26微軟 6 月 Patch Tuesday 修補 200 漏洞，Exchange Server 零時差遭主動攻擊台灣企業首當其衝台灣企業廣泛採用 Exchange Server 作為企業郵件系統，資安團隊應視此為最高優先修補項目。......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13036",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/06/26美國聯邦新版資安指令上路，業界：三天完成鑑識調查才是真正難關BOD 26-04 的核心是一套風險矩陣式分級模型，以四項條件評估每個漏洞的威脅程度：該漏洞是否已列入 CISA 的......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13035",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "傳統防火牆只看 IP，語意防火牆看「意圖」：林宜隆教授解析神經符號架構與 AI 治理三標準如何聯手對抗工業化攻擊",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13029",
       "source": "資安人",
@@ -177,110 +177,104 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "從發現到控制：如何在 OT 環境中評估與處理高危漏洞",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13018",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "Miasma 蠕蟲攻擊微軟 73 個 GitHub 儲存庫，AI 編碼工具成新傳播向量",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13020",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "資安署雙警示齊發：曬票恐洩個資、網通設備暴露成駭客跳板",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13034",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "url": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "url": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+      "url": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "url": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "url": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "url": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
-      "url": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "url": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-      "url": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "url": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "url": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-      "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "url": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
-      "url": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "url": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "url": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
-      "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "url": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "url": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "url": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
