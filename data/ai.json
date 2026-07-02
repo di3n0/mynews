@@ -1,250 +1,256 @@
 {
-  "updated": "2026-07-02 06:00",
+  "updated": "2026-07-03 06:00",
   "category": "Ai",
   "items": [
     {
-      "title": "ZCode: Claude Code from the Makers of GLM",
-      "url": "https://zcode.z.ai/cn",
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "What to learn to be a graphics programmer",
-      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "url": "http://www.lmdb.tech/doc/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "title": "Podman v6.0.0",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Box3D, an open source 3D physics engine",
-      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "url": "https://github.com/Chocobozzz/PeerTube",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
+      "title": "Vulkan is now available on NetBSD",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Internal Combustion Engine (2021)",
-      "url": "https://ciechanow.ski/internal-combustion-engine/",
+      "title": "Postgres transactions are a distributed systems superpower",
+      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Ask HN: Who is hiring? (July 2026)",
-      "url": "https://news.ycombinator.com/item?id=48747976",
+      "title": "How to ask for help from people who don't know you",
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Fable 5 Is Back",
-      "url": "https://twitter.com/claudeai/status/2072402636813607381",
+      "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+      "url": "https://openjdk.org/jeps/539",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Monetization Gateway: Charge for any resource behind Cloudflare via x402",
-      "url": "https://blog.cloudflare.com/monetization-gateway/",
+      "title": "The Short Leash AI Coding Method for Beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How We Made IPFS Content Publishing 10x Faster",
-      "url": "https://probelab.io/blog/optimistic-provide/",
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "url": "https://manufact.com",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
-      "url": "https://news.ycombinator.com/item?id=48746752",
+      "title": "Great Salt Lake Tracker – Grow the Flow",
+      "url": "https://growtheflowutah.org/laketracker/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "One KW wind turbine without civil engineering",
-      "url": "https://www.windtowatt.com/index-en.html",
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Ask HN: Who wants to be hired? (July 2026)",
-      "url": "https://news.ycombinator.com/item?id=48747975",
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Apple Disk II Controller Card",
-      "url": "https://www.bigmessowires.com/2021/11/12/the-amazing-disk-ii-controller-card/",
+      "title": "24-bit&#x2F;192kHz music downloads and why they make no sense (2012)",
+      "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Mortality associated with non-optimal ambient temperatures from 2000 to 2019",
-      "url": "https://www.researchgate.net/publication/353058947_Global_regional_and_national_burden_of_mortality_associated_with_non-optimal_ambient_temperatures_from_2000_to_2019_a_three-stage_modelling_study",
+      "title": "A New Catalog of Stellar Rotation Periods for over a Million Stars",
+      "url": "https://aasnova.org/2026/07/01/a-new-catalog-of-stellar-rotation-periods-for-over-a-million-stars/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Most rewrites serve the engineer, not the business",
-      "url": "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html",
+      "title": "Wireless LAN SD",
+      "url": "https://www.sdcard.org/developers/sd-standard-overview/sdio-isdio/wireless-lan-sd/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Hanami 3.0: In Full Bloom",
-      "url": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+      "title": "LibreCAD in the Browser",
+      "url": "https://magik.net/librecad/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I Left Harry's All-Night Hamburgers",
-      "url": "https://escapepod.org/2013/09/14/ep413-why-i-left-harrys-all-night-hamburgers/",
+      "title": "Immich 3.0",
+      "url": "https://github.com/immich-app/immich/discussions/29439",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "url": "https://www.weaverobotics.com/isaac-1",
+      "title": "Reality has a surprising amount of detail",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "1-Bit Pixel Art Emojis",
-      "url": "https://hypertalking.com/2023/05/15/1-bit-pixel-art-emojis/",
+      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "A complete ClickHouse OLAP engine, compiled to WebAssembly",
-      "url": "https://wasm.chdb.io/",
+      "title": "Ask HN: Since when does Craigslist's front page have emojis?",
+      "url": "https://news.ycombinator.com/item?id=48739792",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Fable open sourced NanoClaw's agent factory. It cost $800",
-      "url": "https://twitter.com/Gavriel_Cohen/status/2072432348805669139",
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "\"Air conditioned GB10 x2 \" How i stopped sudden shutdowns",
-      "url": "https://forums.developer.nvidia.com/t/air-conditioned-gb10-x2-how-i-stopped-sudden-shutdowns/375157",
+      "title": "VIC failure - tegra-mc: VPR violation",
+      "url": "https://forums.developer.nvidia.com/t/vic-failure-tegra-mc-vpr-violation/375373",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Chunjiang-Intelligence/DeepSeek-v4-Fable model is this legit?",
-      "url": "https://forums.developer.nvidia.com/t/chunjiang-intelligence-deepseek-v4-fable-model-is-this-legit/375156",
+      "title": "MiniMax-M3-AWQ at 1M-token context on 4× DGX Spark (GB10) — 4-bit nvfp4 KV 25 tok/s",
+      "url": "https://forums.developer.nvidia.com/t/minimax-m3-awq-at-1m-token-context-on-4x-dgx-spark-gb10-4-bit-nvfp4-kv-25-tok-s/375372",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "How are you protecting your AI models when deploying to customer edge hardware?",
-      "url": "https://forums.developer.nvidia.com/t/how-are-you-protecting-your-ai-models-when-deploying-to-customer-edge-hardware/375154",
+      "title": "Hardware-Rooted AI Security That Won&#39;t Slow You Down",
+      "url": "https://forums.developer.nvidia.com/t/hardware-rooted-ai-security-that-wont-slow-you-down/375369",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Off-the-shelf cooling enclosure",
-      "url": "https://forums.developer.nvidia.com/t/off-the-shelf-cooling-enclosure/375153",
+      "title": "Increase Rate limit from 40 to 200",
+      "url": "https://forums.developer.nvidia.com/t/increase-rate-limit-from-40-to-200/375367",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Russia (+7) - Need NIM API Access",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-russia-7-need-nim-api-access/375152",
+      "title": "Nvethernet Jetson ORIN EQOS MAC",
+      "url": "https://forums.developer.nvidia.com/t/nvethernet-jetson-orin-eqos-mac/375363",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Simulation of redesign and development",
-      "url": "https://forums.developer.nvidia.com/t/simulation-of-redesign-and-development/375143",
+      "title": "Oh my god",
+      "url": "https://forums.developer.nvidia.com/t/oh-my-god/375362",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Kmer size control in haplotypecaller",
-      "url": "https://forums.developer.nvidia.com/t/kmer-size-control-in-haplotypecaller/375142",
+      "title": "MiniMax-M3-AWQ running TP=4 across 4× DGX Spark (GB10) 33 tok/s — full recipe + the GB10 build fixes",
+      "url": "https://forums.developer.nvidia.com/t/minimax-m3-awq-running-tp-4-across-4x-dgx-spark-gb10-33-tok-s-full-recipe-the-gb10-build-fixes/375361",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "**NVIDIA Omniverse Licensing Change**",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-omniverse-licensing-change/375141",
+      "title": "The best 2x spark qwen 3.6 27b recipe",
+      "url": "https://forums.developer.nvidia.com/t/the-best-2x-spark-qwen-3-6-27b-recipe/375360",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "RTX 2080 - Fan control broken (0 RPM, uncontrollable) since driver at least 581.x, worse on 610.x",
-      "url": "https://forums.developer.nvidia.com/t/rtx-2080-fan-control-broken-0-rpm-uncontrollable-since-driver-at-least-581-x-worse-on-610-x/375139",
+      "title": "Manual Account Verification Request - Pakistan (+92)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-pakistan-92/375359",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NVIDIA Omniverse Licensing Change",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-omniverse-licensing-change/375138",
+      "title": "Request for NVIDIA NIM API Rate Limit Increase (40 → 200 RPM)",
+      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-nim-api-rate-limit-increase-40-200-rpm/375355",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/375137",
+      "title": "Jetson Orin NX 16GB Bricked After Failed JetPack 7.2 Flash - No UART Output, No LED, Force Recovery Not Detected",
+      "url": "https://forums.developer.nvidia.com/t/jetson-orin-nx-16gb-bricked-after-failed-jetpack-7-2-flash-no-uart-output-no-led-force-recovery-not-detected/375354",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable \"Public API Endpoints\" permission for my personal organization – 403 on integrate.api.nvidia.co",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization-403-on-integrate-api-nvidia-co/375134",
+      "title": "Custom RSS key, hash and indirection table ignored",
+      "url": "https://forums.developer.nvidia.com/t/custom-rss-key-hash-and-indirection-table-ignored/375352",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Jetson Orin INA3221",
-      "url": "https://forums.developer.nvidia.com/t/jetson-orin-ina3221/375133",
+      "title": "CHANSEL_SHORT_FRAME and PHY_INTR but still dequeing buffers",
+      "url": "https://forums.developer.nvidia.com/t/chansel-short-frame-and-phy-intr-but-still-dequeing-buffers/375351",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Phone number verification - Vietnam (+84)",
-      "url": "https://forums.developer.nvidia.com/t/phone-number-verification-vietnam-84/375130",
+      "title": "Aws activate false email mismatch",
+      "url": "https://forums.developer.nvidia.com/t/aws-activate-false-email-mismatch/375350",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "HP OMEN 16-am0015ns: brightness control non-functional",
-      "url": "https://forums.developer.nvidia.com/t/hp-omen-16-am0015ns-brightness-control-non-functional/375129",
+      "title": "IMX296 Global Shutter camera support on Jetson Orin Nano with JetPack 7 (L4T R39)?",
+      "url": "https://forums.developer.nvidia.com/t/imx296-global-shutter-camera-support-on-jetson-orin-nano-with-jetpack-7-l4t-r39/375349",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
       "title": "About",
       "url": "https://www.deeplearning.ai/the-batch/about",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "U S Lifts Export Controls On Claude Models",
+      "url": "https://www.deeplearning.ai/the-batch/u-s-lifts-export-controls-on-claude-models",
       "source": "DeepLearning.ai",
       "site": "deeplearning.ai"
     },
@@ -327,100 +333,100 @@
       "site": "deeplearning.ai"
     },
     {
-      "title": "Claudes Benchmark Problems",
-      "url": "https://www.deeplearning.ai/the-batch/claudes-benchmark-problems",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "FaceMoE: Mixture of Experts for Low-Resolution Face Recognition",
-      "url": "https://huggingface.co/papers/2606.32040",
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "https://huggingface.co/papers/2607.01224",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
-      "url": "https://huggingface.co/papers/2606.32039",
+      "title": "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
+      "url": "https://huggingface.co/papers/2607.01222",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "PointSplat: Compact Gaussian Splatting via Human-Centric Prediction",
-      "url": "https://huggingface.co/papers/2606.32036",
+      "title": "The State-Prediction Separation Hypothesis",
+      "url": "https://huggingface.co/papers/2607.01218",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-      "url": "https://huggingface.co/papers/2606.32034",
+      "title": "RepoRescue: An Empirical Study of LLM Agents on Whole-Repository Compatibility Rescue",
+      "url": "https://huggingface.co/papers/2607.01213",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE",
-      "url": "https://huggingface.co/papers/2606.32033",
+      "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+      "url": "https://huggingface.co/papers/2607.01211",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-      "url": "https://huggingface.co/papers/2606.32032",
+      "title": "TiRex-2: Generalizing TiRex to Multivariate Data and Streaming",
+      "url": "https://huggingface.co/papers/2607.01204",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2606.32017",
+      "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
+      "url": "https://huggingface.co/papers/2607.01191",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching",
-      "url": "https://huggingface.co/papers/2606.31980",
+      "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
+      "url": "https://huggingface.co/papers/2607.01131",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields",
-      "url": "https://huggingface.co/papers/2606.31941",
+      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
+      "url": "https://huggingface.co/papers/2607.01104",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "InstanceControl: Controllable Complex Image Generation without Instance Labeling",
-      "url": "https://huggingface.co/papers/2606.31924",
+      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+      "url": "https://huggingface.co/papers/2607.01071",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Creating Intelligence: A Computational Foundation for AGI",
-      "url": "https://huggingface.co/papers/2606.31819",
+      "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
+      "url": "https://huggingface.co/papers/2607.01002",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MuSViT: A Foundation Vision Model for Sheet Music Representation",
-      "url": "https://huggingface.co/papers/2606.31811",
+      "title": "Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination",
+      "url": "https://huggingface.co/papers/2607.00924",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MemLearner: Learning to Query Context memory for Video World Models",
-      "url": "https://huggingface.co/papers/2606.31734",
+      "title": "Valdi: Value Diffusion World Models",
+      "url": "https://huggingface.co/papers/2607.00917",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "HABIT: Human-Aware Behavior and Interaction Training Dataset for Robot Manipulation",
-      "url": "https://huggingface.co/papers/2606.31682",
+      "title": "MG-RWKV: Multi-Grained Context-Aware RWKV for Temporal Forgery Localization",
+      "url": "https://huggingface.co/papers/2607.00902",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "FLARE-AI: Flaw Reporting for AI",
-      "url": "https://huggingface.co/papers/2606.31567",
+      "title": "MultiSynt/MT: Trillion-Token Multi-Parallel Pre-Training Data Translated Across 36 Languages",
+      "url": "https://huggingface.co/papers/2607.00890",
       "source": "Hugging Face",
       "site": "huggingface.co"
+    },
+    {
+      "title": "The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
       "title": "NVIDIA Releases Nemotron-Labs-TwoTower: an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
@@ -477,9 +483,9 @@
       "site": "marktechpost.com"
     },
     {
-      "title": "Datalab Releases lift: A 9B Open-Weights Vision Model That Extracts Structured JSON From PDFs Using Schemas",
-      "url": "https://www.marktechpost.com/2026/06/23/datalab-releases-lift-a-9b-open-weights-vision-model-that-extracts-structured-json-from-pdfs-using-schemas/",
-      "source": "Marktechpost OpenSource",
+      "title": "Meet Alibaba&#8217;s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
@@ -533,12 +539,6 @@
     {
       "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
       "url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
-      "url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }
