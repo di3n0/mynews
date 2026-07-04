@@ -1,140 +1,148 @@
 {
-  "updated": "2026-07-03 06:00",
+  "updated": "2026-07-05 06:00",
   "category": "Trending",
   "items": [
     {
-      "title": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\n(📈 2,167 today)",
-      "language": "Python",
+      "title": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.\n(📈 716 today)",
+      "language": "JavaScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman\n(📈 866 today)",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman\n(📈 1,089 today)",
       "language": "JavaScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.\n(📈 2,925 today)",
-      "language": "Shell",
+      "title": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.\n(📈 726 today)",
+      "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "hasaneyldrm/exercises-dataset",
-      "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.\n(📈 942 today)",
-      "language": "HTML",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.\n(📈 322 today)",
-      "language": "JavaScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.\n(📈 962 today)",
-      "language": "Shell",
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.\n(📈 1,910 today)",
+      "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents\n(📈 141 today)",
+      "description": "Chrome DevTools for coding agents\n(📈 303 today)",
       "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "browser-use/video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents\n(📈 550 today)",
-      "language": "Python",
+      "title": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-host\n(📈 865 today)",
+      "language": "Rust",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "actions/checkout",
-      "url": "https://github.com/actions/checkout",
-      "description": "Action for checking out a repo\n(📈 5 today)",
-      "language": "TypeScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n(📈 508 today)",
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, \n(📈 432 today)",
       "language": "JavaScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"\n(📈 918 today)",
-      "language": "Python",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "agentskills/agentskills",
-      "url": "https://github.com/agentskills/agentskills",
-      "description": "Specification and documentation for Agent Skills\n(📈 47 today)",
-      "language": "Python",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.\n(📈 448 today)",
-      "language": "JavaScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "langflow-ai/langflow",
-      "url": "https://github.com/langflow-ai/langflow",
-      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.\n(📈 74 today)",
-      "language": "Python",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "pytorch/pytorch",
-      "url": "https://github.com/pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration\n(📈 45 today)",
-      "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems\n(📈 33 today)",
+      "description": "Machine Learning Systems\n(📈 446 today)",
       "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "ryanmcdermott/clean-code-javascript",
-      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-      "description": "Clean Code concepts adapted for JavaScript\n(📈 11 today)",
-      "language": "JavaScript",
+      "title": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "description": "A beautiful, powerful, self-hosted rom manager and player.\n(📈 400 today)",
+      "language": "Python",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.\n(📈 706 today)",
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#\n(📈 57 today)",
+      "language": "C#",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills\n(📈 351 today)",
+      "language": "Python",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.\n(📈 198 today)",
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器\n(📈 319 today)",
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.\n(📈 1,013 today)",
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "CoplayDev/unity-mcp",
+      "url": "https://github.com/CoplayDev/unity-mcp",
+      "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.\n(📈 68 today)",
+      "language": "C#",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-leve\n(📈 197 today)",
+      "language": "Python",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "crynta/terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "description": "Lightweight (7MB) Terminal-first AI-native dev workspace\n(📈 44 today)",
+      "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     }
