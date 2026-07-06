@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-06 06:01",
+  "updated": "2026-07-07 06:00",
   "category": "Sre",
   "items": [
+    {
+      "title": "SRE Weekly Issue #524",
+      "url": "https://sreweekly.com/sre-weekly-issue-524/",
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
+    },
     {
       "title": "SRE Weekly Issue #523",
       "url": "https://sreweekly.com/sre-weekly-issue-523/",
@@ -27,10 +33,40 @@
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #519",
-      "url": "https://sreweekly.com/sre-weekly-issue-519/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
+      "title": "Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting",
+      "url": "https://www.infoq.com/news/2026/07/netflix-cassandra-partition/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "InfoQ Opens AI Security & Privacy Engineering Cohort for Regulated Industries",
+      "url": "https://www.infoq.com/news/2026/07/online-cohort-ai-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Podcast: Spite-Driven Engineering: A New Blueprint for Cloud Security in the AI Native Era",
+      "url": "https://www.infoq.com/podcasts/new-blueprint-cloud-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: Practical Robustness: Going Beyond Memory Safety in Rust",
+      "url": "https://www.infoq.com/presentations/rust-autonomous-mobile-robots/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "AI Model Context Protocol Adds Centralised Auth for Enterprise",
+      "url": "https://www.infoq.com/news/2026/07/mcp-ema-enterprise-auth/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Cloudflare and AWS Embed x402 Agent Payments at the Edge",
+      "url": "https://www.infoq.com/news/2026/07/cloudflare-aws-x402-micropayment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "AWS Introduces Amazon S3 Annotations",
@@ -83,42 +119,6 @@
     {
       "title": "Presentation: Fine Tuning the Enterprise: Reinforcement Learning in Practice",
       "url": "https://www.infoq.com/presentations/rft-openai-model/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Google Releases A2UI v0.9: Portable, Framework-Agnostic Generative UI",
-      "url": "https://www.infoq.com/news/2026/07/google-a2ui-genui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "SwiftUI Adds New Document Protocol, Improves Performance, and More",
-      "url": "https://www.infoq.com/news/2026/07/swiftui-wwdc26/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Shifting Platform Development from Projects to Products",
-      "url": "https://www.infoq.com/news/2026/07/platform-projects-products/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Apple Extends Private Cloud Compute to Google Cloud for the First Time",
-      "url": "https://www.infoq.com/news/2026/07/apple-pcc-google-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix",
-      "url": "https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Instacart Scales Personalized Marketing via Configuration-Driven Multi-Tenant Platform",
-      "url": "https://www.infoq.com/news/2026/07/instacart-multi-tenant-marketing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }

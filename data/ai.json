@@ -1,244 +1,244 @@
 {
-  "updated": "2026-07-06 06:01",
+  "updated": "2026-07-07 06:00",
   "category": "Ai",
   "items": [
     {
-      "title": "Reparaible and open source paper printer",
-      "url": "https://www.opentools.studio/",
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Organic Maps",
-      "url": "https://organicmaps.app/",
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "title": "Learning to code is still worthwhile",
+      "url": "https://stevekrouse.com/learn-to-code",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Completing a Computer Science Degree on Coursera",
-      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The future of Flipper Zero development",
-      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "title": "Linux on the Atari Jaguar",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
-      "url": "https://dhilst.github.io/algae/game/index.html",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Pint in England",
-      "url": "https://dispatch-media.com/the-best-pint-in-england/",
+      "title": "Resetting Xbox",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Starring the Computer",
-      "url": "https://www.starringthecomputer.com/computers.html",
+      "title": "Januscape: Guest-to-Host Escape in KVM&#x2F;x86 [CVE-2026-53359]",
+      "url": "https://github.com/V4bel/Januscape",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "title": "Rotman Lens",
+      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
+      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+      "url": "https://news.ycombinator.com/item?id=48806976",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Osint tool that finds exposed files on domains",
-      "url": "https://search.cerast-intelligence.com/",
+      "title": "Using precision editing to study human embryo development shows master gene",
+      "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "CoCom regulations and GPS receivers for balloons and cubesats",
-      "url": "https://space.stackexchange.com/questions/14687/current-situation-with-cocom-regulations-and-gps-receivers-for-balloons-and-cube",
+      "title": "Aluminum foil (2021)",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Introduction to Compilers and Language Design (2021)",
-      "url": "https://dthain.github.io/books/compiler/",
+      "title": "Python 3.14 compiled to metal – no interpreter",
+      "url": "https://github.com/can1357/pon",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Dependencies should be fetched directly from VCS",
-      "url": "https://www.arp242.net/deps-vcs.html",
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Cursed circuits #5: capacitance multiplier",
-      "url": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
+      "title": "Road to Elm 1.0",
+      "url": "https://elm-lang.org/news/faster-builds",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "You need a webring",
-      "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
+      "title": "Egypt Is Building a New Nile",
+      "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Installing A&#x2F;UX 1.1 like it's the 90s",
-      "url": "https://thomasw.dev/post/aux11/",
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
-      "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "We Always Leave Things Unfinished",
-      "url": "https://bigreaderbadgrades.substack.com/p/we-always-leave-things-unfinished",
+      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
+      "url": "https://github.com/karola3vax/CS2FOW",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Papa Johns Can Predict When Your Fridge Is Empty",
-      "url": "https://www.adexchanger.com/tv/papa-johns-can-predict-when-your-fridge-is-empty/",
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The great blogging collapse: What happened to 100 successful blogs?",
-      "url": "https://danielstanica.com/posts/Great-Blogging-Collapse",
+      "title": "The LLVM Compiler Infrastructure",
+      "url": "https://cacm.acm.org/federal-funding-of-academic-research/the-llvm-compiler-infrastructure/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Airplane Boneyards List and Map",
-      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
+      "title": "Clojure 1.13 adds support for checked keys",
+      "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Jim Keller's startup is building a factory to mass-produce small chip fabs",
-      "url": "https://www.tomshardware.com/tech-industry/atomic-semi-rebrands-as-fab2-and-shifts-operations-to-texas",
+      "title": "Price per 1M tokens is meaningless",
+      "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How the first solo-founder unicorn gets built",
-      "url": "https://www.thisandthat.chat/blog/how-the-first-solo-founder-unicorn-gets-built/",
+      "title": "1k Words: A Writing Contest",
+      "url": "https://writingclub.world/1picture1000words",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Protrionix Technologies — Building off-grid power & remote management for Jetson-based edge deployments",
-      "url": "https://forums.developer.nvidia.com/t/protrionix-technologies-building-off-grid-power-remote-management-for-jetson-based-edge-deployments/375679",
+      "title": "403 Forbidden on chat completions - missing Public API Endpoints permission for Personal Org",
+      "url": "https://forums.developer.nvidia.com/t/403-forbidden-on-chat-completions-missing-public-api-endpoints-permission-for-personal-org/375827",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "RTX 4050 Laptop stuck in P3 / low power cap when AC is plugged in during GPU load; restarting nvidia-powerd fixes it",
-      "url": "https://forums.developer.nvidia.com/t/rtx-4050-laptop-stuck-in-p3-low-power-cap-when-ac-is-plugged-in-during-gpu-load-restarting-nvidia-powerd-fixes-it/375678",
+      "title": "Enhancing Goodput in Large-Scale LLM Training with Nonuniform Tensor Parallelism",
+      "url": "https://forums.developer.nvidia.com/t/enhancing-goodput-in-large-scale-llm-training-with-nonuniform-tensor-parallelism/375825",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Please enable Public API Endpoints for my personal organization",
-      "url": "https://forums.developer.nvidia.com/t/please-enable-public-api-endpoints-for-my-personal-organization/375677",
+      "title": "Manual Account Verification Request – Region: Turkey (+90)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-turkey-90/375818",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Turkey (+90)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90/375676",
+      "title": "Manual Account Verification Request - Turkey (+90)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90/375817",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Openshell install on Spark",
-      "url": "https://forums.developer.nvidia.com/t/openshell-install-on-spark/375673",
+      "title": "Request for Manual Verification: Phone Number Exceeded Limits Error on nvidia.com",
+      "url": "https://forums.developer.nvidia.com/t/request-for-manual-verification-phone-number-exceeded-limits-error-on-nvidia-com/375816",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Need industrial Jetson gateway and GMSL2 camera recommendations to move a vehicle prototype from POC to product",
-      "url": "https://forums.developer.nvidia.com/t/need-industrial-jetson-gateway-and-gmsl2-camera-recommendations-to-move-a-vehicle-prototype-from-poc-to-product/375672",
+      "title": "Manual Account Verification Request – Turkey (+90) Not Supported for API Key",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-supported-for-api-key/375815",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable Public API Endpoints permission - 403 Forbidden on integrate.api.nvidia.com",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-403-forbidden-on-integrate-api-nvidia-com/375671",
+      "title": "GigaChat3.5-432B-A28B: Yet Another New Large Model of the Week",
+      "url": "https://forums.developer.nvidia.com/t/gigachat3-5-432b-a28b-yet-another-new-large-model-of-the-week/375814",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Requesting DLSS/NGX applicationId or projectId guidance for Minecraft Java Vulkan Streamline mod",
-      "url": "https://forums.developer.nvidia.com/t/requesting-dlss-ngx-applicationid-or-projectid-guidance-for-minecraft-java-vulkan-streamline-mod/375666",
+      "title": "Flashing Orin NX with NVMe from container",
+      "url": "https://forums.developer.nvidia.com/t/flashing-orin-nx-with-nvme-from-container/375813",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/375665",
+      "title": "Manual Account Verification Request – Turkey (+90) Not Supported for API Key",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-supported-for-api-key/375810",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/375664",
+      "title": "Manual Verification Request for NIM API Access – Region: Turkey",
+      "url": "https://forums.developer.nvidia.com/t/manual-verification-request-for-nim-api-access-region-turkey/375809",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Several bugs found in the ACE 5.6 beta plugins",
-      "url": "https://forums.developer.nvidia.com/t/several-bugs-found-in-the-ace-5-6-beta-plugins/375660",
+      "title": "Türkiye Not Available for NVIDIA NIM API Phone Verification",
+      "url": "https://forums.developer.nvidia.com/t/turkiye-not-available-for-nvidia-nim-api-phone-verification/375806",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "ACE Unreal plugin (UE 5.6): Audio2Face lip sync stops working after the first clip — stale GetPlaybackPercent from pooled mixer sources wipes the blen",
-      "url": "https://forums.developer.nvidia.com/t/ace-unreal-plugin-ue-5-6-audio2face-lip-sync-stops-working-after-the-first-clip-stale-getplaybackpercent-from-pooled-mixer-sources-wipes-the-blen/375659",
+      "title": "Do we have sample code for H.265 encoder for SDK 7.0.3 version?",
+      "url": "https://forums.developer.nvidia.com/t/do-we-have-sample-code-for-h-265-encoder-for-sdk-7-0-3-version/375805",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "JetPack 7.2 ISO installer consistently fails when installing to USB SSD on Jetson Orin Nano Developer Kit (CurtinInstallError / NoneType / bcache)",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-7-2-iso-installer-consistently-fails-when-installing-to-usb-ssd-on-jetson-orin-nano-developer-kit-curtininstallerror-nonetype-bcache/375658",
+      "title": "Orin Nano Super Dev Kit — USB-A ports enumerate nothing on clean JetPack 7.2 AND 6.2 (internal USB works, 5V present)",
+      "url": "https://forums.developer.nvidia.com/t/orin-nano-super-dev-kit-usb-a-ports-enumerate-nothing-on-clean-jetpack-7-2-and-6-2-internal-usb-works-5v-present/375804",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Phone Verification Issue for NVIDIA NIM API Access - Turkey (+90)",
-      "url": "https://forums.developer.nvidia.com/t/phone-verification-issue-for-nvidia-nim-api-access-turkey-90/375657",
+      "title": "Manual Account Verification Request – Turkey (+90) Not Supported for API Key",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-supported-for-api-key/375803",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "New models for Free Endpoint",
-      "url": "https://forums.developer.nvidia.com/t/new-models-for-free-endpoint/375656",
+      "title": "Jetson TX2 argus crash on camera initialization after upgrade from L4T 32.5.1 to 32.7.6",
+      "url": "https://forums.developer.nvidia.com/t/jetson-tx2-argus-crash-on-camera-initialization-after-upgrade-from-l4t-32-5-1-to-32-7-6/375802",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -363,6 +363,12 @@
       "site": "huggingface.co"
     },
     {
+      "title": "VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation",
+      "url": "https://huggingface.co/papers/2607.02503",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots",
       "url": "https://huggingface.co/papers/2607.02501",
       "source": "Hugging Face",
@@ -405,22 +411,22 @@
       "site": "huggingface.co"
     },
     {
+      "title": "ACID: Action Consistency via Inverse Dynamics for Planning with World Models",
+      "url": "https://huggingface.co/papers/2607.02403",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "Representation Distribution Matching for One-Step Visual Generation",
       "url": "https://huggingface.co/papers/2607.02375",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "The Moving Eye: Enhancing VLA Spatial Generalization via Hybrid Dynamic Data Collection",
-      "url": "https://huggingface.co/papers/2607.02322",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "Optimizing Visual Generative Models via Distribution-wise Rewards",
-      "url": "https://huggingface.co/papers/2607.02291",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
+      "title": "Synthetic Sciences Releases OpenScience: An Open-Source, Model-Agnostic AI Workbench for Machine Learning, Biology, Physics, and Chemistry Research",
+      "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
       "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
@@ -473,12 +479,6 @@
     {
       "title": "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference",
       "url": "https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/",
-      "source": "Marktechpost OpenSource",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1",
-      "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
