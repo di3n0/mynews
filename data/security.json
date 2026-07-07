@@ -1,94 +1,94 @@
 {
-  "updated": "2026-07-07 06:00",
+  "updated": "2026-07-08 06:00",
   "category": "Security",
   "items": [
     {
-      "title": "Claude Cowork遭指可被濫用取得VM root權限",
-      "url": "https://www.ithome.com.tw/news/177116",
+      "title": "IBM擴大z17、LinuxONE 5產品線，增機架式與單櫃機型，瞄準AI與資料中心彈性部署需求",
+      "url": "https://www.ithome.com.tw/news/177150",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "研究人員揭露透過提示注入繞過ChatGPT防護機制漏洞，OpenAI已完成修補",
-      "url": "https://www.ithome.com.tw/news/177127",
+      "title": "Gartner將主權AI、AI代理風險與AI治理列入未來兩年資料與分析重點趨勢",
+      "url": "https://www.ithome.com.tw/news/177153",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】7月6日，檔案系統元件FatFs弱點恐影響大量隨身碟與SD記憶卡",
-      "url": "https://www.ithome.com.tw/news/177114",
+      "title": "微軟發布Edge瀏覽器150版更新，修補43項漏洞",
+      "url": "https://www.ithome.com.tw/news/177154",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "研究人員公開Control Web Panel重大漏洞PoC程式，若未及時修補恐遭攻擊者遠端接管伺服器",
-      "url": "https://www.ithome.com.tw/news/177113",
+      "title": "Apple Hide My Email遭揭露存在隱私漏洞，可能暴露用戶真實信箱地址",
+      "url": "https://www.ithome.com.tw/news/177147",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Apache修補HttpComponents Core兩項高風險漏洞，未更新可能導致服務阻斷攻擊",
-      "url": "https://www.ithome.com.tw/news/177106",
+      "title": "惡意軟體框架Avalon以AI打造而成，結合竊資軟體與勒索軟體能力",
+      "url": "https://www.ithome.com.tw/news/177146",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Godot更新貢獻規範，禁止AI代理提交程式碼",
-      "url": "https://www.ithome.com.tw/news/177105",
+      "title": "駭客鎖定歐亞飯店展開網釣攻擊，濫用Calendly與Google轉址植入TonRAT後門",
+      "url": "https://www.ithome.com.tw/news/177145",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "WatchGuard修補Firebox防火牆17項漏洞，包含可能導致遠端執行任意程式碼的重大漏洞",
-      "url": "https://www.ithome.com.tw/news/177104",
+      "title": "GovTech月報第54期：《虛擬資產服務法》三讀通過，強化虛擬資產市場監理；川普要求美國加速全面遷移後量子密碼技術",
+      "url": "https://www.ithome.com.tw/news/177141",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "具41年歷史的荒謬C語言競賽，首度有臺灣人上榜",
-      "url": "https://www.ithome.com.tw/news/177102",
+      "title": "伊利諾州跟進紐約與加州，要求頂尖AI模型接受第三方安全稽核",
+      "url": "https://www.ithome.com.tw/news/177144",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "駭客團體Armored Likho鎖定政府機關、能源產業，散布竊資軟體BusySnake Stealer",
-      "url": "https://www.ithome.com.tw/news/177101",
+      "title": "curl發布8.21.0版，修補18項漏洞，包括潛藏25年的安全缺陷",
+      "url": "https://www.ithome.com.tw/news/177143",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "JetBrains修補開發環境身分管理平臺重大漏洞，未更新恐導致帳號接管與權限提升",
-      "url": "https://www.ithome.com.tw/news/177100",
+      "title": "【資安日報】7月7日，ColdFusion滿分漏洞曝光2小時就出現實際攻擊",
+      "url": "https://www.ithome.com.tw/news/177142",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "AWS為Amazon OpenSearch Service新增日誌分析引擎，改善儲存與查詢效率",
-      "url": "https://www.ithome.com.tw/news/177099",
+      "title": "Anthropic與TeraWulf簽署20年的資料中心使用權",
+      "url": "https://www.ithome.com.tw/news/177140",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Google與FBI打擊NetNut常駐代理網路，涉及至少200萬臺家用連網裝置",
-      "url": "https://www.ithome.com.tw/news/177098",
+      "title": "研究人員揭露Linux KVM潛藏16年漏洞，恐導致虛擬機跳脫隔離存取底層主機系統",
+      "url": "https://www.ithome.com.tw/news/177139",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "研究人員未通報開發團隊即公開PoC，涉及SSH函式庫libssh2重大漏洞",
-      "url": "https://www.ithome.com.tw/news/177097",
+      "title": "北韓駭客Lazarus發動NPM供應鏈攻擊，偽裝Rollup建置工具以竊取機密資料與加密貨幣資產",
+      "url": "https://www.ithome.com.tw/news/177138",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "思科修補開源防毒軟體ClamAV長達20年的資安漏洞",
-      "url": "https://www.ithome.com.tw/news/177096",
+      "title": "北韓駭客發動PolinRider攻擊活動，於NPM、Packagist、Go、Chrome Web Store上架惡意套件",
+      "url": "https://www.ithome.com.tw/news/177137",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Microsoft Teams加強控管外部機器人，經會議組織者確認後才放行",
-      "url": "https://www.ithome.com.tw/news/177095",
+      "title": "OpenSSH 10.4正式發布，修補多項漏洞並導入混合式PQC簽章",
+      "url": "https://www.ithome.com.tw/news/177136",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
@@ -111,8 +111,20 @@
       "site": "informationsecurity.com.tw"
     },
     {
+      "title": "新聞 -2026/07/06AI 加劇內部威脅風險，資安託管業迎來新商機報告顯示今年企業因內部事件承受的平均年度損失達 1,950 萬美元，較兩年前增加 20%；其中，以影子 AI活動成......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13061",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
       "title": "新聞 -2026/07/06Microsoft 加速後量子密碼學部署時程，目標 2029 年完成關鍵產品移轉Microsoft 量子安全計畫（QSP）框架下確立三項加速移轉的優先方向：升級網路密碼學，採用 TLS 1.3 等現代通......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13060",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/06Oracle 企業軟體兩項重大漏洞遭利用，波及日產汽車員工資料外洩此次活動疑似由單一來源發起，針對 Payments 元件進行未經驗證的檔案讀取，屬於具針對性的 PoC 行為，而非......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13059",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -153,18 +165,6 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/02美國非營利開源基金會推出「開源永續倡議」，提升生命週期終止的開源軟體安全「開源永續倡議」（Open Source Sustainability Initiative，OSSI），協助企業管理已進入生命週期終止（E......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13051",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "解決方案 -2026/07/02Jamf 推出 Mac 原生的 AI 治理解決方案全新功能協助企業掌握、控管並治理受管理 Mac 裝置群上執行的 AI 工具，補足當前使用率與管控信心之間的落......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13050",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
       "source": "資安人",
@@ -177,22 +177,82 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "群暉科技 Synology 修補 MailPlus Server 三項重大漏洞，逾 2,100 台暴露於網路",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13039",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "PTC Windchill 遠端程式碼執行漏洞納入 KEV 目錄，攻擊者仍持續部署 Web Shell",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13042",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "Sophos 與 Rubrik 攜手推出由 Rubrik Cyber Resilience 技術支援的 Microsoft 365 備份與復原服務",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13019",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "美國非營利開源基金會推出「開源永續倡議」，提升生命週期終止的開源軟體安全",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13051",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "Jamf 推出 Mac 原生的 AI 治理解決方案",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13050",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+      "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+      "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "url": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "url": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "url": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "url": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "url": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
@@ -221,66 +281,6 @@
     {
       "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
       "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "url": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
-      "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-      "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
-      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "url": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
