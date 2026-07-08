@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08 06:01",
+  "updated": "2026-07-09 06:00",
   "category": "Sre",
   "items": [
     {
@@ -33,13 +33,25 @@
       "site": "sreweekly.com"
     },
     {
+      "title": "Airbnb Shares Architecture Behind Sitar-Agent Dynamic Configuration Sidecar for Kubernetes Services",
+      "url": "https://www.infoq.com/news/2026/07/sitar-agent-sidecar-config/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: The Multi-Agent Approach: Building Reliable and Controllable Software Development Automation",
+      "url": "https://www.infoq.com/presentations/multi-agent-ai-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
       "title": "Switching from PostgreSQL to ClickHouse for Improved Performance and Scalability",
       "url": "https://www.infoq.com/news/2026/07/momentic-postgres-clickhouse/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code Before Production",
+      "title": "AWS Expands DevOps Agent with AI-Powered Release Management to Validate Code before Production",
       "url": "https://www.infoq.com/news/2026/07/aws-devops-ai-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
@@ -107,18 +119,6 @@
     {
       "title": "AWS Introduces Amazon S3 Annotations",
       "url": "https://www.infoq.com/news/2026/07/aws-s3-annotations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Claude Reaches GA on Microsoft Foundry: European Enterprises Cannot Deploy It",
-      "url": "https://www.infoq.com/news/2026/07/claude-foundry-ga-europe/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Cycle Introduces EU Control Plane as Sovereignty Debate Continues",
-      "url": "https://www.infoq.com/news/2026/07/cycle-eu-control-plane/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }

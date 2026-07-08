@@ -1,250 +1,262 @@
 {
-  "updated": "2026-07-08 06:01",
+  "updated": "2026-07-09 06:00",
   "category": "Ai",
   "items": [
     {
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "url": "https://streetcomplete.app/",
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Every new car sold in the European Union must include a driver monitoring camera",
-      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Herdr: One terminal to rule them all",
-      "url": "https://herdr.dev/",
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "url": "https://davit.app",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "l: A new runtime for k and q",
-      "url": "https://lv1.sh/",
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "A better way to tie gym shorts (or any drawstring) [video]",
-      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "url": "https://30papers.com/",
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Jim's TrueType QR Code Font",
-      "url": "https://github.com/jimparis/qr-font",
+      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
+      "title": "A bug which affected only left handed users",
+      "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Notes on Software Quality",
-      "url": "https://anthonyhobday.com/blog/20260410",
+      "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+      "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Camera with transparent display launches for the equivalent of $29",
-      "url": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html",
+      "title": "DKIM2 and DMARCbis Have Landed",
+      "url": "https://stalw.art/blog/dkim2-dmarcbis/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
-      "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Why we built yet another Postgres connection pooler",
-      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Docx-CLI: agents read&#x2F;edit Word docs using 1&#x2F;2 the time and tokens",
-      "url": "https://github.com/kklimuk/docx-cli",
+      "title": "EU now one step away from reviving private message scanning rules",
+      "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Automating AI Away",
-      "url": "https://replicated.live/blog/away",
+      "title": "I Built a Telegram Client for Pi",
+      "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Computational Balloon Twisting: The Theory of Balloon Polyhedra [pdf]",
-      "url": "https://cccg.ca/proceedings/2008/paper34full.pdf",
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "url": "https://blog.cloudflare.com/meerkat-introduction/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Chat Control passed first round in EU Parliament",
-      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+      "url": "https://danluu.com/ai-coding/#llm-variance",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
-      "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+      "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
+      "url": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Why skilled workers come to Germany and then leave again",
-      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "url": "https://github.com/animesh-94/Onboard-CLI",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "98% isn't much",
-      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+      "url": "https://techstackups.com/articles/tldraw-agent-draw/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Microsoft fire idTech team at Id software",
-      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "China sentences official to death for taking $325M in bribes",
-      "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How to import objects exported from Blender to Isaac Sim",
-      "url": "https://forums.developer.nvidia.com/t/how-to-import-objects-exported-from-blender-to-isaac-sim/375970",
+      "title": "Manual Account Verification Request – Turkey (+90) Not Available for NIM API Key",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-available-for-nim-api-key/376132",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Turkey (+90) Missing",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-missing/375969",
+      "title": "Request for NVIDIA NIM API Rate Limit Increase (40 to 200 RPM)",
+      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-nim-api-rate-limit-increase-40-to-200-rpm/376120",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Aerial cuBB 26.1: F08 1C Pattern 59 launch pattern references four missing ULMIX FAPI H5 files",
-      "url": "https://forums.developer.nvidia.com/t/aerial-cubb-26-1-f08-1c-pattern-59-launch-pattern-references-four-missing-ulmix-fapi-h5-files/375966",
+      "title": "Manual Account Verification Request - Bangladesh (+880)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-bangladesh-880/376117",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Aerial cuBB 26.1: F08 1C Pattern 59 launch pattern references four missing ULMIX FAPI H5 files",
-      "url": "https://forums.developer.nvidia.com/t/aerial-cubb-26-1-f08-1c-pattern-59-launch-pattern-references-four-missing-ulmix-fapi-h5-files/375964",
+      "title": "Urgent] Turkey (+90) Still Not Fixed on build.nvidia.com SMS Verification – Multiple Developers Affected",
+      "url": "https://forums.developer.nvidia.com/t/urgent-turkey-90-still-not-fixed-on-build-nvidia-com-sms-verification-multiple-developers-affected/376116",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Region: Turkey (+90)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-turkey-90/375958",
+      "title": "Reflashed Jetson Orin Nano Dev Kit- Specific Wifi SSID not work, others are",
+      "url": "https://forums.developer.nvidia.com/t/reflashed-jetson-orin-nano-dev-kit-specific-wifi-ssid-not-work-others-are/376115",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "External SSD Sandisk 8T00 will not be identified by DGX Spark after reboot until an unplug and replug",
-      "url": "https://forums.developer.nvidia.com/t/external-ssd-sandisk-8t00-will-not-be-identified-by-dgx-spark-after-reboot-until-an-unplug-and-replug/375954",
+      "title": "\"Unable to read EDID\" for VITURE Beast XR glasses (USB-C DP alt-mode), but every userspace I2C-over-AUX read through the driver&#39;s own i2c adapter suc",
+      "url": "https://forums.developer.nvidia.com/t/unable-to-read-edid-for-viture-beast-xr-glasses-usb-c-dp-alt-mode-but-every-userspace-i2c-over-aux-read-through-the-drivers-own-i2c-adapter-suc/376114",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request for API Rate Limit Increase - NVIDIA NIM Free Tier for Agentic Coding Workflow",
-      "url": "https://forums.developer.nvidia.com/t/request-for-api-rate-limit-increase-nvidia-nim-free-tier-for-agentic-coding-workflow/375953",
+      "title": "API Error 429 : Help",
+      "url": "https://forums.developer.nvidia.com/t/api-error-429-help/376113",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Unable to run isaac-ros activate (docker image)",
-      "url": "https://forums.developer.nvidia.com/t/unable-to-run-isaac-ros-activate-docker-image/375952",
+      "title": "CUDA-Q Realtime with ConnectX-6 Dx",
+      "url": "https://forums.developer.nvidia.com/t/cuda-q-realtime-with-connectx-6-dx/376109",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Beam.smp eating entire cpu in license server 3.6.1",
-      "url": "https://forums.developer.nvidia.com/t/beam-smp-eating-entire-cpu-in-license-server-3-6-1/375950",
+      "title": "Requesting NIM API Access Approval - Cloud Account 1001494026287828",
+      "url": "https://forums.developer.nvidia.com/t/requesting-nim-api-access-approval-cloud-account-1001494026287828/376107",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Develop Humanoid Robot Policies End-to-End with NVIDIA Isaac GR00T",
-      "url": "https://forums.developer.nvidia.com/t/develop-humanoid-robot-policies-end-to-end-with-nvidia-isaac-gr00t/375949",
+      "title": "FLUX.2 on the Spark: ~3× faster with real NVFP4 compute (not just weight-only) — PR to spark-vllm-docker",
+      "url": "https://forums.developer.nvidia.com/t/flux-2-on-the-spark-3x-faster-with-real-nvfp4-compute-not-just-weight-only-pr-to-spark-vllm-docker/376106",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable &#39;Public API Endpoints&#39; permission for my personal organization account",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization-account/375948",
+      "title": "Resetting a single GPU in a DGX node with gpu-operator running",
+      "url": "https://forums.developer.nvidia.com/t/resetting-a-single-gpu-in-a-dgx-node-with-gpu-operator-running/376104",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Connection to Agent lost for latest nsys releases. Application never starts",
-      "url": "https://forums.developer.nvidia.com/t/connection-to-agent-lost-for-latest-nsys-releases-application-never-starts/375947",
+      "title": "Sparks have recently powered off randomly",
+      "url": "https://forums.developer.nvidia.com/t/sparks-have-recently-powered-off-randomly/376103",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "MiMo V2.5 with Dflash FP8 KV 1.5M+ & Deep Speed up to 30 tk/s",
-      "url": "https://forums.developer.nvidia.com/t/mimo-v2-5-with-dflash-fp8-kv-1-5m-deep-speed-up-to-30-tk-s/375945",
+      "title": "Turkey (+90) is not available for phone verification on build.nvidia.com",
+      "url": "https://forums.developer.nvidia.com/t/turkey-90-is-not-available-for-phone-verification-on-build-nvidia-com/376099",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Turkey (+90) Not Supported",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90-not-supported/375944",
+      "title": "Laca.0.8.8 memory+",
+      "url": "https://forums.developer.nvidia.com/t/laca-0-8-8-memory/376098",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Official NVidia optimized DeepSeek-V4-Flash models?",
-      "url": "https://forums.developer.nvidia.com/t/official-nvidia-optimized-deepseek-v4-flash-models/375943",
+      "title": "Please contact support to verify your account",
+      "url": "https://forums.developer.nvidia.com/t/please-contact-support-to-verify-your-account/376097",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
       "title": "About",
       "url": "https://www.deeplearning.ai/the-batch/about",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Gpt 5 6 Will See A Wider Release This Week",
+      "url": "https://www.deeplearning.ai/the-batch/gpt-5-6-will-see-a-wider-release-this-week",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Alibaba And Bytedance Quash Human Like Bots",
+      "url": "https://www.deeplearning.ai/the-batch/alibaba-and-bytedance-quash-human-like-bots",
       "source": "DeepLearning.ai",
       "site": "deeplearning.ai"
     },
@@ -321,106 +333,100 @@
       "site": "deeplearning.ai"
     },
     {
-      "title": "Top Agentic Performance Low Cost",
-      "url": "https://www.deeplearning.ai/the-batch/top-agentic-performance-low-cost",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Three Key Loops For Building Great Software",
-      "url": "https://www.deeplearning.ai/the-batch/three-key-loops-for-building-great-software",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
-      "url": "https://huggingface.co/papers/2607.05392",
+      "title": "Vision as Unified Multimodal Generation",
+      "url": "https://huggingface.co/papers/2607.06560",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-      "url": "https://huggingface.co/papers/2607.05391",
+      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2607.06559",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
-      "url": "https://huggingface.co/papers/2607.05390",
+      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+      "url": "https://huggingface.co/papers/2607.06558",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2607.05378",
+      "title": "From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models",
+      "url": "https://huggingface.co/papers/2607.06553",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing",
-      "url": "https://huggingface.co/papers/2607.05376",
+      "title": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+      "url": "https://huggingface.co/papers/2607.06540",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space",
-      "url": "https://huggingface.co/papers/2607.05373",
+      "title": "RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models",
+      "url": "https://huggingface.co/papers/2607.06504",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
-      "url": "https://huggingface.co/papers/2607.05369",
+      "title": "EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage",
+      "url": "https://huggingface.co/papers/2607.06468",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Geometric Reciprocity: Unlocking Self-Supervision for Stereoscopic Video Generation",
-      "url": "https://huggingface.co/papers/2607.05354",
+      "title": "WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS",
+      "url": "https://huggingface.co/papers/2607.06461",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Multiplayer Interactive World Models with Representation Autoencoders",
-      "url": "https://huggingface.co/papers/2607.05352",
+      "title": "SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models",
+      "url": "https://huggingface.co/papers/2607.06442",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution",
-      "url": "https://huggingface.co/papers/2607.05297",
+      "title": "From Foundation to Application: Improving VLA Models in Practice",
+      "url": "https://huggingface.co/papers/2607.06403",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Vision Pretraining for Dense Spatial Perception",
-      "url": "https://huggingface.co/papers/2607.05247",
+      "title": "TMF-RSE: Tri-Modal Fusion with Regional Semantics and Evidential Uncertainty for Lung Severity Scoring",
+      "url": "https://huggingface.co/papers/2607.06356",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "EvoAgentBench: Benchmarking Agent Self-Evolution via Ability Transfer",
-      "url": "https://huggingface.co/papers/2607.05202",
+      "title": "Token-Based Dual-view Fusion and Adaptation of Large Vision Models for Breast Cancer Classification",
+      "url": "https://huggingface.co/papers/2607.06309",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Is Three the Magic Number? An Empirical Evaluation of LLM-Based Repair Loops",
-      "url": "https://huggingface.co/papers/2607.05197",
+      "title": "AlayaWorld: Long-Horizon and Playable Video World Generation",
+      "url": "https://huggingface.co/papers/2607.06291",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Unified Audio Intelligence Without Regressing on Text Intelligence",
-      "url": "https://huggingface.co/papers/2607.05196",
+      "title": "Spider 2.0-AIFunc: Extending Real-World Text-to-SQL to AI-Native SQL Workflows",
+      "url": "https://huggingface.co/papers/2607.06229",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "When Claws Remember but Do Not Tell: Stealthy Memory Injection in Persistent Personal Agents",
-      "url": "https://huggingface.co/papers/2607.05189",
+      "title": "LongCrafter: Towards Diverse Long-Context Understanding via Evidence-Graph-Guided Instruction Synthesis",
+      "url": "https://huggingface.co/papers/2607.06160",
       "source": "Hugging Face",
       "site": "huggingface.co"
+    },
+    {
+      "title": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
+      "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
       "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
@@ -473,12 +479,6 @@
     {
       "title": "Google AI Introduces TabFM: A Hybrid-Attention Tabular Foundation Model for Zero-Shot Classification and Regression",
       "url": "https://www.marktechpost.com/2026/07/01/google-ai-introduces-tabfm-a-hybrid-attention-tabular-foundation-model-for-zero-shot-classification-and-regression/",
-      "source": "Marktechpost OpenSource",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
-      "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
