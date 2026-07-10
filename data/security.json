@@ -1,94 +1,94 @@
 {
-  "updated": "2026-07-10 06:00",
+  "updated": "2026-07-11 06:00",
   "category": "Security",
   "items": [
     {
+      "title": "Microsoft Defender零時差漏洞RoguePlanet修補出爐",
+      "url": "https://www.ithome.com.tw/news/177237",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "【資安週報】0706~0709，漏洞從揭露到被利用的平均時間已驟降至兩小時",
+      "url": "https://www.ithome.com.tw/news/177217",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "OpenAI傳應用部門主管Fidji Simo下臺",
+      "url": "https://www.ithome.com.tw/news/177233",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
+      "url": "https://www.ithome.com.tw/news/177231",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "研究揭LLM攻擊新手法HalluSquatting，可誘使AI程式開發助理安裝惡意程式",
+      "url": "https://www.ithome.com.tw/news/177230",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "OpenAI獲准全面推出GPT-5.6系列，登上GitHub Copilot、M365 Copilot",
+      "url": "https://www.ithome.com.tw/news/177229",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "金融詐欺攻擊利用ClickFix手法散布SCMBANKER工具包",
+      "url": "https://www.ithome.com.tw/news/177227",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "OpenAI升級ChatGPT桌面程式，ChatGPT Atlas瀏覽器將退場",
+      "url": "https://www.ithome.com.tw/news/177228",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "GuardFall攻擊鎖定開源AI程式開發代理，可繞過Shell命令防護",
+      "url": "https://www.ithome.com.tw/news/177226",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "歐盟推AI資安行動計畫，強化模型安全評估與網路韌性",
+      "url": "https://www.ithome.com.tw/news/177225",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "OpenAI推出ChatGPT Work，AI代理人可跨應用程式自主完成多步驟工作",
+      "url": "https://www.ithome.com.tw/news/177224",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "研究人員展示workflow層級的提示注入手法，繞過護欄讓GitHub Copilot撰寫惡意程式",
+      "url": "https://www.ithome.com.tw/news/177223",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "HP Deskjet 2800印表機韌體漏洞可讓駭客竊取憑證及配置資訊，HP尚未修補",
+      "url": "https://www.ithome.com.tw/news/177222",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "GitHub前執行長創辦Entire，推分散式Git託管網路分流AI代理讀取負載",
+      "url": "https://www.ithome.com.tw/news/177220",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
       "title": "Android惡意軟體RedWing以租賃模式提供買家，協助發動金融詐騙",
       "url": "https://www.ithome.com.tw/news/177221",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "調查局破獲中國網軍冒充國際記者，對臺政學界進行社交工程攻擊",
-      "url": "https://www.ithome.com.tw/news/177219",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "竊資軟體PamStealer偽裝剪貼簿工具散布，利用macOS管理者驗證程序部署惡意程式",
-      "url": "https://www.ithome.com.tw/news/177218",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "法務部導入AI的背後，從百萬案海到過載的觀護防線，AI Agent 如何拯救燃燒殆盡的司法第一線？",
-      "url": "https://www.ithome.com.tw/news/177208",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "法務部以三層平臺架構串聯算力、法務LLM與AI Agent推動法務主權AI發展，首波應用年底前成形",
-      "url": "https://www.ithome.com.tw/news/177202",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "【資安日報】7月9日，數發部公布人工智慧風險分類框架",
-      "url": "https://www.ithome.com.tw/news/177214",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "惡意工具DEBULL濫用Microsoft裝置驗證碼流程，攻擊者可藉此接管受害者Microsoft 365帳號",
-      "url": "https://www.ithome.com.tw/news/177213",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "中國政府將Claude Code反蒸餾機制定性為安全後門",
-      "url": "https://www.ithome.com.tw/news/177212",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "Elastic修補Kibana高風險漏洞，影響7.x與8.x分支版本",
-      "url": "https://www.ithome.com.tw/news/177210",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "中國惡意軟體驚傳透過USB裝置感染日本陸上自衛隊近一年",
-      "url": "https://www.ithome.com.tw/news/177207",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "蘋果與博通達成逾300億美元的晶片合作協議",
-      "url": "https://www.ithome.com.tw/news/177206",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "中國駭客Mustang Panda鎖定印度政府，濫用Zoho WorkDrive從事網路間諜活動",
-      "url": "https://www.ithome.com.tw/news/177205",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "Ubiquiti修補UniFi OS與多款應用程式漏洞，含7項重大漏洞",
-      "url": "https://www.ithome.com.tw/news/177204",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "ChatGPT Voice導入GPT-Live，AI語音互動邁向同步對話",
-      "url": "https://www.ithome.com.tw/news/177203",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "中國駭客假借提供印度稅務申報工具，散布木馬程式DcRAT",
-      "url": "https://www.ithome.com.tw/news/177201",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
@@ -183,10 +183,82 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "Sophos 與 Rubrik 攜手推出由 Rubrik Cyber Resilience 技術支援的 Microsoft 365 備份與復原服務",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13019",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "url": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+      "url": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
+      "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
+      "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+      "url": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
+      "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+      "url": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -197,84 +269,6 @@
     {
       "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
       "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
-      "url": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-      "url": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Summer of Clearinghouses",
-      "url": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-      "url": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "url": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
-      "url": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "url": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-      "url": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-      "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-      "url": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
