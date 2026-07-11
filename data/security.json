@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-11 06:00",
+  "updated": "2026-07-12 06:00",
   "category": "Security",
   "items": [
+    {
+      "title": "Binarly研究人員揭露開源開機載入程式U-Boot存在6個資安漏洞，大量伺服器、網路設備、物聯網設備均可能受到影響",
+      "url": "https://www.ithome.com.tw/news/177240",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "CISA將兩款Joolma兩款延伸套件列入KEV，要求聯邦機構7月13日完成修補",
+      "url": "https://www.ithome.com.tw/news/177238",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "微軟打造AI視覺化中介語言Flint，以語意規格簡化圖表生成",
+      "url": "https://www.ithome.com.tw/news/177236",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
     {
       "title": "Microsoft Defender零時差漏洞RoguePlanet修補出爐",
       "url": "https://www.ithome.com.tw/news/177237",
@@ -71,24 +89,6 @@
     {
       "title": "研究人員展示workflow層級的提示注入手法，繞過護欄讓GitHub Copilot撰寫惡意程式",
       "url": "https://www.ithome.com.tw/news/177223",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "HP Deskjet 2800印表機韌體漏洞可讓駭客竊取憑證及配置資訊，HP尚未修補",
-      "url": "https://www.ithome.com.tw/news/177222",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "GitHub前執行長創辦Entire，推分散式Git託管網路分流AI代理讀取負載",
-      "url": "https://www.ithome.com.tw/news/177220",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "Android惡意軟體RedWing以租賃模式提供買家，協助發動金融詐騙",
-      "url": "https://www.ithome.com.tw/news/177221",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
@@ -171,16 +171,34 @@
       "site": "informationsecurity.com.tw"
     },
     {
+      "title": "Jamf 推出 Mac 原生的 AI 治理解決方案",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13050",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
       "title": "傳統防火牆只看 IP，語意防火牆看「意圖」：林宜隆教授解析神經符號架構與 AI 治理三標準如何聯手對抗工業化攻擊",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13029",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "Jamf 推出 Mac 原生的 AI 治理解決方案",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13050",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "url": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
@@ -251,24 +269,6 @@
     {
       "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
       "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "url": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
-      "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

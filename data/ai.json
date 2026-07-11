@@ -1,244 +1,244 @@
 {
-  "updated": "2026-07-11 06:00",
+  "updated": "2026-07-12 06:00",
   "category": "Ai",
   "items": [
     {
-      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Don't discontinue Gemini 2.5 Flash",
-      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "url": "https://waratlas.org",
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Moss (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+      "title": "ZeroFS vs. Amazon S3 Files",
+      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "New York City to become first in US to ban deceptive subscription practices",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Combustion Engine Web-Based Simulator",
-      "url": "https://combustionlab.net",
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "url": "https://shipthatcode.com",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "url": "https://nagylukas.github.io/orbit.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "An Update on the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "title": "How to hide from killer drones",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Computation as a universal and fundamental concept",
-      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
+      "title": "Amber the programming language compiled to Bash&#x2F;Ksh&#x2F;Zsh",
+      "url": "https://amber-lang.com/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Why We Don't Trust the Database with Authentication",
-      "url": "https://blog.sturdystatistics.com/posts/api_keys/",
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
-      "url": "https://github.com/dicroce/wyrm_math",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "title": "Lost and Found",
+      "url": "https://walzr.com/lost-and-found",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Lost city discovered beneath Egypt's desert with ancient church",
-      "url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html",
+      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+      "url": "https://github.com/skorotkiewicz/earth-game",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Prismata: Confining cross-site prompt injection in web agents",
-      "url": "https://arxiv.org/abs/2607.08147",
+      "title": "The Chinese Voice Actor Forced to Prove He's Human",
+      "url": "https://www.sixthtone.com/news/1018753",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Successful Companies Go Blind",
-      "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+      "title": "Google Search lets creators know more about their reach",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Clouds of Hiroshima",
-      "url": "https://doomsdaymachines.net/p/the-clouds-of-hiroshima",
+      "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+      "url": "https://github.com/swellweb/reame",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Materials innovation has a scale-up problem, not discovery",
-      "url": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale",
+      "title": "Book: RISC-V System-on-Chip Design",
+      "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "title": "Taiwan's Lost 8-Bit Computer [video]",
+      "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Reviving my 2001 college band with AI",
-      "url": "https://www.fadingmaize.com",
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-      "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "RmInitAdapter failed (0x24:0x72:1447) on GA106M [RTX 3060 Mobile] — Alienware x14",
-      "url": "https://forums.developer.nvidia.com/t/rminitadapter-failed-0x241447-on-ga106m-rtx-3060-mobile-alienware-x14/376514",
+      "title": "API Rate Limit Increase Request",
+      "url": "https://forums.developer.nvidia.com/t/api-rate-limit-increase-request/376594",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Aerial 26-1 DGX Spark: RU emulator reports “eCPRI parser not supported” / “Dynamic flex parser is not supported”",
-      "url": "https://forums.developer.nvidia.com/t/aerial-26-1-dgx-spark-ru-emulator-reports-ecpri-parser-not-supported-dynamic-flex-parser-is-not-supported/376512",
+      "title": "Manual Phone Verification Request - SMS OTP Not Received (Argentina)",
+      "url": "https://forums.developer.nvidia.com/t/manual-phone-verification-request-sms-otp-not-received-argentina/376593",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Spark Studio — Open-source inference dashboard for DGX Spark",
-      "url": "https://forums.developer.nvidia.com/t/spark-studio-open-source-inference-dashboard-for-dgx-spark/376507",
+      "title": "Phone Verification Issue - Bangladesh Country Code Missing",
+      "url": "https://forums.developer.nvidia.com/t/phone-verification-issue-bangladesh-country-code-missing/376592",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Pakistan (+92) Missing",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-pakistan-92-missing/376503",
+      "title": "Question about kvcache size of deepseek4flash",
+      "url": "https://forums.developer.nvidia.com/t/question-about-kvcache-size-of-deepseek4flash/376591",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Isaac Lab just crossed 1 million downloads!",
-      "url": "https://forums.developer.nvidia.com/t/isaac-lab-just-crossed-1-million-downloads/376502",
+      "title": "Sub/virtual warps or serialize access?",
+      "url": "https://forums.developer.nvidia.com/t/sub-virtual-warps-or-serialize-access/376590",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Isaac Lab just crossed 1 million downloads!",
-      "url": "https://forums.developer.nvidia.com/t/isaac-lab-just-crossed-1-million-downloads/376501",
+      "title": "Triple stack",
+      "url": "https://forums.developer.nvidia.com/t/triple-stack/376589",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "DeepSeek-v4-Flash-DSpark-Abliterated-Uncensored-2x-DGX-Spark",
-      "url": "https://forums.developer.nvidia.com/t/deepseek-v4-flash-dspark-abliterated-uncensored-2x-dgx-spark/376500",
+      "title": "Issues with account access",
+      "url": "https://forums.developer.nvidia.com/t/issues-with-account-access/376588",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-and-hugging-face-bring-new-models-and-frameworks-to-lerobot-for-the-open-robotics-community/376499",
+      "title": "How to become an Authorized NVIDIA Hardware Reseller in India?",
+      "url": "https://forums.developer.nvidia.com/t/how-to-become-an-authorized-nvidia-hardware-reseller-in-india/376587",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Reducing High-Bandwidth Memory Bottlenecks in JAX-Based LLM Training with Host Offloading",
-      "url": "https://forums.developer.nvidia.com/t/reducing-high-bandwidth-memory-bottlenecks-in-jax-based-llm-training-with-host-offloading/376498",
+      "title": "Student Request for Brev.dev Credits - Regis University (PCOS Detection Project)",
+      "url": "https://forums.developer.nvidia.com/t/student-request-for-brev-dev-credits-regis-university-pcos-detection-project/376586",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Verification Request — Russia (+7)",
-      "url": "https://forums.developer.nvidia.com/t/manual-verification-request-russia-7/376497",
+      "title": "6x GB10 Cluster w/ MikroTik CRS812 = 768GB RAM",
+      "url": "https://forums.developer.nvidia.com/t/6x-gb10-cluster-w-mikrotik-crs812-768gb-ram/376585",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Turkey (+90)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90/376495",
+      "title": "Not able to generate APIKEYS",
+      "url": "https://forums.developer.nvidia.com/t/not-able-to-generate-apikeys/376584",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Region: Pakistan (+92)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-pakistan-92/376494",
+      "title": "Account-level function registration error blocking all API access (Function id 52e1ddb6-c745-4802-93f5-ba012d04c336 not found)",
+      "url": "https://forums.developer.nvidia.com/t/account-level-function-registration-error-blocking-all-api-access-function-id-52e1ddb6-c745-4802-93f5-ba012d04c336-not-found/376583",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Kernel Fusion in NVIDIA CUDA: Optimizing Memory Traffic and Launch Overhead",
-      "url": "https://forums.developer.nvidia.com/t/kernel-fusion-in-nvidia-cuda-optimizing-memory-traffic-and-launch-overhead/376493",
+      "title": "Bangladesh (+880) is not available for phone verification on build.nvidia.com (NVIDIA NIM Cloud)",
+      "url": "https://forums.developer.nvidia.com/t/bangladesh-880-is-not-available-for-phone-verification-on-build-nvidia-com-nvidia-nim-cloud/376579",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Russian (+7)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-russian-7/376492",
+      "title": "Code samples for GTC S81772: Don’t Leave Tensors on the Table: Programming and Optimizing Tensor Cores",
+      "url": "https://forums.developer.nvidia.com/t/code-samples-for-gtc-s81772-don-t-leave-tensors-on-the-table-programming-and-optimizing-tensor-cores/376578",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "AI Model Co-Design: Hardware-Friendly LLM Design",
-      "url": "https://forums.developer.nvidia.com/t/ai-model-co-design-hardware-friendly-llm-design/376491",
+      "title": "Intermittent black screen / display enumeration failure on Lenovo Legion 5 (RTX 5060 Laptop + AMD iGPU + USB-C Dock)",
+      "url": "https://forums.developer.nvidia.com/t/intermittent-black-screen-display-enumeration-failure-on-lenovo-legion-5-rtx-5060-laptop-amd-igpu-usb-c-dock/376577",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -333,6 +333,12 @@
       "site": "deeplearning.ai"
     },
     {
+      "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
+      "url": "https://huggingface.co/papers/2607.08393",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
       "url": "https://huggingface.co/papers/2607.08772",
       "source": "Hugging Face",
@@ -399,26 +405,20 @@
       "site": "huggingface.co"
     },
     {
+      "title": "Native Video-Action Pretraining for Generalizable Robot Control",
+      "url": "https://huggingface.co/papers/2607.08639",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
+      "title": "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation",
+      "url": "https://huggingface.co/papers/2607.08575",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "A Quantized Native Runtime for On-Device Semantic Audio Generation",
       "url": "https://huggingface.co/papers/2607.08526",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "DeltaV: Thinking with Visual State Updates in Unified Large Multimodal Models",
-      "url": "https://huggingface.co/papers/2607.08434",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
-      "url": "https://huggingface.co/papers/2607.08404",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories",
-      "url": "https://huggingface.co/papers/2607.08400",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
