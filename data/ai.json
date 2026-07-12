@@ -1,244 +1,244 @@
 {
-  "updated": "2026-07-12 06:00",
+  "updated": "2026-07-13 06:01",
   "category": "Ai",
   "items": [
     {
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
+      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Prefer strict tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "title": "Can we understand how large language models reason?",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
-      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "title": "Irish datacenters now guzzle 23% of the country's electricity",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "ZeroFS vs. Amazon S3 Files",
-      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+      "title": "Why write code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "title": "Automation Without Understanding",
+      "url": "https://arxiv.org/abs/2607.06377",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "url": "https://shipthatcode.com",
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-      "url": "https://nagylukas.github.io/orbit.html",
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How to hide from killer drones",
-      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+      "title": "LARP – Revenue infrastructure for serious founders",
+      "url": "https://www.larp.website/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Amber the programming language compiled to Bash&#x2F;Ksh&#x2F;Zsh",
-      "url": "https://amber-lang.com/",
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Sixtyfour (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Lost and Found",
-      "url": "https://walzr.com/lost-and-found",
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "title": "Nuclear war survival guide reveals seven everyday items if disaster strikes",
+      "url": "https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
-      "url": "https://github.com/skorotkiewicz/earth-game",
+      "title": "Deir El-Medina Strikes",
+      "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Chinese Voice Actor Forced to Prove He's Human",
-      "url": "https://www.sixthtone.com/news/1018753",
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "url": "https://kode.diy",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Google Search lets creators know more about their reach",
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "title": "The State of MCP Security [pdf]",
+      "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
-      "url": "https://github.com/swellweb/reame",
+      "title": "How to read more books",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Book: RISC-V System-on-Chip Design",
-      "url": "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989",
+      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "url": "https://nanduruganesh.github.io/flash-msa/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Taiwan's Lost 8-Bit Computer [video]",
-      "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
+      "title": "Defining new Jax types with hijax",
+      "url": "https://docs.jax.dev/en/latest/hijax_types.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
-      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "title": "Neocities: Create your own free website",
+      "url": "https://neocities.org/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "API Rate Limit Increase Request",
-      "url": "https://forums.developer.nvidia.com/t/api-rate-limit-increase-request/376594",
+      "title": "Is there any model I can run on single Spark to generate music?",
+      "url": "https://forums.developer.nvidia.com/t/is-there-any-model-i-can-run-on-single-spark-to-generate-music/376653",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Phone Verification Request - SMS OTP Not Received (Argentina)",
-      "url": "https://forums.developer.nvidia.com/t/manual-phone-verification-request-sms-otp-not-received-argentina/376593",
+      "title": "Request to enable Public API Endpoints for my personal organization",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-personal-organization/376652",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Phone Verification Issue - Bangladesh Country Code Missing",
-      "url": "https://forums.developer.nvidia.com/t/phone-verification-issue-bangladesh-country-code-missing/376592",
+      "title": "Request for NVIDIA NIM API Rate Limit Increase (40 → 200 RPM)",
+      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-nim-api-rate-limit-increase-40-200-rpm/376651",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Question about kvcache size of deepseek4flash",
-      "url": "https://forums.developer.nvidia.com/t/question-about-kvcache-size-of-deepseek4flash/376591",
+      "title": "Running a large LLM on DGX Spark Cluster while keeping ComfyUI usable?",
+      "url": "https://forums.developer.nvidia.com/t/running-a-large-llm-on-dgx-spark-cluster-while-keeping-comfyui-usable/376650",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Sub/virtual warps or serialize access?",
-      "url": "https://forums.developer.nvidia.com/t/sub-virtual-warps-or-serialize-access/376590",
+      "title": "File descriptor leak when Vulkan loader unloads libGLX_nvidia after vkDestroyInstance",
+      "url": "https://forums.developer.nvidia.com/t/file-descriptor-leak-when-vulkan-loader-unloads-libglx-nvidia-after-vkdestroyinstance/376648",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Triple stack",
-      "url": "https://forums.developer.nvidia.com/t/triple-stack/376589",
+      "title": "TensorRT-RTX bugs",
+      "url": "https://forums.developer.nvidia.com/t/tensorrt-rtx-bugs/376645",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Issues with account access",
-      "url": "https://forums.developer.nvidia.com/t/issues-with-account-access/376588",
+      "title": "My DeepStream pipeline using nvmultiurisrcbin Local works, RTSP causes core dump",
+      "url": "https://forums.developer.nvidia.com/t/my-deepstream-pipeline-using-nvmultiurisrcbin-local-works-rtsp-causes-core-dump/376644",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "How to become an Authorized NVIDIA Hardware Reseller in India?",
-      "url": "https://forums.developer.nvidia.com/t/how-to-become-an-authorized-nvidia-hardware-reseller-in-india/376587",
+      "title": "Simple frontend webui for Sparkrun for multiple GB10s",
+      "url": "https://forums.developer.nvidia.com/t/simple-frontend-webui-for-sparkrun-for-multiple-gb10s/376643",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Student Request for Brev.dev Credits - Regis University (PCOS Detection Project)",
-      "url": "https://forums.developer.nvidia.com/t/student-request-for-brev-dev-credits-regis-university-pcos-detection-project/376586",
+      "title": "Hello NVIDIA Developer Team,",
+      "url": "https://forums.developer.nvidia.com/t/hello-nvidia-developer-team/376642",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "6x GB10 Cluster w/ MikroTik CRS812 = 768GB RAM",
-      "url": "https://forums.developer.nvidia.com/t/6x-gb10-cluster-w-mikrotik-crs812-768gb-ram/376585",
+      "title": "Gst-nvinfer silently drops detections when de-letterboxed bbox crosses frame boundary (fixed by crop-objects-to-roi-boundary=1)",
+      "url": "https://forums.developer.nvidia.com/t/gst-nvinfer-silently-drops-detections-when-de-letterboxed-bbox-crosses-frame-boundary-fixed-by-crop-objects-to-roi-boundary-1/376641",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Not able to generate APIKEYS",
-      "url": "https://forums.developer.nvidia.com/t/not-able-to-generate-apikeys/376584",
+      "title": "NvDCF TrajectoryManagement re-associates detections across class boundaries despite checkClassMatch enabled",
+      "url": "https://forums.developer.nvidia.com/t/nvdcf-trajectorymanagement-re-associates-detections-across-class-boundaries-despite-checkclassmatch-enabled/376640",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Account-level function registration error blocking all API access (Function id 52e1ddb6-c745-4802-93f5-ba012d04c336 not found)",
-      "url": "https://forums.developer.nvidia.com/t/account-level-function-registration-error-blocking-all-api-access-function-id-52e1ddb6-c745-4802-93f5-ba012d04c336-not-found/376583",
+      "title": "Orin Nano Dev Kit — M.2 Key-E wifi slot dead (141e0000 Phy link never came up), two known-good cards, requesting RMA",
+      "url": "https://forums.developer.nvidia.com/t/orin-nano-dev-kit-m-2-key-e-wifi-slot-dead-141e0000-phy-link-never-came-up-two-known-good-cards-requesting-rma/376637",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Bangladesh (+880) is not available for phone verification on build.nvidia.com (NVIDIA NIM Cloud)",
-      "url": "https://forums.developer.nvidia.com/t/bangladesh-880-is-not-available-for-phone-verification-on-build-nvidia-com-nvidia-nim-cloud/376579",
+      "title": "Manual Account Verification Request – Region Missing: Pakistan (+92)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-missing-pakistan-92/376636",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Code samples for GTC S81772: Don’t Leave Tensors on the Table: Programming and Optimizing Tensor Cores",
-      "url": "https://forums.developer.nvidia.com/t/code-samples-for-gtc-s81772-don-t-leave-tensors-on-the-table-programming-and-optimizing-tensor-cores/376578",
+      "title": "Bangladesh (+880) is not available for phone verification on build.nvidia.com (Unable to Verify NVIDIA Account)",
+      "url": "https://forums.developer.nvidia.com/t/bangladesh-880-is-not-available-for-phone-verification-on-build-nvidia-com-unable-to-verify-nvidia-account/376635",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Intermittent black screen / display enumeration failure on Lenovo Legion 5 (RTX 5060 Laptop + AMD iGPU + USB-C Dock)",
-      "url": "https://forums.developer.nvidia.com/t/intermittent-black-screen-display-enumeration-failure-on-lenovo-legion-5-rtx-5060-laptop-amd-igpu-usb-c-dock/376577",
+      "title": "When is Kimi K2.7 Code and Qwen3.6 27B coming?",
+      "url": "https://forums.developer.nvidia.com/t/when-is-kimi-k2-7-code-and-qwen3-6-27b-coming/376634",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -405,6 +405,12 @@
       "site": "huggingface.co"
     },
     {
+      "title": "UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing",
+      "url": "https://huggingface.co/papers/2607.08646",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "Native Video-Action Pretraining for Generalizable Robot Control",
       "url": "https://huggingface.co/papers/2607.08639",
       "source": "Hugging Face",
@@ -413,12 +419,6 @@
     {
       "title": "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation",
       "url": "https://huggingface.co/papers/2607.08575",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "A Quantized Native Runtime for On-Device Semantic Audio Generation",
-      "url": "https://huggingface.co/papers/2607.08526",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },

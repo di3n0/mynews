@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 06:00",
+  "updated": "2026-07-13 06:00",
   "category": "Security",
   "items": [
     {
@@ -165,20 +165,14 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "Jamf 推出 Mac 原生的 AI 治理解決方案",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13050",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "傳統防火牆只看 IP，語意防火牆看「意圖」：林宜隆教授解析神經符號架構與 AI 治理三標準如何聯手對抗工業化攻擊",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13029",
+      "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },

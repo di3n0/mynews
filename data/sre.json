@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 06:00",
+  "updated": "2026-07-13 06:01",
   "category": "Sre",
   "items": [
     {
@@ -31,6 +31,12 @@
       "url": "https://sreweekly.com/sre-weekly-issue-520/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
+    },
+    {
+      "title": "Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation",
+      "url": "https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment",
@@ -113,12 +119,6 @@
     {
       "title": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database",
       "url": "https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "AWS Details How One Customer Scaled to One Million Lambda Functions",
-      "url": "https://www.infoq.com/news/2026/07/aws-lambda-1m/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
