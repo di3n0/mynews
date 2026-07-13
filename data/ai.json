@@ -1,244 +1,244 @@
 {
-  "updated": "2026-07-13 06:01",
+  "updated": "2026-07-14 06:01",
   "category": "Ai",
   "items": [
     {
-      "title": "Since Chronium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "title": "Telegram's t.me domain has been suspended",
+      "url": "https://www.whois.com/whois/t.me",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "title": "Climate.gov was destroyed. Open data saved it",
+      "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Can we understand how large language models reason?",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+      "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "title": "The real prices of frontier models. Tokens * Price, right?",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Irish datacenters now guzzle 23% of the country's electricity",
-      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Why write code in 2026",
-      "url": "https://softwaredoug.com/blog/2026/07/09/write-code",
+      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+      "url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Automation Without Understanding",
-      "url": "https://arxiv.org/abs/2607.06377",
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "url": "https://cakehonolulu.github.io/linux-on-32x/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The One-Step Trap (In AI Research)",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "url": "https://neow.in/cWsyMTV3",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "LARP – Revenue infrastructure for serious founders",
-      "url": "https://www.larp.website/",
+      "title": "Thunderbird Desktop settings research: what we learned from your feedback",
+      "url": "https://blog.thunderbird.net/2026/07/desktopsettings/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "So you want to learn physics (second edition, 2021)",
-      "url": "https://www.susanrigetti.com/physics",
+      "title": "Show HN: I implemented a neural network in SQL",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I Learned to Read Again",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "title": "TFTP Honey Pot Results",
+      "url": "https://bruceediger.com/posts/tftp-honeypot-results/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "title": "Ancient Roman Board Game",
+      "url": "https://ludus-coriovalli.web.app/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Don't you mean extinct?",
-      "url": "https://fabiensanglard.net/extinct/index.html",
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "url": "https://github.com/jbwinters/jacquard-lang",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Nuclear war survival guide reveals seven everyday items if disaster strikes",
-      "url": "https://www.dailymail.com/sciencetech/article-15795297/Forgotten-nuclear-war-survival-guide-reveals-seven-everyday-items-Americans-need-disaster-strikes.html",
+      "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+      "url": "https://nobie.com",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Deir El-Medina Strikes",
-      "url": "https://en.wikipedia.org/wiki/Deir_el-Medina_strikes",
+      "title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
+      "url": "https://humansand.ai/blog/nvfp4-rl",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "url": "https://kode.diy",
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "url": "https://jivx.com/densha",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The State of MCP Security [pdf]",
-      "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+      "title": "The Origins of Heikki's Garden of Flowers",
+      "url": "https://garden-of-flowers.heikkilotvonen.com/?essay",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How to read more books",
-      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-      "url": "https://nanduruganesh.github.io/flash-msa/",
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://github.com/morganwilliscloud/billai-bass",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Defining new Jax types with hijax",
-      "url": "https://docs.jax.dev/en/latest/hijax_types.html",
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "url": "https://github.com/floodtide/dom-docx",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
+      "url": "https://esologic.com/benchmarking-tesla-gpus/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Neocities: Create your own free website",
-      "url": "https://neocities.org/",
+      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Is there any model I can run on single Spark to generate music?",
-      "url": "https://forums.developer.nvidia.com/t/is-there-any-model-i-can-run-on-single-spark-to-generate-music/376653",
+      "title": "Inception application auto-declined instantly at submission, no reason given, meets all published criteria - requesting review",
+      "url": "https://forums.developer.nvidia.com/t/inception-application-auto-declined-instantly-at-submission-no-reason-given-meets-all-published-criteria-requesting-review/376745",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable Public API Endpoints for my personal organization",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-personal-organization/376652",
+      "title": "Portability issue: transitive module requirements because of default component initializer",
+      "url": "https://forums.developer.nvidia.com/t/portability-issue-transitive-module-requirements-because-of-default-component-initializer/376739",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request for NVIDIA NIM API Rate Limit Increase (40 → 200 RPM)",
-      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-nim-api-rate-limit-increase-40-200-rpm/376651",
+      "title": "Manual Account Verification Request (Russia +7)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-russia-7/376738",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Running a large LLM on DGX Spark Cluster while keeping ComfyUI usable?",
-      "url": "https://forums.developer.nvidia.com/t/running-a-large-llm-on-dgx-spark-cluster-while-keeping-comfyui-usable/376650",
+      "title": "NVIDIA Ising Decoding Cuts Color Code Logical Error Rates by Over 300X",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-ising-decoding-cuts-color-code-logical-error-rates-by-over-300x/376737",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "File descriptor leak when Vulkan loader unloads libGLX_nvidia after vkDestroyInstance",
-      "url": "https://forums.developer.nvidia.com/t/file-descriptor-leak-when-vulkan-loader-unloads-libglx-nvidia-after-vkdestroyinstance/376648",
+      "title": "AOT tensorrt.plugin reloads plugin PTX via cuModuleLoadData on every enqueue in dynamic-shape engines",
+      "url": "https://forums.developer.nvidia.com/t/aot-tensorrt-plugin-reloads-plugin-ptx-via-cumoduleloaddata-on-every-enqueue-in-dynamic-shape-engines/376735",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "TensorRT-RTX bugs",
-      "url": "https://forums.developer.nvidia.com/t/tensorrt-rtx-bugs/376645",
+      "title": "NVIDIA Inception Application Rejected Without Any Reason",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-inception-application-rejected-without-any-reason/376732",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "My DeepStream pipeline using nvmultiurisrcbin Local works, RTSP causes core dump",
-      "url": "https://forums.developer.nvidia.com/t/my-deepstream-pipeline-using-nvmultiurisrcbin-local-works-rtsp-causes-core-dump/376644",
+      "title": "NVAPI Mosaic APIs fail on RTX 5070 Ti (Driver 610.74) – Surround cannot be restored programmatically",
+      "url": "https://forums.developer.nvidia.com/t/nvapi-mosaic-apis-fail-on-rtx-5070-ti-driver-610-74-surround-cannot-be-restored-programmatically/376731",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Simple frontend webui for Sparkrun for multiple GB10s",
-      "url": "https://forums.developer.nvidia.com/t/simple-frontend-webui-for-sparkrun-for-multiple-gb10s/376643",
+      "title": "Manual Account Verification Request – Region: Pakistan (+92)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-pakistan-92/376730",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Hello NVIDIA Developer Team,",
-      "url": "https://forums.developer.nvidia.com/t/hello-nvidia-developer-team/376642",
+      "title": "Request for NVIDIA Build API Rate Limit Increase (40 RPM to 200 RPM)",
+      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-build-api-rate-limit-increase-40-rpm-to-200-rpm/376729",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Gst-nvinfer silently drops detections when de-letterboxed bbox crosses frame boundary (fixed by crop-objects-to-roi-boundary=1)",
-      "url": "https://forums.developer.nvidia.com/t/gst-nvinfer-silently-drops-detections-when-de-letterboxed-bbox-crosses-frame-boundary-fixed-by-crop-objects-to-roi-boundary-1/376641",
+      "title": "Issues with dynamic ui.Plot updates",
+      "url": "https://forums.developer.nvidia.com/t/issues-with-dynamic-ui-plot-updates/376728",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NvDCF TrajectoryManagement re-associates detections across class boundaries despite checkClassMatch enabled",
-      "url": "https://forums.developer.nvidia.com/t/nvdcf-trajectorymanagement-re-associates-detections-across-class-boundaries-despite-checkclassmatch-enabled/376640",
+      "title": "Error compiling against latest RHEL/Rocky 9.8 kernel",
+      "url": "https://forums.developer.nvidia.com/t/error-compiling-against-latest-rhel-rocky-9-8-kernel/376727",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Orin Nano Dev Kit — M.2 Key-E wifi slot dead (141e0000 Phy link never came up), two known-good cards, requesting RMA",
-      "url": "https://forums.developer.nvidia.com/t/orin-nano-dev-kit-m-2-key-e-wifi-slot-dead-141e0000-phy-link-never-came-up-two-known-good-cards-requesting-rma/376637",
+      "title": "Frontend bug: Illegal context for the component reference",
+      "url": "https://forums.developer.nvidia.com/t/frontend-bug-illegal-context-for-the-component-reference/376726",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Region Missing: Pakistan (+92)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-missing-pakistan-92/376636",
+      "title": "Extreme Event Likelihoods with Guided Generative Models",
+      "url": "https://forums.developer.nvidia.com/t/extreme-event-likelihoods-with-guided-generative-models/376725",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Bangladesh (+880) is not available for phone verification on build.nvidia.com (Unable to Verify NVIDIA Account)",
-      "url": "https://forums.developer.nvidia.com/t/bangladesh-880-is-not-available-for-phone-verification-on-build-nvidia-com-unable-to-verify-nvidia-account/376635",
+      "title": "Serving multiple small LLMs on DGX Spark with CUDA MPS",
+      "url": "https://forums.developer.nvidia.com/t/serving-multiple-small-llms-on-dgx-spark-with-cuda-mps/376724",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "When is Kimi K2.7 Code and Qwen3.6 27B coming?",
-      "url": "https://forums.developer.nvidia.com/t/when-is-kimi-k2-7-code-and-qwen3-6-27b-coming/376634",
+      "title": "Frontend bug: nvfortran rejects recursive type",
+      "url": "https://forums.developer.nvidia.com/t/frontend-bug-nvfortran-rejects-recursive-type/376723",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -333,92 +333,92 @@
       "site": "deeplearning.ai"
     },
     {
-      "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
-      "url": "https://huggingface.co/papers/2607.08393",
+      "title": "PanoWorld: Real-World Panoramic Generation",
+      "url": "https://huggingface.co/papers/2607.09661",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
-      "url": "https://huggingface.co/papers/2607.08772",
+      "title": "Scalable Visual Pretraining for Language Intelligence",
+      "url": "https://huggingface.co/papers/2607.09657",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
-      "url": "https://huggingface.co/papers/2607.08770",
+      "title": "Wan-Dancer: A Hierarchical Framework for Minute-scale Coherent Music-to-Dance Generation",
+      "url": "https://huggingface.co/papers/2607.09581",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
-      "url": "https://huggingface.co/papers/2607.08768",
+      "title": "FreyaTTS Technical Report",
+      "url": "https://huggingface.co/papers/2607.09530",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
-      "url": "https://huggingface.co/papers/2607.08766",
+      "title": "ALICE: Learning a General-Purpose Pathology Foundation Model from Vision, Vision-Language, and Slide-Level Experts",
+      "url": "https://huggingface.co/papers/2607.09526",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
-      "url": "https://huggingface.co/papers/2607.08765",
+      "title": "Failure as a Process: An Anatomy of CLI Coding Agent Trajectories",
+      "url": "https://huggingface.co/papers/2607.09510",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "OpenCoF: Learning to Reason Through Video Generation",
-      "url": "https://huggingface.co/papers/2607.08763",
+      "title": "Shared Selective Persistent Memory for Agentic LLM Systems",
+      "url": "https://huggingface.co/papers/2607.09493",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
-      "url": "https://huggingface.co/papers/2607.08758",
+      "title": "A Sovereign, Open-Source Foundation Model for German and English",
+      "url": "https://huggingface.co/papers/2607.09424",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
-      "url": "https://huggingface.co/papers/2607.08756",
+      "title": "Self-Guided Test-Time Training for Long-Context LLMs",
+      "url": "https://huggingface.co/papers/2607.09415",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
-      "url": "https://huggingface.co/papers/2607.08741",
+      "title": "Mach-Mind-4-Flash Technical Report",
+      "url": "https://huggingface.co/papers/2607.09375",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
-      "url": "https://huggingface.co/papers/2607.08716",
+      "title": "PhysV2A: Reachability-Gated and Semantic-Mask-Constrained Feasibility Completion for Video-to-Robot Manipulation",
+      "url": "https://huggingface.co/papers/2607.09365",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SAM-MT: Real-Time Interactive Multi-Target Video Segmentation",
-      "url": "https://huggingface.co/papers/2607.08688",
+      "title": "Glob3R: Global Structure-from-Motion with 3D Foundation Models",
+      "url": "https://huggingface.co/papers/2607.09225",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing",
-      "url": "https://huggingface.co/papers/2607.08646",
+      "title": "Causally Debiased Latent Action Model for Embodied Action Conditioned World Models",
+      "url": "https://huggingface.co/papers/2607.09185",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Native Video-Action Pretraining for Generalizable Robot Control",
-      "url": "https://huggingface.co/papers/2607.08639",
+      "title": "Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift",
+      "url": "https://huggingface.co/papers/2607.09175",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation",
-      "url": "https://huggingface.co/papers/2607.08575",
+      "title": "TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation",
+      "url": "https://huggingface.co/papers/2607.09169",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
@@ -483,6 +483,12 @@
       "site": "marktechpost.com"
     },
     {
+      "title": "Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Graph Planning, and Tool Routing for Video Editing Tasks",
+      "url": "https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/",
+      "source": "Marktechpost AI Agent",
+      "site": "marktechpost.com"
+    },
+    {
       "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
       "url": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
       "source": "Marktechpost AI Agent",
@@ -533,12 +539,6 @@
     {
       "title": "OpenClaw Releases iOS and Android Companion Node Apps That Connect a Phone to a Self-Hosted AI Agent Gateway",
       "url": "https://www.marktechpost.com/2026/06/29/openclaw-releases-ios-and-android-companion-node-apps-that-connect-a-phone-to-a-self-hosted-ai-agent-gateway/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery",
-      "url": "https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }

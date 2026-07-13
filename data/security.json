@@ -1,99 +1,123 @@
 {
-  "updated": "2026-07-13 06:00",
+  "updated": "2026-07-14 06:00",
   "category": "Security",
   "items": [
     {
-      "title": "Binarly研究人員揭露開源開機載入程式U-Boot存在6個資安漏洞，大量伺服器、網路設備、物聯網設備均可能受到影響",
-      "url": "https://www.ithome.com.tw/news/177240",
+      "title": "【AI Coding下篇】開發成本大幅壓低，工程師角色如何改變？陳宜昌：懂得定義問題，才能把AI變成槓桿",
+      "url": "https://www.ithome.com.tw/news/177186",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "CISA將兩款Joolma兩款延伸套件列入KEV，要求聯邦機構7月13日完成修補",
-      "url": "https://www.ithome.com.tw/news/177238",
+      "title": "【AI Coding上篇】AI如何改寫開發流程？前聯發創新基地技術經理：別只想寫完美Spec",
+      "url": "https://www.ithome.com.tw/news/177185",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "微軟打造AI視覺化中介語言Flint，以語意規格簡化圖表生成",
-      "url": "https://www.ithome.com.tw/news/177236",
+      "title": "英國雙管齊下對抗網路威脅，啟動企業承諾並打造國家級AI盾牌",
+      "url": "https://www.ithome.com.tw/news/177272",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Microsoft Defender零時差漏洞RoguePlanet修補出爐",
-      "url": "https://www.ithome.com.tw/news/177237",
+      "title": "資安桌遊融合CTEM與團隊合作，奧義智慧揭Cybercrete設計概念",
+      "url": "https://www.ithome.com.tw/news/177268",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安週報】0706~0709，漏洞從揭露到被利用的平均時間已驟降至兩小時",
-      "url": "https://www.ithome.com.tw/news/177217",
+      "title": "新型釣魚平臺Forg365結合AI技術，鎖定Microsoft 365帳號發動攻擊",
+      "url": "https://www.ithome.com.tw/news/177269",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "OpenAI傳應用部門主管Fidji Simo下臺",
-      "url": "https://www.ithome.com.tw/news/177233",
+      "title": "立委提案修法放寬StarLink等低軌衛星業者來臺限制，台灣通訊學會：不能只是鬆綁，也要建立境外業者監管機制",
+      "url": "https://www.ithome.com.tw/news/177266",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
-      "url": "https://www.ithome.com.tw/news/177231",
+      "title": "駭客組織Helix鎖定SharePoint竊取資料，以此向企業索討贖金",
+      "url": "https://www.ithome.com.tw/news/177267",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "研究揭LLM攻擊新手法HalluSquatting，可誘使AI程式開發助理安裝惡意程式",
-      "url": "https://www.ithome.com.tw/news/177230",
+      "title": "駭客利用Vibe Coding開發惡意工具，入侵Active Directory環境收集用戶資訊",
+      "url": "https://www.ithome.com.tw/news/177265",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "OpenAI獲准全面推出GPT-5.6系列，登上GitHub Copilot、M365 Copilot",
-      "url": "https://www.ithome.com.tw/news/177229",
+      "title": "微軟坦承AI將讓未來Patch Tuesday的修補數量變多",
+      "url": "https://www.ithome.com.tw/news/177264",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "金融詐欺攻擊利用ClickFix手法散布SCMBANKER工具包",
-      "url": "https://www.ithome.com.tw/news/177227",
+      "title": "Palo Alto修補13項漏洞，含防火牆作業系統的高風險緩衝區溢位問題",
+      "url": "https://www.ithome.com.tw/news/177263",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "OpenAI升級ChatGPT桌面程式，ChatGPT Atlas瀏覽器將退場",
-      "url": "https://www.ithome.com.tw/news/177228",
+      "title": "Datadog揭露GitHub API偵察行動，Ghost帳號長期掃描企業儲存庫",
+      "url": "https://www.ithome.com.tw/news/177262",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "GuardFall攻擊鎖定開源AI程式開發代理，可繞過Shell命令防護",
-      "url": "https://www.ithome.com.tw/news/177226",
+      "title": "【資安日報】7月13日，後門程式WP-ShellStorm大舉入侵140萬WordPress網站",
+      "url": "https://www.ithome.com.tw/news/177261",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "歐盟推AI資安行動計畫，強化模型安全評估與網路韌性",
-      "url": "https://www.ithome.com.tw/news/177225",
+      "title": "微軟永續報告揭AI時代新挑戰：總體排放增加25%，資料中心能源與零碳電力成關鍵戰場",
+      "url": "https://www.ithome.com.tw/news/177254",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "OpenAI推出ChatGPT Work，AI代理人可跨應用程式自主完成多步驟工作",
-      "url": "https://www.ithome.com.tw/news/177224",
+      "title": "針對5月資料外洩事故，CISA公布後續處理及調查結果",
+      "url": "https://www.ithome.com.tw/news/177260",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "研究人員展示workflow層級的提示注入手法，繞過護欄讓GitHub Copilot撰寫惡意程式",
-      "url": "https://www.ithome.com.tw/news/177223",
+      "title": "蘋果控告OpenAI系統性竊取商業機密，揭露已有逾400名前員工跳槽至OpenAI",
+      "url": "https://www.ithome.com.tw/news/177258",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "代理式AI席捲企業系統，機器身分數量暴增，台灣資安主管準備好了嗎？",
+      "title": "美國 CISA 列 Langflow 的 IDOR 漏洞入已知遭利用目錄",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13077",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "觀點 -2026/07/13從法遵到實戰：台灣AI風險分類框架與ISO國際標準的治理共鳴隨著生成式AI滲透醫療、金融與高科技產業，全球治理思維已轉向創新與風險控管並重。數位發展部依《人工智慧......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13074",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/09虛擬資產服務法三讀通過 治理將成金融機構搶攻穩定幣市場的決勝點Liminal Custody：善用治理基礎設施，才能把握市場黃金布局期......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13075",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/09Microsoft 修補 Defender 零日漏洞 RoguePlanet，研究員與廠商揭露爭議延燒Microsoft 於 6 月 16 日確認正在開發修補程式，並透過發布 Microsoft Malware Protection Engi......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13073",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/09代理式AI席捲企業系統，機器身分數量暴增，台灣資安主管準備好了嗎？機器身分管理工具長期分散，是延誤事件回應速度的主因。全球企業平均多花12小時完成事件處理，台灣企業則平......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13072",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
@@ -141,32 +165,26 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/07朔宇科技成為 Barracuda 台灣代理商，強攻中小企業資安盲區引進 BarracudaONE 整合平台，聯手通路開拓資安韌性服務與託管式XDR的防護藍海......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13064",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/07/06中國 LLM 漏洞發現能力逼近前沿模型，專家憂攻守差距持續擴大中國企業智譜 AI 發布開放權重模型 GLM 5.2，採用MoE架構。兩週後，另一家企業 360 安全科技推出以「前沿模......",
+      "title": "中國 LLM 漏洞發現能力逼近前沿模型，專家憂攻守差距持續擴大",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13062",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/06幻象域名搶註：LLM 幻覺催生新型供應鏈威脅攻擊者搶先註冊由 AI 系統幻覺生成、實際上不存在的域名，藉此攔截被導向這些域名的流量，進而對軟體供應鏈......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13054",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/07/06從Root權限淪陷到弱密碼橫行 資安院揭露網通設備四大資安痛點漏洞高度集中於工業網通設備與一般網通設備，且多屬弱密碼、輸入驗證缺失等基礎安全控制問題，攻擊者無需高......",
+      "title": "從Root權限淪陷到弱密碼橫行 資安院揭露網通設備四大資安痛點",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13063",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "Jamf 推出 Mac 原生的 AI 治理解決方案",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13050",
+      "title": "幻象域名搶註：LLM 幻覺催生新型供應鏈威脅",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13054",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "傳統防火牆只看 IP，語意防火牆看「意圖」：林宜隆教授解析神經符號架構與 AI 治理三標準如何聯手對抗工業化攻擊",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13029",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -175,6 +193,66 @@
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
+      "url": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
+      "url": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+      "url": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+      "url": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "url": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "url": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
@@ -203,66 +281,6 @@
     {
       "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
       "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "url": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "url": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-      "url": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
-      "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

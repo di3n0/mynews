@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-13 06:01",
+  "updated": "2026-07-14 06:01",
   "category": "Sre",
   "items": [
+    {
+      "title": "SRE Weekly Issue #525",
+      "url": "https://sreweekly.com/sre-weekly-issue-525/",
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
+    },
     {
       "title": "SRE Weekly Issue #524",
       "url": "https://sreweekly.com/sre-weekly-issue-524/",
@@ -27,10 +33,46 @@
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #520",
-      "url": "https://sreweekly.com/sre-weekly-issue-520/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
+      "title": "The Path to Sovereign Data: Challenges and Priorities in Local-First Computing",
+      "url": "https://www.infoq.com/news/2026/07/data-ownership-localfirst/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "How DoorDash Built an AI Shopping Assistant That Doesn’t Rely on the LLM Alone",
+      "url": "https://www.infoq.com/news/2026/07/doordash-ai-ask-assistant/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Java News Roundup: TornadoVM 5, JHipster, Google ADK, OmniFish Build of Payara, Introducing Vidocq",
+      "url": "https://www.infoq.com/news/2026/07/java-news-roundup-jul06-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: Road to Compliance: Will Your Internal Users Hate Your Platform Team?",
+      "url": "https://www.infoq.com/presentations/platform-engineering-team-compliance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Article: Removing a Hidden Round Trip from a Multi-Region AWS API",
+      "url": "https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Podcast: Governance in the Age of AI: A Conversation with Sarah Wells",
+      "url": "https://www.infoq.com/podcasts/governance-age-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "How to Build More Resilient Local-First Applications With AT Protocol Infrastructure",
+      "url": "https://www.infoq.com/news/2026/07/atproto-webapp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation",
@@ -77,48 +119,6 @@
     {
       "title": "Podcast: Formal Methods for Every Engineer in an AI-Powered Future",
       "url": "https://www.infoq.com/podcasts/formal-methods-ai-powered-future/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "How Datadog Used Claude and Cursor for Test-Driven Production Migration",
-      "url": "https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "WordPress 7.0 Ships with AI Foundations in Core, a Modernized Admin, and New Design Tools",
-      "url": "https://www.infoq.com/news/2026/07/wordpress-7-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Presentation: Accelerating Netflix Data: A Cross-Team Journey from Offline to Online",
-      "url": "https://www.infoq.com/presentations/netflix-data-offline-online/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "How Open Source Enables Collaboration in Creating a Platform",
-      "url": "https://www.infoq.com/news/2026/07/open-source-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "OpenAI Fixes 18-Year-Old GNU libunwind Bug by Treating Crash Debugging Like Epidemiology",
-      "url": "https://www.infoq.com/news/2026/07/openai-libunwind-core-dumps/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Article: Beat-Aligned Mobile Audio Streaming with Virtual Chunks and Native Playback",
-      "url": "https://www.infoq.com/articles/android-beat-aligned-mobile-audio-streaming/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "AlloyDB Ships Proxy Models That Replace LLM Calls with Local Inference inside the Database",
-      "url": "https://www.infoq.com/news/2026/07/alloydb-ai-proxy-models/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
