@@ -1,35 +1,43 @@
 {
-  "updated": "2026-07-14 06:01",
+  "updated": "2026-07-15 06:00",
   "category": "Trending",
   "items": [
     {
-      "title": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative\n(📈 1,077 today)",
-      "language": "TypeScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"\n(📈 1,148 today)",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.\n(📈 1,104 today)",
       "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows support\n(📈 57 today)",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.\n(📈 1,864 today)",
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.\n(📈 481 today)",
+      "language": "Rust",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative\n(📈 4,349 today)",
       "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.\n(📈 1,006 today)",
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team\n(📈 156 today)",
       "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
@@ -37,48 +45,80 @@
     {
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n(📈 802 today)",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n(📈 1,010 today)",
       "language": "CSS",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"\n(📈 1,265 today)",
+      "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "Raphire/Win11Debloat",
       "url": "https://github.com/Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 1\n(📈 74 today)",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 1\n(📈 779 today)",
       "language": "PowerShell",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + inf\n(📈 1,028 today)",
-      "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
-      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.\n(📈 435 today)",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.\n(📈 864 today)",
       "language": "HTML",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development\n(📈 508 today)",
+      "title": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.\n(📈 264 today)",
+      "language": "Clojure",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "AIEraDev/Clypra",
+      "url": "https://github.com/AIEraDev/Clypra",
+      "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities\n(📈 66 today)",
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.\n(📈 448 today)",
+      "language": "C#",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关\n(📈 179 today)",
+      "language": "Go",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + inf\n(📈 1,858 today)",
       "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.\n(📈 260 today)",
-      "language": "JavaScript",
+      "title": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "description": "Become a cracked AI/ML Research Engineer\n(📈 69 today)",
+      "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     }

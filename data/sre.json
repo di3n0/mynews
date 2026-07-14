@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 06:01",
+  "updated": "2026-07-15 06:00",
   "category": "Sre",
   "items": [
     {
@@ -31,6 +31,60 @@
       "url": "https://sreweekly.com/sre-weekly-issue-521/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
+    },
+    {
+      "title": "Google Cloud Workbench Notebooks Extension Connects VS Code to Google Cloud's Jupyter Notebooks",
+      "url": "https://www.infoq.com/news/2026/07/cloud-workbench-vscode-extension/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Google and Industry Partners Announce Agentic Resource Discovery Specification for AI Agents",
+      "url": "https://www.infoq.com/news/2026/07/agentic-resource-discovery-spec/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Meta's Noninvasive Brain–Computer Interface Brain2Qwerty Achieves 61% Accuracy",
+      "url": "https://www.infoq.com/news/2026/07/meta-brain-interface/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: Lessons Learned in Migrating to Micro-Frontends",
+      "url": "https://www.infoq.com/presentations/migration-micro-frontend/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Linkerd 2.20 Delivers Smarter Traffic Management and Dramatic Efficiency Gains",
+      "url": "https://www.infoq.com/news/2026/07/linkerd-2-20-improvements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Google's Genkit Ships Agents API with Detached Turns and Human-in-the-Loop for TypeScript and Go",
+      "url": "https://www.infoq.com/news/2026/07/genkit-agents-api-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Article: Comprehension at AI Speed: Building a Context Store for Evolutionary Architecture",
+      "url": "https://www.infoq.com/articles/ai-speed-context-store-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Evolutionary Data Through Schemaboi: Achieving Forward, Backwards, and Sideways Compatibility",
+      "url": "https://www.infoq.com/news/2026/07/durable-document-schema/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "SwiftData Enhances Queries, Adds Support for External Types and Data Store Observation",
+      "url": "https://www.infoq.com/news/2026/07/swiftdata-27-whats-new/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "The Path to Sovereign Data: Challenges and Priorities in Local-First Computing",
@@ -65,60 +119,6 @@
     {
       "title": "Podcast: Governance in the Age of AI: A Conversation with Sarah Wells",
       "url": "https://www.infoq.com/podcasts/governance-age-ai/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "How to Build More Resilient Local-First Applications With AT Protocol Infrastructure",
-      "url": "https://www.infoq.com/news/2026/07/atproto-webapp/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation",
-      "url": "https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Cloudflare Introduces Temporary Accounts for Autonomous Worker Deployment",
-      "url": "https://www.infoq.com/news/2026/07/cloudflare-temp-accounts/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation",
-      "url": "https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Presentation: Chaos Engineering GPU Clusters",
-      "url": "https://www.infoq.com/presentations/chaos-engineering-gpu/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Linux Foundation Launches Akrites to Protect Critical Open Source Software from AI-Powered Threats",
-      "url": "https://www.infoq.com/news/2026/07/akrites-open-source-ai-threats/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "GitHub Copilot CLI Gets Tabs and No-Config-File Tool Setup in Redesigned Terminal UI",
-      "url": "https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost",
-      "url": "https://www.infoq.com/articles/multi-region-latency-cost-tradeoffs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Podcast: Formal Methods for Every Engineer in an AI-Powered Future",
-      "url": "https://www.infoq.com/podcasts/formal-methods-ai-powered-future/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
