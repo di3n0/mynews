@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-17 16:36",
+  "updated": "2026-07-18 06:00",
   "category": "Security",
   "items": [
+    {
+      "title": "針對NPM套件供應鏈攻擊事故，Jscrambler開發團隊公布調查結果",
+      "url": "https://www.ithome.com.tw/news/177420",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "NPM套件Jscrambler被入侵，駭客用於散布Rust竊資軟體",
+      "url": "https://www.ithome.com.tw/news/177419",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "【資安週報】0713~0717，微軟7月修補逾千個CVE，SharePoint零時差漏洞遭積極利用",
+      "url": "https://www.ithome.com.tw/news/177408",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "Harness工程實戰！Taboola如何打造LLM廣告審查系統",
+      "url": "https://www.ithome.com.tw/news/177409",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "OpenShift 4.22讓AI代理受控存取叢集資源，MCP伺服器與閘道進入技術預覽",
+      "url": "https://www.ithome.com.tw/news/177401",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "Amazon揭示AI代理購物新模式：從搜尋商品到理解需求，Agent協助完成交易",
+      "url": "https://www.ithome.com.tw/news/177406",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
+    {
+      "title": "【資安日報】7月17日，臺灣製造業遭中國惡意軟體Daxin攻擊",
+      "url": "https://www.ithome.com.tw/news/177397",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
     {
       "title": "VS Code代理工作階段脫離單一視窗，多視窗可接手同一任務",
       "url": "https://www.ithome.com.tw/news/177393",
@@ -47,48 +89,6 @@
     {
       "title": "歐盟要求Google開放Android AI功能並共享搜尋資料",
       "url": "https://www.ithome.com.tw/news/177388",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "CISA警告Fortinet沙箱平臺重大漏洞遭到利用",
-      "url": "https://www.ithome.com.tw/news/177387",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "近8成組織將AI用於資安，但僅36%建立正式AI風險管理計畫",
-      "url": "https://www.ithome.com.tw/news/177383",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "微軟甫修補的SharePoint重大漏洞已被用於實際攻擊",
-      "url": "https://www.ithome.com.tw/news/177382",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "G7提出金融業PQC轉型路線，以2035年為整體參考目標",
-      "url": "https://www.ithome.com.tw/news/177380",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "CISA要求聯邦機構緊急修補Oracle EBS重大漏洞",
-      "url": "https://www.ithome.com.tw/news/177379",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "德國開源主權AI模型Soofi S，主打高效率、長文本推理能力",
-      "url": "https://www.ithome.com.tw/news/177378",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "Google為ChromeOS修補逾300個第三方元件與瀏覽器漏洞，其中21個為重大等級",
-      "url": "https://www.ithome.com.tw/news/177377",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
@@ -171,22 +171,88 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "從法遵到實戰：台灣AI風險分類框架與ISO國際標準的治理共鳴",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13074",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "代理式AI席捲企業系統，機器身分數量暴增，台灣資安主管準備好了嗎？",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13072",
+      "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "風險驅動治理：ISO 27005如何協助台灣A級機關與金融業資安合規",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13069",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "url": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
@@ -209,72 +275,6 @@
     {
       "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
       "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-      "url": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-      "url": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "20+ Hijacked Government Websites Became an Attack Channel",
-      "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-      "url": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
-      "url": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
-      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
