@@ -1,250 +1,262 @@
 {
-  "updated": "2026-07-15 06:00",
+  "updated": "2026-07-17 16:36",
   "category": "Ai",
   "items": [
     {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "url": "https://gwern.net/guardian-angel",
+      "title": "Starlink from 1984",
+      "url": "https://nemanjatrifunovic.substack.com/p/starlink-from-1984",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
+      "title": "Solod: Go can be a better C",
+      "url": "https://solod.dev",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Opening lines of famous literary works",
-      "url": "https://www.verbaprima.com/",
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I'm a USB-C Maximalist",
-      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "title": "The Little Book of Reinforcement Learning",
+      "url": "https://github.com/alxndrTL/little-book-rl/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "title": "Old Icons",
+      "url": "https://leancrew.com/all-this/2026/07/old-icons/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Second Life of Sanskrit",
-      "url": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
+      "title": "GrapheneOS recommended for domestic abuse victims",
+      "url": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+      "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+      "url": "https://immersivemath.com/ila/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Accretive Editing",
-      "url": "https://justindfuller.com/programming/accretive-editing",
+      "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Self-hosted voice AI agent for Asterisk&#x2F;FreePBX",
-      "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "title": "Mathematics of Data Science",
+      "url": "https://arxiv.org/abs/2607.11938",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How I use HTMX with Go",
-      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "title": "How RCA Victor sold Sound Service to classrooms in 1939",
+      "url": "https://pncnmnp.github.io/blogs/rca-victor-education.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Punch yourself in the face with reality",
-      "url": "https://adi.bio/reality",
+      "title": "In Praise of Exhaustive Destructuring",
+      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
-      "url": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+      "title": "UIUC AI Teaching Assistant",
+      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Agentic Loop: Three loops in a trench coat",
-      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "url": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
-      "url": "https://github.com/logxio/picchio",
+      "title": "CD sales growth outpaced vinyl in the first half of 2026",
+      "url": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Support for PVA 0.5.0 Solutions DLInference?",
-      "url": "https://forums.developer.nvidia.com/t/support-for-pva-0-5-0-solutions-dlinference/376873",
+      "title": "Request to enable “Public API Endpoints” permission for personal organization",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-personal-organization/377222",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "DeepSeekv4 Flash for 1x Spark [REAP25] [PrismaAURA]",
-      "url": "https://forums.developer.nvidia.com/t/deepseekv4-flash-for-1x-spark-reap25-prismaaura/376872",
+      "title": "RTX PRO 6000 Blackwell falls off the bus under load — Xid 79 → Xid 154, driver 580.159.03",
+      "url": "https://forums.developer.nvidia.com/t/rtx-pro-6000-blackwell-falls-off-the-bus-under-load-xid-79-xid-154-driver-580-159-03/377221",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "API key creation access blocked",
-      "url": "https://forums.developer.nvidia.com/t/api-key-creation-access-blocked/376871",
+      "title": "Connection failed / Activation of network connection failed on DGX Spark — root cause and clean fix (phantom NIC profiles)",
+      "url": "https://forums.developer.nvidia.com/t/connection-failed-activation-of-network-connection-failed-on-dgx-spark-root-cause-and-clean-fix-phantom-nic-profiles/377220",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Hy3 1bit quant , how is it?",
-      "url": "https://forums.developer.nvidia.com/t/hy3-1bit-quant-how-is-it/376870",
+      "title": "Blackwell hotspot",
+      "url": "https://forums.developer.nvidia.com/t/blackwell-hotspot/377219",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Account Access issues",
-      "url": "https://forums.developer.nvidia.com/t/account-access-issues/376869",
+      "title": "Request to enable \"Public API Endpoints\" permission for my Personal Org",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-org/377218",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Lessons From the Leaderboard: What 5,000+ Kagglers Taught Us About Improving AI Reasoning",
-      "url": "https://forums.developer.nvidia.com/t/lessons-from-the-leaderboard-what-5-000-kagglers-taught-us-about-improving-ai-reasoning/376864",
+      "title": "Clarify dimension ordering for SM100 TMA .tile::gather4/.tile::scatter4 coordinates",
+      "url": "https://forums.developer.nvidia.com/t/clarify-dimension-ordering-for-sm100-tma-tile-gather4-tile-scatter4-coordinates/377212",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Built a tool for managing model serving on Sparks and Spark Clusters, PRs welcome",
-      "url": "https://forums.developer.nvidia.com/t/built-a-tool-for-managing-model-serving-on-sparks-and-spark-clusters-prs-welcome/376858",
+      "title": "Nvethernet driver: TX byte counter integer underflow (petabyte spikes) when TSO is enabled on Jetpack 7.2 (Orin AGX)",
+      "url": "https://forums.developer.nvidia.com/t/nvethernet-driver-tx-byte-counter-integer-underflow-petabyte-spikes-when-tso-is-enabled-on-jetpack-7-2-orin-agx/377210",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Support for DGX Spark",
-      "url": "https://forums.developer.nvidia.com/t/support-for-dgx-spark/376857",
+      "title": "Jetson R39.2 package ships stale nvidia-cdi-refresh.service",
+      "url": "https://forums.developer.nvidia.com/t/jetson-r39-2-package-ships-stale-nvidia-cdi-refresh-service/377209",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable “Public API Endpoints” permission for my personal organization",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization/376854",
+      "title": "MSI EdgeXpert DGX Spark having identical Machine IDs",
+      "url": "https://forums.developer.nvidia.com/t/msi-edgexpert-dgx-spark-having-identical-machine-ids/377208",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Post-Train NVIDIA Cosmos 3 In a Day With TAO Agent Skills",
-      "url": "https://forums.developer.nvidia.com/t/post-train-nvidia-cosmos-3-in-a-day-with-tao-agent-skills/376851",
+      "title": "JetPack 7.2 on Jetson AGX Orin 64GB，The system won&#39;t start up",
+      "url": "https://forums.developer.nvidia.com/t/jetpack-7-2-on-jetson-agx-orin-64gb-the-system-wont-start-up/377117",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Post-Train NVIDIA Cosmos 3 In a Day With TAO Agent Skills",
-      "url": "https://forums.developer.nvidia.com/t/post-train-nvidia-cosmos-3-in-a-day-with-tao-agent-skills/376850",
+      "title": "Tesla V100-PCIE-32GB detected as V100-SXM2-32GB on Windows (Code 10, driver won’t start)",
+      "url": "https://forums.developer.nvidia.com/t/tesla-v100-pcie-32gb-detected-as-v100-sxm2-32gb-on-windows-code-10-driver-won-t-start/377115",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Downloading latest firmware for SN2100",
-      "url": "https://forums.developer.nvidia.com/t/downloading-latest-firmware-for-sn2100/376849",
+      "title": "DeepStream RTMP Endpoint or Media Server?",
+      "url": "https://forums.developer.nvidia.com/t/deepstream-rtmp-endpoint-or-media-server/377114",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "TRT Engine plan file across devices warning after reboot on Jetson Orin Nano",
-      "url": "https://forums.developer.nvidia.com/t/trt-engine-plan-file-across-devices-warning-after-reboot-on-jetson-orin-nano/376848",
+      "title": "Orin Nano, r39.2: RAS carveout fault on CRCR write to UEFI-inherited xHCI; identical binary faults one day, boots clean the next",
+      "url": "https://forums.developer.nvidia.com/t/orin-nano-r39-2-ras-carveout-fault-on-crcr-write-to-uefi-inherited-xhci-identical-binary-faults-one-day-boots-clean-the-next/377113",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Post-Train NVIDIA Cosmos 3 in One Day Using Agent Skills",
-      "url": "https://forums.developer.nvidia.com/t/post-train-nvidia-cosmos-3-in-one-day-using-agent-skills/376847",
+      "title": "Request to enable \"Public API Endpoints\" permission for personal organization",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-personal-organization/377112",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "How to Verify AVnu Grandmaster Synchronization or Read isGM on DRIVE AGX Orin?",
-      "url": "https://forums.developer.nvidia.com/t/how-to-verify-avnu-grandmaster-synchronization-or-read-isgm-on-drive-agx-orin/376842",
+      "title": "API Key rate-limited (429) on every request despite low RPM — account-level issue?",
+      "url": "https://forums.developer.nvidia.com/t/api-key-rate-limited-429-on-every-request-despite-low-rpm-account-level-issue/377111",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
       "title": "About",
       "url": "https://www.deeplearning.ai/the-batch/about",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Prismml Fits 27B Model On Iphone",
+      "url": "https://www.deeplearning.ai/the-batch/prismml-fits-27b-model-on-iphone",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Apple Sues Former Partner Openai",
+      "url": "https://www.deeplearning.ai/the-batch/apple-sues-former-partner-openai",
       "source": "DeepLearning.ai",
       "site": "deeplearning.ai"
     },
@@ -321,106 +333,118 @@
       "site": "deeplearning.ai"
     },
     {
-      "title": "How We Decide What Courses To Teach The Ai World Is Full Of Hype And Sales Pitches Deeplearning Ai Focuses On Most Important Tools And Techniques In Ways You Can Apply To Any Ai Vendors",
-      "url": "https://www.deeplearning.ai/the-batch/how-we-decide-what-courses-to-teach-the-ai-world-is-full-of-hype-and-sales-pitches-deeplearning-ai-focuses-on-most-important-tools-and-techniques-in-ways-you-can-apply-to-any-ai-vendors",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Issue 360",
-      "url": "https://www.deeplearning.ai/the-batch/issue-360",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Latent-Identity Tuning in Text-to-Image Personalization Models",
-      "url": "https://huggingface.co/papers/2607.11885",
+      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+      "url": "https://huggingface.co/papers/2607.15277",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-      "url": "https://huggingface.co/papers/2607.11881",
+      "title": "RoboTTT: Context Scaling for Robot Policies",
+      "url": "https://huggingface.co/papers/2607.15275",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Evidence-Backed Video Question Answering",
-      "url": "https://huggingface.co/papers/2607.11862",
+      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+      "url": "https://huggingface.co/papers/2607.15273",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification",
-      "url": "https://huggingface.co/papers/2607.11849",
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "url": "https://huggingface.co/papers/2607.15257",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning",
-      "url": "https://huggingface.co/papers/2607.11736",
+      "title": "HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning",
+      "url": "https://huggingface.co/papers/2607.15255",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Automated Synthesis of Facial Mechanisms for Conversational Animatronic Robots",
-      "url": "https://huggingface.co/papers/2607.11688",
+      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+      "url": "https://huggingface.co/papers/2607.15207",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
-      "url": "https://huggingface.co/papers/2607.11683",
+      "title": "MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization",
+      "url": "https://huggingface.co/papers/2607.15205",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space",
-      "url": "https://huggingface.co/papers/2607.11673",
+      "title": "Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents",
+      "url": "https://huggingface.co/papers/2607.15143",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Motion4Motion: Motion Transfer Across Subjects at Inference",
-      "url": "https://huggingface.co/papers/2607.11644",
+      "title": "Video = World + Event Stream",
+      "url": "https://huggingface.co/papers/2607.15038",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model",
-      "url": "https://huggingface.co/papers/2607.11643",
+      "title": "AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight",
+      "url": "https://huggingface.co/papers/2607.14997",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MonkeyOCRv2: A Visual-Text Foundation Model for Document AI",
-      "url": "https://huggingface.co/papers/2607.11562",
+      "title": "From Draft to Draft-Free: One-Step Video Object Removal via Privileged Distillation and Fast Planting",
+      "url": "https://huggingface.co/papers/2607.14976",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos",
-      "url": "https://huggingface.co/papers/2607.11523",
+      "title": "Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control",
+      "url": "https://huggingface.co/papers/2607.14943",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Proxy Exploration and Reusable Guidance: A Modular LLM Post-Training Paradigm via Proxy-Guided Update Signals",
-      "url": "https://huggingface.co/papers/2607.11505",
+      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+      "url": "https://huggingface.co/papers/2607.14935",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "LightMem-Ego: Your AI Memory for Everyday Life",
-      "url": "https://huggingface.co/papers/2607.11487",
+      "title": "Proof-or-Stop: Don't Trust the Agent, Trust the Evidence -- Loop Engineering for Verifiable Evidence-Gated Lifecycle Control",
+      "url": "https://huggingface.co/papers/2607.14890",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "ToFu: A White-Box, Token-Efficient Agent Harness for Researchers",
-      "url": "https://huggingface.co/papers/2607.11423",
+      "title": "Towards Human-like Physical Intelligence: LifelongVision-Language-Action Learning for Robotic Manipulation",
+      "url": "https://huggingface.co/papers/2607.14852",
       "source": "Hugging Face",
       "site": "huggingface.co"
+    },
+    {
+      "title": "NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
+      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
+    },
+    {
+      "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI",
+      "url": "https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
+    },
+    {
+      "title": "Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort",
+      "url": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
+    },
+    {
+      "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English",
+      "url": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
       "title": "Meet Blume: An Open-Source, Zero-Config Documentation Framework That Ships AI-Ready Docs From a Markdown Folder",
@@ -459,27 +483,15 @@
       "site": "marktechpost.com"
     },
     {
-      "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
-      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
-      "source": "Marktechpost OpenSource",
+      "title": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks",
+      "url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026",
-      "url": "https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/",
-      "source": "Marktechpost OpenSource",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
-      "source": "Marktechpost OpenSource",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Interfaze Ships diffusion-gemma-asr-small, an Open-Source Diffusion ASR Model Transcribing Six Languages via DiffusionGemma&#8217;s Parallel Denoising Decoder",
-      "url": "https://www.marktechpost.com/2026/07/02/interfaze-ships-diffusion-gemma-asr-small-an-open-source-diffusion-asr-model-transcribing-six-languages-via-diffusiongemmas-parallel-denoising-decoder/",
-      "source": "Marktechpost OpenSource",
+      "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI",
+      "url": "https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
@@ -527,18 +539,6 @@
     {
       "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
       "url": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Meet Alibaba&#8217;s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Linq&#8217;s iMessage Apps Bring Payments, Tickets, Flights, and Games Into the iMessage Bubble Through the imessage_app Part",
-      "url": "https://www.marktechpost.com/2026/06/30/linqs-imessage-apps/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }
