@@ -1,7 +1,151 @@
 {
-  "updated": "2026-07-18 06:00",
+  "updated": "2026-07-19 06:00",
   "category": "Ai",
   "items": [
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Typing Speed Test, but for Developers",
+      "url": "https://haxxorwpm.0s.is/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "I'm Making Strandfall, a Solarpunk Orienteering Larp",
+      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Is this the end of the once-mighty GoPro?",
+      "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does &#x2F;goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+      "url": "https://q3edit.com",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "A Second-Grade Teacher Revived a Beloved Video Game",
+      "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
+      "url": "https://github.com/rejourneyco/rejourney",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "How GitHub gave every repository a durable owner",
+      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "GTX 1080s: Testing a Legend",
+      "url": "https://www.lttlabs.com/articles/2026/07/15/gtx-1080s-revisiting-legends",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Tech note: making your own V-I plots at home",
+      "url": "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The Computer at the Bottom of a Canal",
+      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Fake food delivery site for the dopamine",
+      "url": "https://old.reddit.com/r/BingeEatingDisorder/comments/1uzr3ui/fake_food_delivery_site_for_the_dopamine/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
     {
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
@@ -9,236 +153,92 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
-      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Frame – Linux X server in Assembly",
-      "url": "https://isene.org/2026/07/Frame.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Three ways people respond to a problem (other than solving it)",
-      "url": "https://improvesomething.today/responses-to-problems/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Lobste.rs is now running on SQLite",
-      "url": "https://lobste.rs/s/ko1ji1",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Frank Lloyd Wright’s first home",
-      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-      "url": "https://app.everything.diena.co/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "url": "https://honeypotlive.cc/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "More Bounce to the Ounce",
-      "url": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "A Road to Lisp: Which Lisp",
-      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Workspaces – Explore the workspaces of modern creators",
-      "url": "https://workspaces.xyz/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "MoonBASIC: A modern BASIC for building 2D and 3D games",
-      "url": "https://github.com/CharmingBlaze/moonbasic",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Lego building instructions through time",
-      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-      "url": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Estimating the heights of New Yorkers from their scuff marks",
-      "url": "https://blog.jse.li/posts/smith9street/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Pebble Mega Update – July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Does Jetson Orin NX Support Two Independent Displays Through DisplayPort MST?",
-      "url": "https://forums.developer.nvidia.com/t/does-jetson-orin-nx-support-two-independent-displays-through-displayport-mst/377298",
+      "title": "I need manual account verification to access NVIDIA NIM because the country code for Bangladesh (+880) is missing from the signup phone verification l",
+      "url": "https://forums.developer.nvidia.com/t/i-need-manual-account-verification-to-access-nvidia-nim-because-the-country-code-for-bangladesh-880-is-missing-from-the-signup-phone-verification-l/377369",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Installing Pytorch with Python 3.10 for CUDA on NVIDIA TITAN BLACK",
-      "url": "https://forums.developer.nvidia.com/t/installing-pytorch-with-python-3-10-for-cuda-on-nvidia-titan-black/377294",
+      "title": "Manual Phone Verification Request for Bangladesh (+880) – build.nvidia.com",
+      "url": "https://forums.developer.nvidia.com/t/manual-phone-verification-request-for-bangladesh-880-build-nvidia-com/377368",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Rate Limit Increase Request for OpenCode",
-      "url": "https://forums.developer.nvidia.com/t/rate-limit-increase-request-for-opencode/377292",
+      "title": "[Bug Report] Movie Capture: Camera selection UI reset & Custom resolution saving issues",
+      "url": "https://forums.developer.nvidia.com/t/bug-report-movie-capture-camera-selection-ui-reset-custom-resolution-saving-issues/377367",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to Credit & Rate-Limit Increase from (1,000 → 5,000 credits, 40 → 200 RPM)",
-      "url": "https://forums.developer.nvidia.com/t/request-to-credit-rate-limit-increase-from-1-000-5-000-credits-40-200-rpm/377291",
+      "title": "DLSS-RR suppressing high-frequency normal maps in RT 2.0",
+      "url": "https://forums.developer.nvidia.com/t/dlss-rr-suppressing-high-frequency-normal-maps-in-rt-2-0/377366",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Container-native multi-node NCCL on 2x DGX Spark — no host build required (plus an RDMA gotcha with --network=host)",
-      "url": "https://forums.developer.nvidia.com/t/container-native-multi-node-nccl-on-2x-dgx-spark-no-host-build-required-plus-an-rdma-gotcha-with-network-host/377290",
+      "title": "DGX Spark GB10: partnerdiag PowerStress reproducibly hard-powers-off the box — acpitz 88→97.8°C in 5s, all other field tests pass",
+      "url": "https://forums.developer.nvidia.com/t/dgx-spark-gb10-partnerdiag-powerstress-reproducibly-hard-powers-off-the-box-acpitz-88-97-8-c-in-5s-all-other-field-tests-pass/377365",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Kimi-k3 model availability request",
-      "url": "https://forums.developer.nvidia.com/t/kimi-k3-model-availability-request/377282",
+      "title": "Performance test: unsloth/gemma-4-26B-A4B-it-NVFP4 vs nvidia/Gemma-4-26B-A4B-NVFP4",
+      "url": "https://forums.developer.nvidia.com/t/performance-test-unsloth-gemma-4-26b-a4b-it-nvfp4-vs-nvidia-gemma-4-26b-a4b-nvfp4/377364",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Concern about the usefulness of a single Dgx Spark",
-      "url": "https://forums.developer.nvidia.com/t/concern-about-the-usefulness-of-a-single-dgx-spark/377281",
+      "title": "Manual Account Verification Request - Pakistan Phone Verification Missing",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-pakistan-phone-verification-missing/377360",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "PMU/AMU Counters for DGX",
-      "url": "https://forums.developer.nvidia.com/t/pmu-amu-counters-for-dgx/377280",
+      "title": "Suspend failure (Black screen) on Lenovo LOQ (Ryzen 7435HS / RTX 4060) with Open Kernel Module 610.43.03",
+      "url": "https://forums.developer.nvidia.com/t/suspend-failure-black-screen-on-lenovo-loq-ryzen-7435hs-rtx-4060-with-open-kernel-module-610-43-03/377357",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Hitting rpm limits on certain models",
-      "url": "https://forums.developer.nvidia.com/t/hitting-rpm-limits-on-certain-models/377279",
+      "title": "Manual Account Verification Request – Region: Bangladesh (+880)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-bangladesh-880/377350",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "This Forum has been Archived",
-      "url": "https://forums.developer.nvidia.com/t/this-forum-has-been-archived/377278",
+      "title": "Request to enable “Public API Endpoints” for my account - 404 Function not found",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-account-404-function-not-found/377349",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Does JetPack 7.2 support Orin NX 16GB, and what display-driver version does it ship?",
-      "url": "https://forums.developer.nvidia.com/t/does-jetpack-7-2-support-orin-nx-16gb-and-what-display-driver-version-does-it-ship/377277",
+      "title": "Manual Account Verification Request for NIM API Access – Bangladesh (+880)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-for-nim-api-access-bangladesh-880/377347",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Otp problem",
-      "url": "https://forums.developer.nvidia.com/t/otp-problem/377274",
+      "title": "Manual account verification needed for API access country code (+880)Bangladesh",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-needed-for-api-access-country-code-880-bangladesh/377346",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Subject: Requesting higher throughput for a knowledge-base / document-processing project",
-      "url": "https://forums.developer.nvidia.com/t/subject-requesting-higher-throughput-for-a-knowledge-base-document-processing-project/377273",
+      "title": "Nvidia says my phone number is invalid",
+      "url": "https://forums.developer.nvidia.com/t/nvidia-says-my-phone-number-is-invalid/377345",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Rate limit increase request (40→200 RPM) for open-model batch evaluation",
-      "url": "https://forums.developer.nvidia.com/t/rate-limit-increase-request-40-200-rpm-for-open-model-batch-evaluation/377272",
+      "title": "Underwater AUV manipulation simulatiom",
+      "url": "https://forums.developer.nvidia.com/t/underwater-auv-manipulation-simulatiom/377344",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Unable to receive OTP for Vietnam (+84) phone verification on build.nvidia.com",
-      "url": "https://forums.developer.nvidia.com/t/unable-to-receive-otp-for-vietnam-84-phone-verification-on-build-nvidia-com/377269",
+      "title": "Jetson Orin Nano Super Kit cannot read SSD",
+      "url": "https://forums.developer.nvidia.com/t/jetson-orin-nano-super-kit-cannot-read-ssd/377343",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -405,22 +405,34 @@
       "site": "huggingface.co"
     },
     {
+      "title": "OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios",
+      "url": "https://huggingface.co/papers/2607.14989",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
+      "title": "Demographically-Conditioned Synthetic Medical Images for Bias Mitigation and Bias Detection in Disease Classifiers",
+      "url": "https://huggingface.co/papers/2607.14984",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "From Draft to Draft-Free: One-Step Video Object Removal via Privileged Distillation and Fast Planting",
       "url": "https://huggingface.co/papers/2607.14976",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
-      "url": "https://huggingface.co/papers/2607.14952",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
+      "title": "NVIDIA Released DeepStream 9.1: Bringing Agentic AI to Vision AI With 13 Skills and Multi-View 3D Tracking",
+      "url": "https://www.marktechpost.com/2026/07/18/nvidia-released-deepstream-9-1-bringing-agentic-ai-to-vision-ai-with-13-skills-and-multi-view-3d-tracking/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
-      "title": "Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control",
-      "url": "https://huggingface.co/papers/2607.14943",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
+      "title": "Google Cloud&#8217;s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
+      "url": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
       "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
@@ -471,15 +483,15 @@
       "site": "marktechpost.com"
     },
     {
-      "title": "Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
-      "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/",
-      "source": "Marktechpost OpenSource",
+      "title": "Google Cloud&#8217;s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
+      "url": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
-      "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
-      "source": "Marktechpost OpenSource",
+      "title": "Build an Agentic Event Venue Operator with MongoDB Atlas, Voyage, and LangGraph",
+      "url": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
@@ -527,18 +539,6 @@
     {
       "title": "NVIDIA HORIZON: A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion",
       "url": "https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems",
-      "url": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }
