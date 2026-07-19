@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-19 06:00",
+  "updated": "2026-07-20 06:00",
   "category": "Security",
   "items": [
+    {
+      "title": "彙整、強化與擴展旗下多種資安產品線，Sophos打造AI原生網路安全防禦系統",
+      "url": "https://www.ithome.com.tw/news/177421",
+      "source": "iThome",
+      "site": "ithome.com.tw"
+    },
     {
       "title": "1Password替Claude加上受控登入功能，AI代理能登入網站卻看不到密碼",
       "url": "https://www.ithome.com.tw/news/177407",
@@ -83,12 +89,6 @@
     {
       "title": "美國戰爭部暫停CMMC第二階段，檢討國防承包商資安認證制度",
       "url": "https://www.ithome.com.tw/news/177389",
-      "source": "iThome",
-      "site": "ithome.com.tw"
-    },
-    {
-      "title": "Linus Torvalds談Linux核心對AI的立場，不排斥並以技術價值為主要考量",
-      "url": "https://www.ithome.com.tw/news/177381",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
@@ -183,6 +183,24 @@
       "site": "informationsecurity.com.tw"
     },
     {
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
       "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
       "source": "The Hacker News",
@@ -251,24 +269,6 @@
     {
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
       "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
-      "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
