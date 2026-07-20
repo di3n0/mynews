@@ -1,250 +1,256 @@
 {
-  "updated": "2026-07-20 06:01",
+  "updated": "2026-07-21 06:00",
   "category": "Ai",
   "items": [
     {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Zen of Parallel Programming",
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "HomeLab #1: MikroTik as a Home Router",
-      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Claude Code uses Bun written in Rust now",
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Blender 5.2 LTS",
-      "url": "https://www.blender.org/download/releases/5-2/",
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Orion Browser by Kagi",
-      "url": "https://orionbrowser.com/",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "title": "Who's Afraid of Chinese Models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "From Muon to Gradient Clipping: Some Thoughts on QK Stability",
-      "url": "https://MasterGodzilla.github.io/posts/2025/07/muon-clip/",
+      "title": "The creepiest 'sales demo' of all time",
+      "url": "https://www.appenmedia.com/opinion/letter-to-the-editor-the-creepiest-sales-demo-of-all-time/article_a8f0cc6c-29d3-41f7-8668-8a855f760efb.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+      "url": "https://nothings.org/gamedev/ssao/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+      "title": "LEDs’ potential to save our night skies",
+      "url": "https://spectrum.ieee.org/led-light-pollution",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Cagire: Live Coding in Forth",
-      "url": "https://cagire.raphaelforment.fr",
+      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+      "url": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "UnifiedIR for Julia",
-      "url": "https://github.com/JuliaLang/julia/pull/62334",
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "url": "https://hypr.land/news/update55/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "HMD Touch 4G",
-      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "title": "You only need the frontier model for one single edit",
+      "url": "https://stencil.so/blog/prewalk",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I joined the IndieWeb, here's what I learned",
-      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "url": "https://news.ycombinator.com/item?id=48981136",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Land Atlas – soil, farmability, and crop analysis for land listings",
-      "url": "https://land-atlas-production.up.railway.app/welcome",
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
-      "url": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+      "title": "85.3 GFlops: Optimizing FP32 Matrix Multiplication on a Single AMD Zen 3 Core",
+      "url": "https://github.com/houslast3/85.30-GFLOPS-Single-Core-FP32-Matrix-Multiplication-on-AMD-Zen-3",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "title": "Perfection is not over-engineering",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Last MPEG-4 Visual Patent Has Expired",
-      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "title": "I wrote an bash enumerator because I was sick of xargs",
+      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Infinities, impossibilities, and the man in the white linen suit",
-      "url": "https://iain.so/infinities-impossibilities-and-the-man-in-the-white-linen-suit",
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Building an Arch Linux Aarch64 Port for Holo Core",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html",
+      "title": "Shinjuku Station in 3D",
+      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The death and rebirth of my home server",
-      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+      "title": "The Voice of Google",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Natural experiments prove phytoplankton carbon removal works",
-      "url": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
+      "title": "The drivers behind software delivery inefficiency",
+      "url": "https://dl.acm.org/doi/10.1145/3800646.3800650",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "AirLLM and the Theoretical Scale of DGX Spark",
-      "url": "https://forums.developer.nvidia.com/t/airllm-and-the-theoretical-scale-of-dgx-spark/377428",
+      "title": "Is sleep/suspend disabled by default?",
+      "url": "https://forums.developer.nvidia.com/t/is-sleep-suspend-disabled-by-default/377582",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NVFP4 vs FP8 KV Cache on RTX PRO 6000 Blackwell and DGX Spark",
-      "url": "https://forums.developer.nvidia.com/t/nvfp4-vs-fp8-kv-cache-on-rtx-pro-6000-blackwell-and-dgx-spark/377425",
+      "title": "Request to enable \"Public API Endpoints\" permission for my personal organization",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization/377581",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Запрос на ручную проверку",
-      "url": "https://forums.developer.nvidia.com/t/topic/377424",
+      "title": "How can I remove Build and Deploy a Multi-Agent Chatbot",
+      "url": "https://forums.developer.nvidia.com/t/how-can-i-remove-build-and-deploy-a-multi-agent-chatbot/377567",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "VLLM v0.25.1 and NCCL 2.30.7 no available Image",
-      "url": "https://forums.developer.nvidia.com/t/vllm-v0-25-1-and-nccl-2-30-7-no-available-image/377417",
+      "title": "Request to enable \"Public API Endpoints\" for my account - 404 Function not found",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-account-404-function-not-found/377566",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Kimi-k2.6 not working",
-      "url": "https://forums.developer.nvidia.com/t/kimi-k2-6-not-working/377416",
+      "title": "Introducing veloGB10 a new inference engine ( Qwen3.6-27b-nvfp2 on 2x cluster: ~50 tok/s , on single: ~40 tok/s and more)",
+      "url": "https://forums.developer.nvidia.com/t/introducing-velogb10-a-new-inference-engine-qwen3-6-27b-nvfp2-on-2x-cluster-50-tok-s-on-single-40-tok-s-and-more/377565",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Uzbekistan (+998)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-uzbekistan-998/377415",
+      "title": "Nvcr.io advertises a different token realm after a token expires, dead-ending anonymous token refresh",
+      "url": "https://forums.developer.nvidia.com/t/nvcr-io-advertises-a-different-token-realm-after-a-token-expires-dead-ending-anonymous-token-refresh/377563",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable \"Public API Endpoints\" permission for my Personal Organization",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization/377412",
+      "title": "How AI Can Improve Precise Observation of the Sun, Moon, and Earth for Environmental Protection",
+      "url": "https://forums.developer.nvidia.com/t/how-ai-can-improve-precise-observation-of-the-sun-moon-and-earth-for-environmental-protection/377558",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "\"Request to enable Public API Endpoints permission for my personal organization\"",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization/377411",
+      "title": "How to secure WiFi antennas",
+      "url": "https://forums.developer.nvidia.com/t/how-to-secure-wifi-antennas/377555",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable Public API Endpoints for my personal organization",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-personal-organization/377410",
+      "title": "CloudXR 6.2.1 linux server audio capture",
+      "url": "https://forums.developer.nvidia.com/t/cloudxr-6-2-1-linux-server-audio-capture/377554",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Red Hat 8.7 : Install nvidia driver in offline PC",
-      "url": "https://forums.developer.nvidia.com/t/red-hat-8-7-install-nvidia-driver-in-offline-pc/377405",
+      "title": "Jetson Orin Nano: Missing 25W Power Mode & QSPI Firmware Mismatch After Missed Capsule Update",
+      "url": "https://forums.developer.nvidia.com/t/jetson-orin-nano-missing-25w-power-mode-qspi-firmware-mismatch-after-missed-capsule-update/377553",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable Public API Endpoints for my personal organization (404 error)",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-personal-organization-404-error/377398",
+      "title": "Unreal Engine 5.4 DLSS plugin download link not found",
+      "url": "https://forums.developer.nvidia.com/t/unreal-engine-5-4-dlss-plugin-download-link-not-found/377552",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Region: Pakistan (+92)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-pakistan-92/377397",
+      "title": "Save your spark cluster disk space, use this solution",
+      "url": "https://forums.developer.nvidia.com/t/save-your-spark-cluster-disk-space-use-this-solution/377551",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Qwen 3.8 is about to launch, open weight too",
-      "url": "https://forums.developer.nvidia.com/t/qwen-3-8-is-about-to-launch-open-weight-too/377396",
+      "title": "sparkDash - Multi-unit monitoring dashboard for NVIDIA DGX Spark",
+      "url": "https://forums.developer.nvidia.com/t/sparkdash-multi-unit-monitoring-dashboard-for-nvidia-dgx-spark/377550",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "RTX Neural Materials / RTX Neural Texture Compression on NvRTX branch?",
-      "url": "https://forums.developer.nvidia.com/t/rtx-neural-materials-rtx-neural-texture-compression-on-nvrtx-branch/377395",
+      "title": "RTX A4500 TDP throttle in lu",
+      "url": "https://forums.developer.nvidia.com/t/rtx-a4500-tdp-throttle-in-lu/377549",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable \"Public API Endpoints\" permission for personal organization",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-personal-organization/377394",
+      "title": "Nano/NX vs. Rey/Grogu vs. \"Legacy type\"/\"Advanced type\"",
+      "url": "https://forums.developer.nvidia.com/t/nano-nx-vs-rey-grogu-vs-legacy-type-advanced-type/377548",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
       "title": "About",
       "url": "https://www.deeplearning.ai/the-batch/about",
+      "source": "DeepLearning.ai",
+      "site": "deeplearning.ai"
+    },
+    {
+      "title": "Kimi K3 Marks A Big Shift In Ai Development",
+      "url": "https://www.deeplearning.ai/the-batch/kimi-k3-marks-a-big-shift-in-ai-development",
       "source": "DeepLearning.ai",
       "site": "deeplearning.ai"
     },
@@ -327,98 +333,92 @@
       "site": "deeplearning.ai"
     },
     {
-      "title": "Issue 361",
-      "url": "https://www.deeplearning.ai/the-batch/issue-361",
-      "source": "DeepLearning.ai",
-      "site": "deeplearning.ai"
-    },
-    {
-      "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
-      "url": "https://huggingface.co/papers/2607.15278",
+      "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+      "url": "https://huggingface.co/papers/2607.16190",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
-      "url": "https://huggingface.co/papers/2607.15277",
+      "title": "When Does Muon Help Agentic Reinforcement Learning?",
+      "url": "https://huggingface.co/papers/2607.16169",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "RoboTTT: Context Scaling for Robot Policies",
-      "url": "https://huggingface.co/papers/2607.15275",
+      "title": "An Exam for Active Observers",
+      "url": "https://huggingface.co/papers/2607.16165",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
-      "url": "https://huggingface.co/papers/2607.15273",
+      "title": "CADAQUES: A Cost-Aware Dual Architecture for Query-Efficient Autonomous Discovery",
+      "url": "https://huggingface.co/papers/2607.16127",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-      "url": "https://huggingface.co/papers/2607.15257",
+      "title": "The Honest Quorum Problem: Epistemic Byzantine Fault Tolerance for Agentic Infrastructure",
+      "url": "https://huggingface.co/papers/2607.16109",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "HoloGeo: Mitigating Landmark Bias in Geo-localization via Evidence-Driven Reasoning",
-      "url": "https://huggingface.co/papers/2607.15255",
+      "title": "Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos",
+      "url": "https://huggingface.co/papers/2607.16107",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
-      "url": "https://huggingface.co/papers/2607.15207",
+      "title": "Understanding Reasoning from Pretraining to Post-Training",
+      "url": "https://huggingface.co/papers/2607.16097",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization",
-      "url": "https://huggingface.co/papers/2607.15205",
+      "title": "Let the Body Follow: Coupled Egocentric Control for Whole-Body Robot Teleoperation",
+      "url": "https://huggingface.co/papers/2607.16095",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "On-Policy Delta Distillation",
-      "url": "https://huggingface.co/papers/2607.15161",
+      "title": "JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models",
+      "url": "https://huggingface.co/papers/2607.16074",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents",
-      "url": "https://huggingface.co/papers/2607.15143",
+      "title": "Loop the Loopies!",
+      "url": "https://huggingface.co/papers/2607.16051",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Long-Context Fine-Tuning with Limited VRAM",
-      "url": "https://huggingface.co/papers/2607.15105",
+      "title": "SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery",
+      "url": "https://huggingface.co/papers/2607.16038",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "DriftWorld: Fast World Modeling through Drifting",
-      "url": "https://huggingface.co/papers/2607.15065",
+      "title": "Presentation, Not Mechanism: A Render Confound in Deprecation-Aware Memory Evaluation",
+      "url": "https://huggingface.co/papers/2607.16019",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment",
-      "url": "https://huggingface.co/papers/2607.15058",
+      "title": "Data and Learning Where it Matters for Contact-Rich Manipulation",
+      "url": "https://huggingface.co/papers/2607.15982",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Video = World + Event Stream",
-      "url": "https://huggingface.co/papers/2607.15038",
+      "title": "DSWorld: A Data Science World Model for Efficient Autonomous Agents",
+      "url": "https://huggingface.co/papers/2607.15901",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "AeroAct: Action-Centered World-Action Models for Language-Conditioned Quadrotor Flight",
-      "url": "https://huggingface.co/papers/2607.14997",
+      "title": "ContinuityBench: A Benchmark and Systems Study of Stateful Failover in Multi-Provider LLM Routing",
+      "url": "https://huggingface.co/papers/2607.15899",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
