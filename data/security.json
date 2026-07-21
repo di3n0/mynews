@@ -1,99 +1,117 @@
 {
-  "updated": "2026-07-21 06:00",
+  "updated": "2026-07-22 06:00",
   "category": "Security",
   "items": [
     {
-      "title": "Manifold警示ClaudeBleed漏洞依舊存在，攻擊者可濫用瀏覽器擴充套件讀取Gmail信件",
-      "url": "https://www.ithome.com.tw/news/177461",
+      "title": "醫療零售首例！杏一醫療將FIDO導入會員端，年底更將延伸至供應商平臺與企業內部",
+      "url": "https://www.ithome.com.tw/news/177492",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "惡意軟體ACR Stealer攻擊升溫，微軟揭WebDAV與圖片隱寫投遞手法",
-      "url": "https://www.ithome.com.tw/news/177455",
+      "title": "駭客的伺服器設定疏忽，意外暴露3起針對Microsoft 365的Evilginx釣魚攻擊活動",
+      "url": "https://www.ithome.com.tw/news/177493",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "資安業者Mindgard揭露Cursor存在未修補漏洞，開發者開啟惡意儲存庫恐遭執行任意程式碼",
-      "url": "https://www.ithome.com.tw/news/177454",
+      "title": "微軟WinApp擴充套件新增視覺化資訊清單編輯器，VS Code可直接處理多專案封裝",
+      "url": "https://www.ithome.com.tw/news/177491",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Roblox推出手機AI創作工具Build，文字提示即可生成遊戲原型",
-      "url": "https://www.ithome.com.tw/news/177452",
+      "title": "英國醫療軟體商Craneware遭駭，逾2,000家美國醫院客戶資料恐受影響",
+      "url": "https://www.ithome.com.tw/news/177490",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "交通部預告外送專法兩項子法，平臺演算法、派單系統與會員機制都將重寫，業界籲建立滾動式治理機制",
-      "url": "https://www.ithome.com.tw/news/177451",
+      "title": "Google年底調整Nearby Connections API，不再替App自動開啟Wi-Fi與藍牙",
+      "url": "https://www.ithome.com.tw/news/177487",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "後門程式GoSerpent攻擊東南亞政府與外交機構，持續蒐集資料數周後再外傳",
-      "url": "https://www.ithome.com.tw/news/177443",
+      "title": "Kaspersky揭露惡意軟體框架OkoBot，可結合多種元件竊取加密貨幣錢包與敏感資訊",
+      "url": "https://www.ithome.com.tw/news/177489",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Fortinet揭露偽裝為TrueType字型檔的惡意軟體載入器，藉此降低偵測機率",
-      "url": "https://www.ithome.com.tw/news/177450",
+      "title": "【資安日報】7月21日，駭客聲稱從新思科技竊得客戶資料庫，遭該公司駁斥",
+      "url": "https://www.ithome.com.tw/news/177488",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "安永會計師事務所支援系統傳出遭到入侵，臺灣用戶不受影響",
-      "url": "https://www.ithome.com.tw/news/177427",
+      "title": "AI代理長期記憶成新攻擊面，單封郵件植入假資訊成功率最高87.5%",
+      "url": "https://www.ithome.com.tw/news/177486",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Gemini 3.5 Pro傳因從頭打造，再度延後推出",
-      "url": "https://www.ithome.com.tw/news/177449",
+      "title": "研究人員揭露新型惡意軟體HollowGraph，利用M365行事曆建立隱蔽C2通道",
+      "url": "https://www.ithome.com.tw/news/177485",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "鎖定AI與機密運算負載，MITRE攜手產業推持續遠端驗證框架草案",
-      "url": "https://www.ithome.com.tw/news/177444",
+      "title": "面對AI浪潮，資安人該如何練出「打不倒」的生存能力",
+      "url": "https://www.ithome.com.tw/news/177484",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "ClickLock鎖定Mac，癱瘓系統逼使用者輸入登入密碼",
-      "url": "https://www.ithome.com.tw/news/177448",
+      "title": "韓國外交官培訓平臺遭駭，攻擊者利用伺服器軟體零時差漏洞存取近10個月",
+      "url": "https://www.ithome.com.tw/news/177483",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】7月20日，多款HTTP/2伺服器存在流量控制漏洞",
-      "url": "https://www.ithome.com.tw/news/177447",
+      "title": "詐騙集團假冒FBI，鎖定受害者二次行騙",
+      "url": "https://www.ithome.com.tw/news/177482",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "松上電子部分資訊系統遭駭",
-      "url": "https://www.ithome.com.tw/news/177446",
+      "title": "NadMesh殭屍網路鎖定AI與MCP服務，整合逾20種RCE攻擊自動擴散",
+      "url": "https://www.ithome.com.tw/news/177481",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "GitHub強化Copilot程式碼審查隔離，預設防火牆並拆分執行器設定",
-      "url": "https://www.ithome.com.tw/news/177438",
+      "title": "Cursor等AI程式代理曝沙箱繞過風險，工作區檔案可透過開發工具與Docker越界執行",
+      "url": "https://www.ithome.com.tw/news/177477",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "美日荷英網路安全機構發布協調式漏洞揭露指引，協助業者與資安研究人員合作",
-      "url": "https://www.ithome.com.tw/news/177445",
+      "title": "晶片設計軟體廠Synopsys傳出遭駭，該公司否認並聲稱未發現資料洩露跡象",
+      "url": "https://www.ithome.com.tw/news/177480",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Google 為 GCPW 新增 FIDO2 金鑰支援強化 Windows 登入安全",
+      "title": "F5修補nginx重大漏洞CVE-2026-42533，CVSS達9.2恐致遠端程式碼執行",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13102",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/21WP2Shell漏洞鏈遭大規模利用，數百萬WordPress網站曝遠端接管風險攻擊者正大規模串聯利用WordPress核心系統中的兩個重大漏洞CVE-2026-60137與CVE-2026-63030，在漏洞揭露後......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13101",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/21全球最大AI模型庫Hugging Face遭自主AI代理人攻擊 內部資料與憑證外洩Hugging Face表示：「無論攻擊者背後是遭破解的託管模型，或是不受限制的開源模型，攻擊者都不受任何使用政......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13100",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/17Google 為 GCPW 新增 FIDO2 金鑰支援強化 Windows 登入安全GCPW 是一款免費工具，讓用戶可使用 Google Workspace 帳號登入 Windows 電腦，作為 Windows 帳號密碼的替......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13099",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
@@ -147,38 +165,14 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "解決方案 -2026/07/16AWS 攜手 Anthropic 推出 Claude apps gateway for AWS，企業可集中控管 Claude Code 存取與支出閘道器內建於 Claude Code 命令列介面（CLI）中，開發者無需更換既有工具。其本身為無狀態服務（stateless ......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13089",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/07/15AI 編碼代理程式觸發資安偵測，攻守行為模式接近重疊瀏覽器憑證存取、LOLBin（系統內建工具濫用）下載，以及將腳本寫入啟動資料夾等行為，可能同時出自良性代理......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13087",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/07/14單一攻擊者借助 AI 在 72 小時內入侵 AWS 雲端環境並完成勒索這次入侵並非源於單一設定錯誤，而是串聯應用程式服務、AWS 資源、原始碼儲存庫、持續整合／持續部署（CI/C......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13084",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "黃隊崛起！AI資安攻防新增第三股力量",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13082",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "從法遵到實戰：台灣AI風險分類框架與ISO國際標準的治理共鳴",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13074",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "OAuth Client ID偽造技術興起：新手法鎖定雲端環境行隱密帳號列舉",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13080",
+      "title": "風險驅動治理：ISO 27005如何協助台灣A級機關與金融業資安合規",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13069",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -189,10 +183,82 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "風險驅動治理：ISO 27005如何協助台灣A級機關與金融業資安合規",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13069",
+      "title": "單一攻擊者借助 AI 在 72 小時內入侵 AWS 雲端環境並完成勒索",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13084",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+      "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "url": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
@@ -209,78 +275,6 @@
     {
       "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
       "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-      "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
-      "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
