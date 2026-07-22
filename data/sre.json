@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 06:01",
+  "updated": "2026-07-23 06:00",
   "category": "Sre",
   "items": [
     {
@@ -31,6 +31,36 @@
       "url": "https://sreweekly.com/sre-weekly-issue-522/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
+    },
+    {
+      "title": "GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture",
+      "url": "https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Anthropic Details How It Contains Claude Across Web, Code, and Cowork",
+      "url": "https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: From Copy-Paste to Composition: Building Agents Like Real Software",
+      "url": "https://www.infoq.com/presentations/agent-software-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act",
+      "url": "https://www.infoq.com/news/2026/07/aws-billing-estimates-incident/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "GKE Security Blueprint Joins Growing List of Cloud AI Frameworks",
+      "url": "https://www.infoq.com/news/2026/07/google-gke-ai-security-blueprint/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding",
@@ -89,36 +119,6 @@
     {
       "title": "Presentation: Platform Engineering for Everyone - Success Can’t Be Coded",
       "url": "https://www.infoq.com/presentations/platform-engineering-product-mindset/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Podcast: Strands Agents with Clare Liguori",
-      "url": "https://www.infoq.com/podcasts/strands-agents/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "AWS Releases Loom, an Open-Source Reference Platform for Governing AI Agents at Enterprise Scale",
-      "url": "https://www.infoq.com/news/2026/07/loom-aws-agent-platform/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "How Netflix Built GenPage: a Single GenAI Model to Build Personalized Homepages",
-      "url": "https://www.infoq.com/news/2026/07/netflix-llm-homepage-generation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Google's AlphaEvolve Reaches General Availability with Evolutionary Code Optimization as a Service",
-      "url": "https://www.infoq.com/news/2026/07/alphaevolve-generally-available/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "AWS Introduces CloudFormation Express Mode for Faster Infrastructure Deployments",
-      "url": "https://www.infoq.com/news/2026/07/cloudformation-express-mode/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
