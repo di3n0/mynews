@@ -1,94 +1,94 @@
 {
-  "updated": "2026-07-23 06:00",
+  "updated": "2026-07-24 06:00",
   "category": "Security",
   "items": [
     {
-      "title": "荷蘭揭俄羅斯駭入IP攝影機追蹤援烏軍運，情報已用於攻擊烏軍",
-      "url": "https://www.ithome.com.tw/news/177530",
+      "title": "【美國AMD全球發表會直擊】AMD發表最新AI加速器及第六代EPYC處理器，挾Helios機櫃搶攻AI工廠市場",
+      "url": "https://www.ithome.com.tw/news/177584",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "烏俄戰爭向臺灣示範的一堂課：真正需要防護的不只是關鍵設施，而是支撐國家運作的依賴網路",
-      "url": "https://www.ithome.com.tw/news/177540",
+      "title": "Google推出Gemini 3.5 Flash Cyber資安模型，專攻漏洞發現與修補",
+      "url": "https://www.ithome.com.tw/news/177583",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "俄羅斯駭客組織UAC-0145利用ClickFix攻擊烏克蘭，誘導受害者自行執行惡意指令",
-      "url": "https://www.ithome.com.tw/news/177539",
+      "title": "微軟將Xbox向下相容帶進Windows 11，首批4款支援PC與掌機",
+      "url": "https://www.ithome.com.tw/news/177582",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Check Point揭露伊朗駭客組織新武器Cavern，提供因應不同環境的模組化後門框架",
-      "url": "https://www.ithome.com.tw/news/177531",
+      "title": "Nichirei資安事故有新進展，冷鏈物流完全恢復預計要將近兩週，勒索軟體組織RansomHouse宣稱是其所為",
+      "url": "https://www.ithome.com.tw/news/177580",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "法國國會通過未滿15歲社群網路禁令，9月上路前仍可能面臨憲法審查",
-      "url": "https://www.ithome.com.tw/news/177527",
+      "title": "剖析2026上半年漏洞攻擊趨勢，F5警示PHP與Exchange舊漏洞持續遭到鎖定",
+      "url": "https://www.ithome.com.tw/news/177581",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "思科釋出Antares模型權重，專攻程式碼漏洞定位",
-      "url": "https://www.ithome.com.tw/news/177529",
+      "title": "【資安日報】7月23日，Oracle修補超過一千個資安漏洞，數量創下新紀錄",
+      "url": "https://www.ithome.com.tw/news/177579",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】7月22日，WordPress重大漏洞wp2shell遭到積極利用",
-      "url": "https://www.ithome.com.tw/news/177528",
+      "title": "OpenAI推出Presence企業AI代理，自家電話客服75%案件無須真人處理",
+      "url": "https://www.ithome.com.tw/news/177578",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Palo Alto Networks宣布併購Embrace，為可觀測性平臺提供高精度真實使用者監控能力",
-      "url": "https://www.ithome.com.tw/news/177524",
+      "title": "建立可信任的AI防線，CSA台灣分會會長採蔡一郎導讀AICM最新1.1版",
+      "url": "https://www.ithome.com.tw/news/177551",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "駭客團體JadePuffer攻擊升溫，打造專門針對AI環境的勒索軟體EncForge",
-      "url": "https://www.ithome.com.tw/news/177523",
+      "title": "Amazon EKS升級增加退路，K8s控制平面7天內可回復前一版本",
+      "url": "https://www.ithome.com.tw/news/177573",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "美國警告要制裁中國蒸餾美國模型的行為",
-      "url": "https://www.ithome.com.tw/news/177521",
+      "title": "瑞士施泰德鐵路遭Everest勒索軟體攻擊，嚴拒支付贖金",
+      "url": "https://www.ithome.com.tw/news/177577",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "AWS Kiro漏洞可被網頁隱藏指令利用，繞過核准執行任意程式碼",
-      "url": "https://www.ithome.com.tw/news/177513",
+      "title": "F5揭露2026年6月十大熱門漏洞，多個舊漏洞仍名列最常遭掃描利用榜單",
+      "url": "https://www.ithome.com.tw/news/177576",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "勒索軟體Qilin利用Palo Alto Networks的VPN漏洞入侵",
-      "url": "https://www.ithome.com.tw/news/177520",
+      "title": "拍付國際資安事故調查出爐，防火牆漏洞遭駭客利用成破口，已補強防禦並導入EDR強化監控",
+      "url": "https://www.ithome.com.tw/news/177544",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "美國白宮推出Gold Eagle平臺，建立AI網路威脅資訊共享機制",
-      "url": "https://www.ithome.com.tw/news/177519",
+      "title": "AMD與Anthropic簽署2GW AI晶片與50億美元投資協議",
+      "url": "https://www.ithome.com.tw/news/177575",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Google一口氣發表3款Gemini模型，鎖定AI代理與漏洞修補",
-      "url": "https://www.ithome.com.tw/news/177518",
+      "title": "Adobe Acrobat瀏覽器延伸套件存在漏洞，3億安裝者的WhatsApp資料恐遭竊",
+      "url": "https://www.ithome.com.tw/news/177571",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Hide My Email漏洞現已修補，Apple宣稱修補兩周後仍一度可查出真實信箱",
-      "url": "https://www.ithome.com.tw/news/177508",
+      "title": "雅詩蘭黛終於證實Oracle EBS被駭，員工資料遭竊",
+      "url": "https://www.ithome.com.tw/news/177556",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
@@ -177,10 +177,64 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "黃隊崛起！AI資安攻防新增第三股力量",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13082",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+      "url": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+      "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
+      "url": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
@@ -209,66 +263,6 @@
     {
       "title": "The Fastest Path to AI Adoption Runs Through Security",
       "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
