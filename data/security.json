@@ -1,99 +1,117 @@
 {
-  "updated": "2026-07-24 06:00",
+  "updated": "2026-07-25 06:00",
   "category": "Security",
   "items": [
     {
-      "title": "【美國AMD全球發表會直擊】AMD發表最新AI加速器及第六代EPYC處理器，挾Helios機櫃搶攻AI工廠市場",
-      "url": "https://www.ithome.com.tw/news/177584",
+      "title": "Google緊急更新Chrome 150版，修補4個高風險漏洞",
+      "url": "https://www.ithome.com.tw/news/177624",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Google推出Gemini 3.5 Flash Cyber資安模型，專攻漏洞發現與修補",
-      "url": "https://www.ithome.com.tw/news/177583",
+      "title": "【資安週報】0720~0724，以供應鏈韌性與依賴關係為核心的治理模式，成為多國資安策略發展重點",
+      "url": "https://www.ithome.com.tw/news/177618",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "微軟將Xbox向下相容帶進Windows 11，首批4款支援PC與掌機",
-      "url": "https://www.ithome.com.tw/news/177582",
+      "title": "美國政府警告伊朗駭客升級對關鍵基礎設施的攻擊，已造成部分機構營運中斷與財務損失",
+      "url": "https://www.ithome.com.tw/news/177622",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Nichirei資安事故有新進展，冷鏈物流完全恢復預計要將近兩週，勒索軟體組織RansomHouse宣稱是其所為",
-      "url": "https://www.ithome.com.tw/news/177580",
+      "title": "【AI Coding實戰】Bun創辦人用AI重寫53萬行程式，11天就搞定",
+      "url": "https://www.ithome.com.tw/news/177619",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "剖析2026上半年漏洞攻擊趨勢，F5警示PHP與Exchange舊漏洞持續遭到鎖定",
-      "url": "https://www.ithome.com.tw/news/177581",
+      "title": "大規模攻擊活動建立7,600個惡意GitHub儲存庫，散布惡意軟體SmartLoader",
+      "url": "https://www.ithome.com.tw/news/177616",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】7月23日，Oracle修補超過一千個資安漏洞，數量創下新紀錄",
-      "url": "https://www.ithome.com.tw/news/177579",
+      "title": "郵件伺服器與協作平臺Zimbra發布更新，修補SNMP指令注入與XSS漏洞",
+      "url": "https://www.ithome.com.tw/news/177615",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "OpenAI推出Presence企業AI代理，自家電話客服75%案件無須真人處理",
-      "url": "https://www.ithome.com.tw/news/177578",
+      "title": "【資安日報】7月24日，俄羅斯駭客利用Zimbra漏洞從事網路間諜活動",
+      "url": "https://www.ithome.com.tw/news/177614",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "建立可信任的AI防線，CSA台灣分會會長採蔡一郎導讀AICM最新1.1版",
-      "url": "https://www.ithome.com.tw/news/177551",
+      "title": "GitHub搶先支援無狀態MCP，遠端服務擴充免再綁定工作階段",
+      "url": "https://www.ithome.com.tw/news/177612",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Amazon EKS升級增加退路，K8s控制平面7天內可回復前一版本",
-      "url": "https://www.ithome.com.tw/news/177573",
+      "title": "俄羅斯駭客攻擊Zimbra主機的活動遍及烏克蘭、北約、獨立國協、非洲",
+      "url": "https://www.ithome.com.tw/news/177613",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "瑞士施泰德鐵路遭Everest勒索軟體攻擊，嚴拒支付贖金",
-      "url": "https://www.ithome.com.tw/news/177577",
+      "title": "SolarWinds發布Serv-U 2026.3版，修補15個重大漏洞，並提供一系列安全性與操作功能強化",
+      "url": "https://www.ithome.com.tw/news/177611",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "F5揭露2026年6月十大熱門漏洞，多個舊漏洞仍名列最常遭掃描利用榜單",
-      "url": "https://www.ithome.com.tw/news/177576",
+      "title": "澳洲能源業者Origin Energy資料外洩，部分客戶個資遭存取及揭露",
+      "url": "https://www.ithome.com.tw/news/177610",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "拍付國際資安事故調查出爐，防火牆漏洞遭駭客利用成破口，已補強防禦並導入EDR強化監控",
-      "url": "https://www.ithome.com.tw/news/177544",
+      "title": "俄羅斯駭客於Zimbra伺服器植入惡意程式ZimReaper，意圖竊取電子郵件",
+      "url": "https://www.ithome.com.tw/news/177609",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "AMD與Anthropic簽署2GW AI晶片與50億美元投資協議",
-      "url": "https://www.ithome.com.tw/news/177575",
+      "title": "Next.js修補4項高風險漏洞，App Router恐遭阻斷服務及繞過安全檢查",
+      "url": "https://www.ithome.com.tw/news/177607",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Adobe Acrobat瀏覽器延伸套件存在漏洞，3億安裝者的WhatsApp資料恐遭竊",
-      "url": "https://www.ithome.com.tw/news/177571",
+      "title": "Claude桌面版漏洞讓惡意連結自動送出隱藏指令，恐竊取對話並植入程式碼",
+      "url": "https://www.ithome.com.tw/news/177608",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "雅詩蘭黛終於證實Oracle EBS被駭，員工資料遭竊",
-      "url": "https://www.ithome.com.tw/news/177556",
+      "title": "IBM收購量子運算研究公司HRL Laboratories開啟雙軌技術發展策略",
+      "url": "https://www.ithome.com.tw/news/177606",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "F5修補nginx重大漏洞CVE-2026-42533，CVSS達9.2恐致遠端程式碼執行",
+      "title": "AI 模型也會被綁架：JadePuffer 升級 ENCFORGE 勒索軟體，鎖定機器學習資產",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13105",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/22SonicWall SMA1000 零日漏洞遭 Inc 勒索軟體集團利用，自訂惡意軟體曝光CVE-2026-15409（CVSS 10.0）為 SMA1000 Work Place 網頁介面的伺服器端請求偽造（Server-Sid......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13104",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/227-Zip 修補 XZ 壓縮處理堆積緩衝區溢位漏洞 CVE-2026-14266，建議手動更新至 26.02 版由於 7-Zip 不具備自動更新功能，用戶需前往官方網站（7-zip.org）手動下載並安裝 26.02 版；長期未更新的......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13103",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/21F5修補nginx重大漏洞CVE-2026-42533，CVSS達9.2恐致遠端程式碼執行問題位於nginx腳本引擎（script engine），也就是依設定指令在請求時組合字串的程式碼，僅在特定設定下才會......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13102",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
@@ -147,20 +165,8 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "觀點 -2026/07/16AI 代理人時代的治理藍圖：跨越制度落差與構建經濟韌性的系統性行動史丹佛大學數位經濟實驗室發起的十六位諾貝爾獎得主與頂尖經濟學家和人工智慧研究人員聯名專家最新公開信，......",
+      "title": "AI 代理人時代的治理藍圖：跨越制度落差與構建經濟韌性的系統性行動",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13094",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/07/16報告：79% 勒索軟體攻擊源自遭竊的身分惡意電子郵件與網路釣魚攻擊已取代漏洞利用，成為勒索軟體攻擊的主要根本原因......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13093",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "新聞 -2026/07/16SonicWall SMA1000 兩項零日漏洞遭主動利用，美CISA 要求聯邦機構限期修補漏洞影響 SMA6210、SMA7210 與 SMA8200v 設備；受影響韌體版本包含 12.4.3-03245、12.4.3-03387......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13091",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -171,10 +177,64 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "傳統防火牆只看 IP，語意防火牆看「意圖」：林宜隆教授解析神經符號架構與 AI 治理三標準如何聯手對抗工業化攻擊",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13029",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
+      "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
+      "url": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+      "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+      "url": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
@@ -203,66 +263,6 @@
     {
       "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
       "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
-      "url": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-      "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
-      "url": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "url": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-      "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-      "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
-      "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "The Fastest Path to AI Adoption Runs Through Security",
-      "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

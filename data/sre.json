@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 06:01",
+  "updated": "2026-07-25 06:00",
   "category": "Sre",
   "items": [
     {
@@ -33,13 +33,37 @@
       "site": "sreweekly.com"
     },
     {
+      "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
+      "url": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender",
+      "url": "https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Article: The Self-Building Agent: A LangChain4j Experiment",
+      "url": "https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3",
+      "url": "https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
       "title": "Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data",
       "url": "https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Expedia Uses AI Driven Service Telemetry Analyzer to Accelerate Incident Investigation",
+      "title": "Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation",
       "url": "https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
@@ -87,7 +111,7 @@
       "site": "infoq.com"
     },
     {
-      "title": "Anthropic Details How It Contains Claude Across Web, Code, and Cowork",
+      "title": "Anthropic Details How it Contains Claude across Web, Code, and Cowork",
       "url": "https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
@@ -95,30 +119,6 @@
     {
       "title": "Presentation: From Copy-Paste to Composition: Building Agents Like Real Software",
       "url": "https://www.infoq.com/presentations/agent-software-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "AWS Billing Bug Shows Customers Trillion-Dollar Estimates While Its Own Cost Alarms Fail to Act",
-      "url": "https://www.infoq.com/news/2026/07/aws-billing-estimates-incident/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "GKE Security Blueprint Joins Growing List of Cloud AI Frameworks",
-      "url": "https://www.infoq.com/news/2026/07/google-gke-ai-security-blueprint/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Android Studio Quail 2 Redesigns Agent Mode, Streamlines AI-Assisted Coding",
-      "url": "https://www.infoq.com/news/2026/07/android-studio-quail-2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core",
-      "url": "https://www.infoq.com/news/2026/07/rspack-2-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
