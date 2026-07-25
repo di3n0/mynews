@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 06:00",
+  "updated": "2026-07-26 06:01",
   "category": "Security",
   "items": [
     {
@@ -171,10 +171,40 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "風險驅動治理：ISO 27005如何協助台灣A級機關與金融業資安合規",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13069",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
     },
     {
       "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
@@ -227,42 +257,6 @@
     {
       "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
       "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

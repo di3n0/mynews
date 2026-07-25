@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 06:00",
+  "updated": "2026-07-26 06:01",
   "category": "Sre",
   "items": [
     {
@@ -31,6 +31,18 @@
       "url": "https://sreweekly.com/sre-weekly-issue-522/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
+    },
+    {
+      "title": "AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering",
+      "url": "https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second",
+      "url": "https://www.infoq.com/news/2026/07/client-side-load-balancer/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
@@ -107,18 +119,6 @@
     {
       "title": "GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture",
       "url": "https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Anthropic Details How it Contains Claude across Web, Code, and Cowork",
-      "url": "https://www.infoq.com/news/2026/07/anthropic-claude-containment/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Presentation: From Copy-Paste to Composition: Building Agents Like Real Software",
-      "url": "https://www.infoq.com/presentations/agent-software-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }

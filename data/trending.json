@@ -1,35 +1,51 @@
 {
-  "updated": "2026-07-25 06:00",
+  "updated": "2026-07-26 06:01",
   "category": "Trending",
   "items": [
     {
       "title": "block/buzz",
       "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform\n(📈 3,274 today)",
+      "description": "A hive mind communication platform\n(📈 2,506 today)",
       "language": "Rust",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface\n(📈 2,194 today)",
-      "language": "TypeScript",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic co\n(📈 439 today)",
+      "language": "Go",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.\n(📈 986 today)",
+      "language": "JavaScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows\n(📈 662 today)",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows\n(📈 574 today)",
       "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.\n(📈 472 today)",
+      "title": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.\n(📈 144 today)",
+      "language": "Jupyter Notebook",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered\n(📈 503 today)",
       "language": "Rust",
       "source": "GitHub Trending",
       "site": "github.com/trending"
@@ -37,96 +53,96 @@
     {
       "title": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets\n(📈 506 today)",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets\n(📈 319 today)",
       "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered\n(📈 877 today)",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.\n(📈 507 today)",
+      "language": "Shell",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.\n(📈 357 today)",
       "language": "Rust",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "likec4/likec4",
-      "url": "https://github.com/likec4/likec4",
-      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code\n(📈 339 today)",
-      "language": "TypeScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.\n(📈 884 today)",
-      "language": "JavaScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager\n(📈 312 today)",
-      "language": "Go",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.\n(📈 1,021 today)",
-      "language": "Rust",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "CoreBunch/Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.\n(📈 250 today)",
-      "language": "TypeScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "chrislgarry/Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.\n(📈 409 today)",
-      "language": "Assembly",
+      "title": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes\n(📈 1,695 today)",
+      "language": "Swift",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.\n(📈 2,224 today)",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.\n(📈 1,743 today)",
       "language": "Shell",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI\n(📈 346 today)",
+      "language": "Swift",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.\n(📈 424 today)",
+      "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程\n(📈 654 today)",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程\n(📈 405 today)",
       "language": "Jupyter Notebook",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK\n(📈 1,843 today)",
-      "language": "TypeScript",
+      "title": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings\n(📈 89 today)",
+      "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "OtterMind/Chat2DB",
       "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.\n(📈 129 today)",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.\n(📈 364 today)",
       "language": "Java",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers\n(📈 75 today)",
+      "language": "Python",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\n(📈 364 today)",
+      "language": "JavaScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     }

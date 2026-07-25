@@ -1,244 +1,244 @@
 {
-  "updated": "2026-07-25 06:00",
+  "updated": "2026-07-26 06:01",
   "category": "Ai",
   "items": [
     {
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "title": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Postgres LISTEN&#x2F;NOTIFY actually scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "title": "Did They Ghost You?",
+      "url": "https://didtheyghostyou.com/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "title": "A 77-year-old Republican man is staging a solo protest against Flock cameras",
+      "url": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Fil-C: Garbage In, Memory Safety Out [video]",
-      "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "title": "Fly.io CEO Kurt Mackey is stepping down",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Marimo Now Runs in PyCharm",
-      "url": "https://marimo.io/blog/pycharm",
+      "title": "Android May Soon Restrict On-Device ADB",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Gsxui – Shadcn-style components for Go",
-      "url": "https://ui.gsxhq.dev/",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Designing an Ethernet Switch ASIC",
-      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "title": "Multicast TV Distribution on My Home Network",
+      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "What If We Made Advertising Illegal?",
-      "url": "https://simone.org/advertising/",
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Secret Origins of Amazon's Alexa",
-      "url": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
-      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "title": "Memory Safety Absolutists",
+      "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "If coding has been solved, why does software keep getting worse?",
-      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "title": "Bitchat is now on Radicle",
+      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Kimi K3 exploited the latest Redis server",
-      "url": "https://twitter.com/fried_rice/status/2080059356322918777",
+      "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
+      "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Unitree As2-W",
-      "url": "https://www.unitree.com/As2-W/",
+      "title": "How My Images Are Dithered",
+      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
-      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Firefox Containers Preview",
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+      "url": "https://github.com/sktkkoo/Yorishiro",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Don't Take the Black Pill [video]",
-      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "title": "Bringing PyTorch Monarch to AMD GPUs",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The footprints of every building in NYC",
-      "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+      "title": "The growing vigilante movement to knock out Flock surveillance cameras",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Extending Polars with Rust Expression Plugins",
-      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "url": "https://news.ycombinator.com/item?id=49051130",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "title": "The Dark Night of Mathematics",
+      "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I got into YC Startup School by hacking it",
-      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
+      "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Max Studio Tools (C++ DSP Modules for Max and Ableton Live)",
-      "url": "https://github.com/apresta/max-studio-tools",
+      "title": "Spatial languages: Writing code in 2D",
+      "url": "https://shukla.io/blog/2026-07/cccx.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "So Bright the Vision (1956) – a story about machines writing instead of humans [pdf]",
-      "url": "https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf",
+      "title": "Tile's security is so bad it's a feature for stalkers",
+      "url": "https://blog.adafruit.com/2026/03/05/tiles-security-is-so-bad-its-a-feature-for-stalkers/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Solar Open2 250B (NVFP4) on a 2× GB10 pair — FP8 KV cache A/B on a hybrid linear-attention MoE",
-      "url": "https://forums.developer.nvidia.com/t/solar-open2-250b-nvfp4-on-a-2x-gb10-pair-fp8-kv-cache-a-b-on-a-hybrid-linear-attention-moe/378106",
+      "title": "Won&#39;t boot after 1st update (20min into use)",
+      "url": "https://forums.developer.nvidia.com/t/wont-boot-after-1st-update-20min-into-use/378157",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Can DGX Spark simulate CUDA_VISIBLE_DEVICES=0,1,2,3 for torch, transformers, vLLM?",
-      "url": "https://forums.developer.nvidia.com/t/can-dgx-spark-simulate-cuda-visible-devices-0-1-2-3-for-torch-transformers-vllm/378102",
+      "title": "Request to enable \"Public API Endpoints\" permission - 403 Authorization failed on chat completions",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-403-authorization-failed-on-chat-completions/378156",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "GLM 5.2 with vision!",
-      "url": "https://forums.developer.nvidia.com/t/glm-5-2-with-vision/378101",
+      "title": "Request to enable “Public API Endpoints” permission for my personal organization (403 Error)",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization-403-error/378152",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "GLM-5.2 NIM API context limit error at 200k tokens",
-      "url": "https://forums.developer.nvidia.com/t/glm-5-2-nim-api-context-limit-error-at-200k-tokens/378100",
+      "title": "Price jetson orin nano",
+      "url": "https://forums.developer.nvidia.com/t/price-jetson-orin-nano/378151",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "New Asus GX10 Firmware Out Today",
-      "url": "https://forums.developer.nvidia.com/t/new-asus-gx10-firmware-out-today/378099",
+      "title": "GLM-5.2 on a 3× GB10 cluster: ~15,5 tok/s decode, 235K ctx FP8 TP=3",
+      "url": "https://forums.developer.nvidia.com/t/glm-5-2-on-a-3x-gb10-cluster-15-5-tok-s-decode-235k-ctx-fp8-tp-3/378150",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request for NVIDIA Build API Rate Limit Increase (40 → 200 RPM)",
-      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-build-api-rate-limit-increase-40-200-rpm/378098",
+      "title": "Request to enable \"Public API Endpoints\" permission for my personal organization",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization/378147",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "JetPack 5.1.7/L4T 35.6.5 is now live",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-5-1-7-l4t-35-6-5-is-now-live/378097",
+      "title": "Request to enable Public API Endpoints - kimi-k2.6 404",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-kimi-k2-6-404/378146",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "JetPack 5.1.7/L4T 35.6.5 is now live",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-5-1-7-l4t-35-6-5-is-now-live/378096",
+      "title": "Powering Nvidia for self autonomous vehicle",
+      "url": "https://forums.developer.nvidia.com/t/powering-nvidia-for-self-autonomous-vehicle/378143",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "JetPack 5.1.7/L4T 35.6.5 is now live",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-5-1-7-l4t-35-6-5-is-now-live/378095",
+      "title": "[610.43.02][RTX 5060 Laptop][Lenovo 83LY] Reproducible Xid 79 and GSP heartbeat timeout in nvidia-powerd GSP_RM_CONTROL (0x2080a613)",
+      "url": "https://forums.developer.nvidia.com/t/610-43-02-rtx-5060-laptop-lenovo-83ly-reproducible-xid-79-and-gsp-heartbeat-timeout-in-nvidia-powerd-gsp-rm-control-0x2080a613/378142",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "JetPack 5.1.7/L4T 35.6.5 is now live",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-5-1-7-l4t-35-6-5-is-now-live/378094",
+      "title": "14岁独立研究者的技术求助：为脉冲宇宙AGI架构寻找合适的硬件平台",
+      "url": "https://forums.developer.nvidia.com/t/14-agi/378141",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "JetPack 5.1.7/L4T 35.6.5 is now live",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-5-1-7-l4t-35-6-5-is-now-live/378093",
+      "title": "Manual Account Verification Request - Turkey (+90)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-turkey-90/378135",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "JetPack 5.1.7/L4T 35.6.5 is now live",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-5-1-7-l4t-35-6-5-is-now-live/378092",
+      "title": "Manual Account Verification Request – Region: India (+91)8083776678",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-india-91-8083776678/378134",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable \"Public API Endpoints\" for my account - kimi-k2.6 returns 404",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-account-kimi-k2-6-returns-404/378091",
+      "title": "Running NVIDIA GLM-5.2-NVFP4 on 8xB200 GPUs with vllm",
+      "url": "https://forums.developer.nvidia.com/t/running-nvidia-glm-5-2-nvfp4-on-8xb200-gpus-with-vllm/378133",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "OpenGL 4.6 Core Profile - Headless Compute Pipeline Execution Discard",
-      "url": "https://forums.developer.nvidia.com/t/opengl-4-6-core-profile-headless-compute-pipeline-execution-discard/378080",
+      "title": "Local model running real-world brewing agents",
+      "url": "https://forums.developer.nvidia.com/t/local-model-running-real-world-brewing-agents/378131",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Region: Bangladesh (+880)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-bangladesh-880/378077",
+      "title": "Asus GX10 first boot",
+      "url": "https://forums.developer.nvidia.com/t/asus-gx10-first-boot/378130",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -369,8 +369,20 @@
       "site": "huggingface.co"
     },
     {
+      "title": "The Boundaries of Automation: A Theory of Persistent Human Participation",
+      "url": "https://huggingface.co/papers/2607.21547",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages",
       "url": "https://huggingface.co/papers/2607.21540",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
+      "title": "Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation",
+      "url": "https://huggingface.co/papers/2607.21518",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
@@ -411,16 +423,10 @@
       "site": "huggingface.co"
     },
     {
-      "title": "PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2607.21419",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "MemTools: A Unified Research Framework for Interoperable Agent Memory",
-      "url": "https://huggingface.co/papers/2607.21404",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
+      "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
+      "url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
       "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
@@ -477,9 +483,15 @@
       "site": "marktechpost.com"
     },
     {
-      "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI",
-      "url": "https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/",
-      "source": "Marktechpost OpenSource",
+      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+      "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+      "source": "Marktechpost AI Agent",
+      "site": "marktechpost.com"
+    },
+    {
+      "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+      "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
@@ -527,18 +539,6 @@
     {
       "title": "Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Graph Planning, and Tool Routing for Video Editing Tasks",
       "url": "https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
-      "url": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agentic Tasks, and Knowledge Work at $2/M Input",
-      "url": "https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }
