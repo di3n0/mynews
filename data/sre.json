@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-26 06:01",
+  "updated": "2026-07-31 09:47",
   "category": "Sre",
   "items": [
+    {
+      "title": "SRE Weekly Issue #527",
+      "url": "https://sreweekly.com/sre-weekly-issue-527/",
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
+    },
     {
       "title": "SRE Weekly Issue #526",
       "url": "https://sreweekly.com/sre-weekly-issue-526/",
@@ -27,98 +33,92 @@
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #522",
-      "url": "https://sreweekly.com/sre-weekly-issue-522/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering",
-      "url": "https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Presentation: Parting the Clouds: The Rise of Disaggregated Systems",
+      "url": "https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "How Zalando Built an In-Process Client-Side Load Balancer for One Million Requests per Second",
-      "url": "https://www.infoq.com/news/2026/07/client-side-load-balancer/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action",
+      "url": "https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Presentation: Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
-      "url": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
+      "url": "https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender",
-      "url": "https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS",
+      "url": "https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Article: The Self-Building Agent: A LangChain4j Experiment",
-      "url": "https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Cloudflare Makes Internal DNS Generally Available",
+      "url": "https://www.infoq.com/news/2026/07/cloudflare-internal-dns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3",
-      "url": "https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Presentation: Getting Rid of LeetCode Interviews in the World of AI",
+      "url": "https://www.infoq.com/presentations/ai-lead-interview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data",
-      "url": "https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway",
+      "url": "https://www.infoq.com/articles/securing-mcp-production-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Expedia Uses AI-Driven Service Telemetry Analyzer to Accelerate Incident Investigation",
-      "url": "https://www.infoq.com/news/2026/07/expedia-ai-observability-star/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": ".NET 11 Preview 6 Modernises MAUI CollectionView and Android Shell",
+      "url": "https://www.infoq.com/news/2026/07/net-maui-11-preview-6/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Achieving Compliance as a Platform Engineering Team by Helping Developers",
-      "url": "https://www.infoq.com/news/2026/07/platform-that-helps-developers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "GitHub Introduces Default \"Cooldown\" Policy for Dependabot Version Updates",
+      "url": "https://www.infoq.com/news/2026/07/github-dependabot-cooldown/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Presentation: Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does)",
-      "url": "https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Grafana Assistant Expands to More Than 30 Data Sources",
+      "url": "https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "QCon AI New York 2026: Registration Opens for December 15-16 Production-AI Conference",
-      "url": "https://www.infoq.com/news/2026/07/qcon-ai-newyork-2026-live/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Presentation: The Future of Engineering: Mindsets That Matter When Code Isn’t Enough",
+      "url": "https://www.infoq.com/presentations/ai-future-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Ink & Switch Introduces Bijou64: Canonical Variable-Length Integer Encoding for Safe Parsing",
-      "url": "https://www.infoq.com/news/2026/07/bijou64-canonical-varint/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework",
+      "url": "https://www.infoq.com/news/2026/07/remix-3-beta-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Article: Multi-Agent AI for Production Security Operations: An A2A and MCP Architecture in a 5G Core",
-      "url": "https://www.infoq.com/articles/multi-agent-security-operations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices",
+      "url": "https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration",
-      "url": "https://www.infoq.com/news/2026/07/meta-react-compiler-rust/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage",
+      "url": "https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture",
-      "url": "https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Uber’s Zero Growth Stack: Scaling Services, While Optimising Infrastructure and AI Cost",
+      "url": "https://www.infoq.com/news/2026/07/efficient-ai-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
