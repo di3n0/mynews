@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-31 09:47",
+  "updated": "2026-08-04 00:26",
   "category": "Sre",
   "items": [
+    {
+      "title": "SRE Weekly Issue #528",
+      "url": "https://sreweekly.com/sre-weekly-issue-528/",
+      "source": "SRE Weekly",
+      "site": "sreweekly.com"
+    },
     {
       "title": "SRE Weekly Issue #527",
       "url": "https://sreweekly.com/sre-weekly-issue-527/",
@@ -27,98 +33,92 @@
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #523",
-      "url": "https://sreweekly.com/sre-weekly-issue-523/",
-      "source": "SRE Weekly",
-      "site": "sreweekly.com"
-    },
-    {
-      "title": "Presentation: Parting the Clouds: The Rise of Disaggregated Systems",
-      "url": "https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven",
+      "url": "https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "AI-Assisted Software Development: Team Profiles and Capabilities for Putting Research into Action",
-      "url": "https://www.infoq.com/news/2026/07/AI-research-into-action/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "HubSpot Redesigns JITA Authorization with Rule Engine Architecture",
+      "url": "https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "AWS Lambda's Self-Managed Code Storage Lifts the Account Quota, Not the Function Size Limit",
-      "url": "https://www.infoq.com/news/2026/07/lambda-self-managed-storage/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality",
+      "url": "https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Microsoft Three-Layer LLM Routing Architecture for AI Agents on AKS",
-      "url": "https://www.infoq.com/news/2026/07/microsoft-agents-aks-routing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive",
+      "url": "https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Cloudflare Makes Internal DNS Generally Available",
-      "url": "https://www.infoq.com/news/2026/07/cloudflare-internal-dns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability",
+      "url": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Presentation: Getting Rid of LeetCode Interviews in the World of AI",
-      "url": "https://www.infoq.com/presentations/ai-lead-interview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "HashiCorp Ships Public Beta of Vault Kubernetes Key Management",
+      "url": "https://www.infoq.com/news/2026/08/vault-kubernetes-key-management/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Article: Securing MCP in Production: Defense-in-Depth Beyond the Gateway",
-      "url": "https://www.infoq.com/articles/securing-mcp-production-gateway/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer",
+      "url": "https://www.infoq.com/presentations/agentic-compute/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": ".NET 11 Preview 6 Modernises MAUI CollectionView and Android Shell",
-      "url": "https://www.infoq.com/news/2026/07/net-maui-11-preview-6/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds",
+      "url": "https://www.infoq.com/news/2026/08/typescript-7-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "GitHub Introduces Default \"Cooldown\" Policy for Dependabot Version Updates",
-      "url": "https://www.infoq.com/news/2026/07/github-dependabot-cooldown/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Embabel Agent Framework Reaches 1.0",
+      "url": "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Grafana Assistant Expands to More Than 30 Data Sources",
-      "url": "https://www.infoq.com/news/2026/07/grafana-assistant-data-source/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination",
+      "url": "https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Presentation: The Future of Engineering: Mindsets That Matter When Code Isn’t Enough",
-      "url": "https://www.infoq.com/presentations/ai-future-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "AWS Introduces Free Sandbox Environments for Workshops",
+      "url": "https://www.infoq.com/news/2026/08/aws-builder-sandbox/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Remix 3 Beta Preview Ditches React for a Web-Standards Full-Stack Framework",
-      "url": "https://www.infoq.com/news/2026/07/remix-3-beta-preview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework",
+      "url": "https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices",
-      "url": "https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review",
+      "url": "https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "AWS Launches Amazon GuardDuty Investigation Agent to Automate Threat Triage",
-      "url": "https://www.infoq.com/news/2026/07/guardduty-investigation-agent/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Presentation: The Free-Lunch Guide to Idea Circularity",
+      "url": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Uber’s Zero Growth Stack: Scaling Services, While Optimising Infrastructure and AI Cost",
-      "url": "https://www.infoq.com/news/2026/07/efficient-ai-infrastructure/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Article: Virtual Threads After JDK 24: What Changed for Production Java",
+      "url": "https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }

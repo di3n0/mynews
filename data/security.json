@@ -1,99 +1,105 @@
 {
-  "updated": "2026-07-31 09:46",
+  "updated": "2026-08-04 00:26",
   "category": "Security",
   "items": [
     {
-      "title": "工作流程自動化平臺n8n表達式沙箱再遭繞過，工作流程編輯者可執行主機命令",
-      "url": "https://www.ithome.com.tw/news/177769",
+      "title": "英國數位銀行Revolut疑7,500萬筆客戶資料被兜售於暗網",
+      "url": "https://www.ithome.com.tw/news/177836",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "開源基金會3年3億推臺灣AI工程，建立千人在地技術社群，強化台灣主權AI能力",
-      "url": "https://www.ithome.com.tw/news/177768",
+      "title": "NetApp發布ONTAP 9.19.1版，擴展同步複製模式下的AI勒索防護與資料保護能力",
+      "url": "https://www.ithome.com.tw/news/177835",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Linux網路流量排程子系統存在高風險漏洞，可導致本機使用者提升至Root權限",
-      "url": "https://www.ithome.com.tw/news/177767",
+      "title": "Cursor移除個人與Teams方案逐筆成本資訊，引發透明度爭議",
+      "url": "https://www.ithome.com.tw/news/177833",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Walmart如何用數據打造永續零售：AI預測食品浪費，還靠平臺讓供應鏈減碳",
-      "url": "https://www.ithome.com.tw/news/177760",
+      "title": "中國駭客鎖定7種應用系統，利用已知漏洞從事手動及AI自主攻擊",
+      "url": "https://www.ithome.com.tw/news/177832",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "北韓駭客疑先從冷門NPM套件試水溫，再攻向axios等熱門函式庫",
-      "url": "https://www.ithome.com.tw/news/177762",
+      "title": "【資安日報】8月3日，Microsoft確認旅館Wi-Fi攻擊源自俄羅斯駭客，鎖定企業旅客竊取Microsoft 365憑證",
+      "url": "https://www.ithome.com.tw/news/177829",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "北韓駭客BlueNoroff利用會議網釣套件從事ClickFix攻擊，散布惡意軟體、竊取加密錢包資產",
-      "url": "https://www.ithome.com.tw/news/177761",
+      "title": "JetBrains開源KotlinLLM，執行中程式可按需呼叫LLM補寫邏輯",
+      "url": "https://www.ithome.com.tw/news/177826",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "ChatGPT首度成前十大網釣冒充品牌",
-      "url": "https://www.ithome.com.tw/news/177759",
+      "title": "美國家庭保全業者Brinks Home證實遭駭，ShinyHunters宣稱竊得近500萬筆Salesforce紀錄",
+      "url": "https://www.ithome.com.tw/news/177828",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Perplexity開源Numbat，在端點監控AI代理行為並攔阻高風險操作",
-      "url": "https://www.ithome.com.tw/news/177757",
+      "title": "大型製藥廠安進發生雲端資料外洩事件，病人健康資訊與公司專利資料恐遭曝露",
+      "url": "https://www.ithome.com.tw/news/177827",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "DoorDash取得FAA認證，成立無人機外送部門",
-      "url": "https://www.ithome.com.tw/news/177758",
+      "title": "中國駭客利用DeepSeek與Hermes從事AI自主攻擊，鎖定存在已知弱點的應用程式伺服器",
+      "url": "https://www.ithome.com.tw/news/177825",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "供應鏈攻擊SleeperGem鎖定RubyGems用戶，入侵多年未活動的維護者帳號而得逞",
-      "url": "https://www.ithome.com.tw/news/177756",
+      "title": "Infoblox計畫併購Kentik，整合DNS與網路可觀測性",
+      "url": "https://www.ithome.com.tw/news/177824",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】7月30日，Hugging Face事故新進展，OpenAI模型不僅利用零時差漏洞突破測試環境，同時還入侵另一雲端平臺用戶",
-      "url": "https://www.ithome.com.tw/news/177755",
+      "title": "Cloudflare將MoQ中繼網路推向應用部署，支援隔離與權限控管",
+      "url": "https://www.ithome.com.tw/news/177821",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "美國能源部攜手Brookfield、NextEra，打造1000億美元AI資料中心園區",
-      "url": "https://www.ithome.com.tw/news/177754",
+      "title": "NPM限制可免除2FA的權杖管理權限，2027年1月再取消直接發布能力",
+      "url": "https://www.ithome.com.tw/news/177814",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Microsoft 365用戶自動續訂較高價Copilot方案，英國啟動消費者調查",
-      "url": "https://www.ithome.com.tw/news/177753",
+      "title": "AI推動全球雲端市場成長43%，創8年最快增速",
+      "url": "https://www.ithome.com.tw/news/177820",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "駭客對SonicWall防火牆發動憑證填充攻擊，2天內逾30家企業組織受害",
-      "url": "https://www.ithome.com.tw/news/177752",
+      "title": "美國牙科福利管理商DentaQuest遭駭，逾2,300萬人個資與健康資料恐外洩",
+      "url": "https://www.ithome.com.tw/news/177819",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "資安業者盤點全球暴露於IPMI漏洞風險的伺服器，臺灣也有319臺入列",
-      "url": "https://www.ithome.com.tw/news/177751",
+      "title": "OpenAI新模型Astra取得10項數學突破，橫跨密碼學與量子複雜度",
+      "url": "https://www.ithome.com.tw/news/177818",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "JFrog證實：OpenAI模型利用Artifactory零時差漏洞逃逸測試環境，八項CVE曝光",
+      "title": "n8n 修補高嚴重性沙盒逃逸漏洞，可讓工作流程編輯者以伺服器程序權限執行系統指令",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13126",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "新聞 -2026/07/29JFrog證實：OpenAI模型利用Artifactory零時差漏洞逃逸測試環境，八項CVE曝光7月27日發布的Artifactory 7.161.15 Self-Managed版本更新說明列出重大資安公告，指出多項漏洞若串連使用，......",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13124",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
@@ -159,14 +165,8 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/27Intel 與 Fortinet 攜手推動資安創新 強化全球供應鏈韌性未來，雙方也將持續探索更多合作機會，進一步深化在半導體技術、製造，以及下一代資安創新的基礎架構的合作......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13119",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "IBM 與 Red Hat 拓展 Lightwell 服務方案，為 AI 時代的開源技術建構可信任基礎架構",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13095",
+      "title": "美國採取網路攻擊戰 阻止伊朗發展核武",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=6830",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
@@ -177,110 +177,98 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "WP2Shell漏洞鏈遭大規模利用，數百萬WordPress網站曝遠端接管風險",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13101",
+      "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "F5與NVIDIA攜手推出新功能加速 AI 推論，共同提升AI 工廠的經濟效益",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13024",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "Claroty 推出 CPS 原生 AI 安全代理 Claroty Claire",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13004",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-      "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
-      "url": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "The Network Has Become the Control Plane for AI Security",
-      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-      "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
-      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }
