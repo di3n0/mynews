@@ -1,10 +1,16 @@
 {
-  "updated": "2026-08-04 00:26",
+  "updated": "2026-08-04 06:00",
   "category": "Ai",
   "items": [
     {
-      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -15,8 +21,20 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-      "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+      "title": "200 Milliseconds",
+      "url": "https://200ms.thenodebook.com",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -27,26 +45,50 @@
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Hollywood Stopped Making Movies in Hollywood",
-      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
+      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Don't be a meat proxy",
-      "url": "https://gruhn.me/blog/2026-08-03/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "title": "Replacing the Kobo Libra H2O Battery",
+      "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "How Hollywood stopped making movies in Hollywood",
+      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Massively Parallel Postgres Backups",
+      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "url": "https://hoplite.sh",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+      "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "Kelly Criterion Simulator",
+      "url": "https://kellysimulator.com/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
@@ -57,188 +99,146 @@
       "site": "news.ycombinator.com"
     },
     {
+      "title": "ZX Spectrum System Tour: Sound",
+      "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "DDoS against Norwegian government IT infrastructure – status",
+      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+      "url": "https://blog.cloudflare.com/billable-usage-api/",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
+      "title": "SearXNG in Rust",
+      "url": "https://github.com/MikeLuu99/searxng-rust",
+      "source": "Hacker News",
+      "site": "news.ycombinator.com"
+    },
+    {
       "title": "Bonsai: Janestreet's UI Library",
       "url": "https://github.com/janestreet/bonsai",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
-      "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+      "title": "Use Task Runners for Common Coding Tasks",
+      "url": "https://hamvocke.com/blog/task-runners/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
-      "url": "https://dmarcguard.io/blog/spf-record-syntax/",
+      "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
+      "url": "https://github.com/SwagSoftware/KisakCOD",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "title": "Don't be a meat proxy",
+      "url": "https://gruhn.me/blog/2026-08-03/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-      "url": "https://github.com/garagehq/nightcrawler/",
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "url": "https://armature.tech/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Games at the press of a button: The Rip-O-Bot (1989)",
-      "url": "https://blog.gingerbeardman.com/2026/08/02/games-at-the-press-of-a-button-the-rip-o-bot/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Utah produced more power from solar than any other source in May, a new first",
-      "url": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "What DMARC Protects You From, and What It Does Not",
-      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Kraid is a now a real compiler",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Walk on Decomposed Subdomains",
-      "url": "https://clementjambon.github.io/wods/index.html#blogpost",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Finding zombies in our systems: A real-world story of CPU bottlenecks",
-      "url": "https://medium.com/pinterest-engineering/finding-zombies-in-our-systems-a-real-world-story-of-cpu-bottlenecks-ea4722e552eb",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Train Simulator Controller",
-      "url": "https://z80.me/blog/tsc-2026-july/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Octane – React's programming model, compiled",
-      "url": "https://octanejs.dev",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
-      "url": "https://lapcatsoftware.com/articles/2026/8/2.html",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "url": "https://sf.isopolis.city/",
-      "source": "Hacker News",
-      "site": "news.ycombinator.com"
-    },
-    {
-      "title": "CAN interface setup on Drive AGX Thor vehicle unit",
-      "url": "https://forums.developer.nvidia.com/t/can-interface-setup-on-drive-agx-thor-vehicle-unit/379038",
+      "title": "Quadro RTX 6000 (Turing) — DPR on WDDM: programmatic page retirement for known stuck-at-0 VRAM defect?",
+      "url": "https://forums.developer.nvidia.com/t/quadro-rtx-6000-turing-dpr-on-wddm-programmatic-page-retirement-for-known-stuck-at-0-vram-defect/379071",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "31 conversational LLMs benchmarked on one DGX Spark along with TTS and STT",
-      "url": "https://forums.developer.nvidia.com/t/31-conversational-llms-benchmarked-on-one-dgx-spark-along-with-tts-and-stt/379037",
+      "title": "HSB Cameras Multicast",
+      "url": "https://forums.developer.nvidia.com/t/hsb-cameras-multicast/379070",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Jetson Thor Board Automation - libnvtopo.so for arm64",
-      "url": "https://forums.developer.nvidia.com/t/jetson-thor-board-automation-libnvtopo-so-for-arm64/379036",
+      "title": "Isaac-sim-6.0.1 - build failure on dgx spark - kit file: isaacsim.exp.extscache-0.0.0 failed to resolve dependencies",
+      "url": "https://forums.developer.nvidia.com/t/isaac-sim-6-0-1-build-failure-on-dgx-spark-kit-file-isaacsim-exp-extscache-0-0-0-failed-to-resolve-dependencies/379069",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NVIDIA Vera Storage Benchmarks: Faster Encryption, Compression, Integrity Checking, and Recovery for AI-Native Storage",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-vera-storage-benchmarks-faster-encryption-compression-integrity-checking-and-recovery-for-ai-native-storage/379033",
+      "title": "Request for NVIDIA Build API Rate Limit Increase (40 → 200 RPM) — Personal Development",
+      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-build-api-rate-limit-increase-40-200-rpm-personal-development/379068",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "DeepSeek-Coder-V2-Lite 16B on RTX 2050 laptop — seeking inference feedback",
-      "url": "https://forums.developer.nvidia.com/t/deepseek-coder-v2-lite-16b-on-rtx-2050-laptop-seeking-inference-feedback/379030",
+      "title": "Manual Account Verification Request - Daniel",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-daniel/379066",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Upgrading jetpack6.2 to jetpack7.2, flashing error on the same config",
-      "url": "https://forums.developer.nvidia.com/t/upgrading-jetpack6-2-to-jetpack7-2-flashing-error-on-the-same-config/379029",
+      "title": "Subject: Please continue maintaining the 470.xx Legacy Linux driver for Kepler mobile GPUs",
+      "url": "https://forums.developer.nvidia.com/t/subject-please-continue-maintaining-the-470-xx-legacy-linux-driver-for-kepler-mobile-gpus/379062",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Pi Camera Module 2 (IMX219)and Pi Camera Module 3 (IMX708) are not detected on NVIDIA Jetson Orin Nano Super Developer Kit running JetPack 7.2 (R39.2)",
-      "url": "https://forums.developer.nvidia.com/t/pi-camera-module-2-imx219-and-pi-camera-module-3-imx708-are-not-detected-on-nvidia-jetson-orin-nano-super-developer-kit-running-jetpack-7-2-r39-2/379028",
+      "title": "One-Forward-Pass Readout Engine for TensorRT-LLM—and Somehow It Works",
+      "url": "https://forums.developer.nvidia.com/t/one-forward-pass-readout-engine-for-tensorrt-llm-and-somehow-it-works/379060",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable \"Public API Endpoints\" for my personal account",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-personal-account/379027",
+      "title": "Jetson Orin NX boots slower after setting mb1/mb2 log_level=<0>",
+      "url": "https://forums.developer.nvidia.com/t/jetson-orin-nx-boots-slower-after-setting-mb1-mb2-log-level-0/379059",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Nvc++ ICE on github runners (Zen 4 without AVX512 capability) when lowering vector ldexp",
-      "url": "https://forums.developer.nvidia.com/t/nvc-ice-on-github-runners-zen-4-without-avx512-capability-when-lowering-vector-ldexp/379026",
+      "title": "Manual Account Verification Request – Region: Russia (+7)",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-russia-7/379058",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Bright AI runs DeepSeek-Coder-V2-Lite 16B locally on an RTX 2050 laptop",
-      "url": "https://forums.developer.nvidia.com/t/bright-ai-runs-deepseek-coder-v2-lite-16b-locally-on-an-rtx-2050-laptop/379021",
-      "source": "Nvidia",
-      "site": "forums.developer.nvidia.com"
-    },
-    {
-      "title": "JetPack 7.2 mandates a NITO config file - how do we obtain a default NITO / ISP tuning for a custom camera?",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-7-2-mandates-a-nito-config-file-how-do-we-obtain-a-default-nito-isp-tuning-for-a-custom-camera/379020",
+      "title": "Manual account verification",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification/379056",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
       "title": "Запрос на ручную верификацию аккаунта",
-      "url": "https://forums.developer.nvidia.com/t/topic/379005",
+      "url": "https://forums.developer.nvidia.com/t/topic/379050",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Shared NIM inference layer across a multi-module \"super app\" — GPU scheduling approach?",
-      "url": "https://forums.developer.nvidia.com/t/shared-nim-inference-layer-across-a-multi-module-super-app-gpu-scheduling-approach/379004",
+      "title": "Found the solution to odmfuseread.sh failure",
+      "url": "https://forums.developer.nvidia.com/t/found-the-solution-to-odmfuseread-sh-failure/379048",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "DGX is working slowly after update on 31 of july",
-      "url": "https://forums.developer.nvidia.com/t/dgx-is-working-slowly-after-update-on-31-of-july/379003",
+      "title": "[ovrtx 0.4.0] Absolute-candela IES (LM-63) photometry — is PhysicalIlluminantAPI supported?",
+      "url": "https://forums.developer.nvidia.com/t/ovrtx-0-4-0-absolute-candela-ies-lm-63-photometry-is-physicalilluminantapi-supported/379047",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "API限制速率从40提高到200",
-      "url": "https://forums.developer.nvidia.com/t/api-40-200/379002",
+      "title": "Need help, system recovery of DGX OS after Ubuntu 26.04 LTS upgrade corrupted Spark",
+      "url": "https://forums.developer.nvidia.com/t/need-help-system-recovery-of-dgx-os-after-ubuntu-26-04-lts-upgrade-corrupted-spark/379046",
+      "source": "Nvidia",
+      "site": "forums.developer.nvidia.com"
+    },
+    {
+      "title": "[ovrtx 0.4.0] Physical irradiance output (AOV) for lighting calculations — supported or planned?",
+      "url": "https://forums.developer.nvidia.com/t/ovrtx-0-4-0-physical-irradiance-output-aov-for-lighting-calculations-supported-or-planned/379045",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
@@ -285,6 +285,12 @@
       "site": "huggingface.co"
     },
     {
+      "title": "Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents",
+      "url": "https://huggingface.co/papers/2607.29254",
+      "source": "Hugging Face",
+      "site": "huggingface.co"
+    },
+    {
       "title": "Data Turnstile: A Scalable Open Framework for Function-Calling Data Generation",
       "url": "https://huggingface.co/papers/2607.29250",
       "source": "Hugging Face",
@@ -323,12 +329,6 @@
     {
       "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
       "url": "https://huggingface.co/papers/2607.28996",
-      "source": "Hugging Face",
-      "site": "huggingface.co"
-    },
-    {
-      "title": "A Formalism-Aware Reward Loop for Handwritten UML-to-PlantUML Generation",
-      "url": "https://huggingface.co/papers/2607.28987",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },

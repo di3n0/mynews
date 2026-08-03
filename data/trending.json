@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 00:26",
+  "updated": "2026-08-04 06:00",
   "category": "Trending",
   "items": [
     {
@@ -61,7 +61,7 @@
     {
       "title": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.\n(📈 138 today)",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.\n(📈 323 today)",
       "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"

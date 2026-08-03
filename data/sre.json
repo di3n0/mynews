@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 00:26",
+  "updated": "2026-08-04 06:00",
   "category": "Sre",
   "items": [
     {
@@ -31,6 +31,12 @@
       "url": "https://sreweekly.com/sre-weekly-issue-524/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
+    },
+    {
+      "title": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
+      "url": "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven",
@@ -105,7 +111,7 @@
       "site": "infoq.com"
     },
     {
-      "title": "Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review",
+      "title": "Dropbox Integrates MCP and Dash to Close the Gap between Security Design and Code Review",
       "url": "https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
@@ -113,12 +119,6 @@
     {
       "title": "Presentation: The Free-Lunch Guide to Idea Circularity",
       "url": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Article: Virtual Threads After JDK 24: What Changed for Production Java",
-      "url": "https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
