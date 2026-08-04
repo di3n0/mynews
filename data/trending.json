@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-04 06:00",
+  "updated": "2026-08-05 06:00",
   "category": "Trending",
   "items": [
     {
-      "title": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU\n(📈 1,081 today)",
-      "language": "Jupyter Notebook",
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.\n(📈 1,138 today)",
+      "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向\n(📈 2,442 today)",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向\n(📈 2,310 today)",
       "language": "PowerShell",
       "source": "GitHub Trending",
       "site": "github.com/trending"
@@ -21,111 +21,127 @@
     {
       "title": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.\n(📈 1,769 today)",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.\n(📈 2,524 today)",
       "language": "Rust",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.\n(📈 877 today)",
-      "language": "Go",
+      "title": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.\n(📈 140 today)",
+      "language": "Python",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.\n(📈 1,091 today)",
-      "language": "TypeScript",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!\n(📈 1,902 today)",
-      "language": "Jupyter Notebook",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.\n(📈 777 today)",
+      "language": "Shell",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI\n(📈 776 today)",
+      "description": "21 Lessons, Get Started Building with Generative AI\n(📈 784 today)",
       "language": "Jupyter Notebook",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "donnemartin/system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.\n(📈 323 today)",
-      "language": "Python",
+      "title": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.\n(📈 6 today)",
+      "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm\n(📈 385 today)",
-      "language": "C",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU\n(📈 1,716 today)",
+      "language": "Jupyter Notebook",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets\n(📈 217 today)",
-      "language": "Python",
+      "title": "webpack/webpack",
+      "url": "https://github.com/webpack/webpack",
+      "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, L\n(📈 8 today)",
+      "language": "JavaScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.\n(📈 1,052 today)",
-      "language": "Python",
+      "title": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.\n(📈 9 today)",
+      "language": "C++",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)\n(📈 291 today)",
-      "language": "Python",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "iv-org/invidious",
-      "url": "https://github.com/iv-org/invidious",
-      "description": "Invidious is an alternative front-end to YouTube\n(📈 403 today)",
-      "language": "Crystal",
-      "source": "GitHub Trending",
-      "site": "github.com/trending"
-    },
-    {
-      "title": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "description": "A framework for building realtime voice AI agents 🤖🎙️📹\n(📈 129 today)",
-      "language": "Python",
+      "title": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "description": "A modern runtime for JavaScript and TypeScript.\n(📈 27 today)",
+      "language": "Rust",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
       "title": "usekaneo/kaneo",
       "url": "https://github.com/usekaneo/kaneo",
-      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.\n(📈 663 today)",
+      "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.\n(📈 565 today)",
       "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"
     },
     {
-      "title": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.\n(📈 443 today)",
+      "title": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "description": "A framework for building realtime voice AI agents 🤖🎙️📹\n(📈 432 today)",
+      "language": "Python",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "description": "Deliver web apps with confidence 🚀\n(📈 8 today)",
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.\n(📈 30 today)",
+      "language": "TypeScript",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents\n(📈 306 today)",
+      "language": "Python",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.\n(📈 924 today)",
+      "language": "Go",
+      "source": "GitHub Trending",
+      "site": "github.com/trending"
+    },
+    {
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more\n(📈 33 today)",
       "language": "TypeScript",
       "source": "GitHub Trending",
       "site": "github.com/trending"

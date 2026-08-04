@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 06:00",
+  "updated": "2026-08-05 06:00",
   "category": "Sre",
   "items": [
     {
@@ -31,6 +31,36 @@
       "url": "https://sreweekly.com/sre-weekly-issue-524/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
+    },
+    {
+      "title": "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
+      "url": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
+      "url": "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns",
+      "url": "https://www.infoq.com/presentations/microservices-platform-team-topology/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem",
+      "url": "https://www.infoq.com/news/2026/08/eslint-rspack-plugin-5/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
+      "url": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
     },
     {
       "title": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
@@ -89,36 +119,6 @@
     {
       "title": "Embabel Agent Framework Reaches 1.0",
       "url": "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination",
-      "url": "https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "AWS Introduces Free Sandbox Environments for Workshops",
-      "url": "https://www.infoq.com/news/2026/08/aws-builder-sandbox/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework",
-      "url": "https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Dropbox Integrates MCP and Dash to Close the Gap between Security Design and Code Review",
-      "url": "https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Presentation: The Free-Lunch Guide to Idea Circularity",
-      "url": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }

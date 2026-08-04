@@ -1,336 +1,360 @@
 {
-  "updated": "2026-08-04 06:00",
+  "updated": "2026-08-05 06:00",
   "category": "Ai",
   "items": [
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "200 Milliseconds",
-      "url": "https://200ms.thenodebook.com",
+      "title": "Waymo – Dallas Open to All",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Dunning-Kruger effect may just be a data artefact (2020)",
-      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "title": "Why some people mow a lawn better than others",
+      "url": "https://pudding.cool/2026/06/mow/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Replacing the Kobo Libra H2O Battery",
-      "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+      "title": "Hop.earth – OpenStreetMap based car racing game",
+      "url": "https://hop.earth/?server=lkhr7&amp;route=fQ5nuu9R",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "How Hollywood stopped making movies in Hollywood",
-      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Massively Parallel Postgres Backups",
-      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+      "title": "New cars are getting 1.2cm longer and 0.5cm taller each year",
+      "url": "https://www.transportenvironment.org/articles/ever-bigger-car-size-at-a-crossroads",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-      "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Kelly Criterion Simulator",
-      "url": "https://kellysimulator.com/",
+      "title": "The Warp Agent CLI",
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
+      "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "ZX Spectrum System Tour: Sound",
-      "url": "https://bumbershootsoft.wordpress.com/2026/08/01/zx-spectrum-system-tour-sound/",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "DDoS against Norwegian government IT infrastructure – status",
-      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
-      "url": "https://blog.cloudflare.com/billable-usage-api/",
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "SearXNG in Rust",
-      "url": "https://github.com/MikeLuu99/searxng-rust",
+      "title": "Blackmail Fail (2013)",
+      "url": "https://gwern.net/blackmail",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
+      "title": "Most tech revolutions made work worse for employees",
+      "url": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Use Task Runners for Common Coding Tasks",
-      "url": "https://hamvocke.com/blog/task-runners/",
+      "title": "Vlt 1.0 and Hosted Package Registries",
+      "url": "https://www.vlt.io/blog/1-0",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer",
-      "url": "https://github.com/SwagSoftware/KisakCOD",
+      "title": "Harness engineering for self-improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Don't be a meat proxy",
-      "url": "https://gruhn.me/blog/2026-08-03/",
+      "title": "The Red Strings Club",
+      "url": "https://www.vegard.net/the-red-strings-club-review/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-      "url": "https://armature.tech/",
+      "title": "Web Security is Too Hard",
+      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Quadro RTX 6000 (Turing) — DPR on WDDM: programmatic page retirement for known stuck-at-0 VRAM defect?",
-      "url": "https://forums.developer.nvidia.com/t/quadro-rtx-6000-turing-dpr-on-wddm-programmatic-page-retirement-for-known-stuck-at-0-vram-defect/379071",
+      "title": "Latest Eugr vLLM deepseek v4 0731 hangs when loading",
+      "url": "https://forums.developer.nvidia.com/t/latest-eugr-vllm-deepseek-v4-0731-hangs-when-loading/379184",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "HSB Cameras Multicast",
-      "url": "https://forums.developer.nvidia.com/t/hsb-cameras-multicast/379070",
+      "title": "RTX 5090 FE - Xid 143, FSP boot never completes, GPU never initializes",
+      "url": "https://forums.developer.nvidia.com/t/rtx-5090-fe-xid-143-fsp-boot-never-completes-gpu-never-initializes/379183",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Isaac-sim-6.0.1 - build failure on dgx spark - kit file: isaacsim.exp.extscache-0.0.0 failed to resolve dependencies",
-      "url": "https://forums.developer.nvidia.com/t/isaac-sim-6-0-1-build-failure-on-dgx-spark-kit-file-isaacsim-exp-extscache-0-0-0-failed-to-resolve-dependencies/379069",
+      "title": "Manual Phone Verification Request - Missing Country Code (+880 Bangladesh)",
+      "url": "https://forums.developer.nvidia.com/t/manual-phone-verification-request-missing-country-code-880-bangladesh/379182",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request for NVIDIA Build API Rate Limit Increase (40 → 200 RPM) — Personal Development",
-      "url": "https://forums.developer.nvidia.com/t/request-for-nvidia-build-api-rate-limit-increase-40-200-rpm-personal-development/379068",
+      "title": "Manual phone verification request — +7 (Kazakhstan) number not accepted for NIM API access",
+      "url": "https://forums.developer.nvidia.com/t/manual-phone-verification-request-7-kazakhstan-number-not-accepted-for-nim-api-access/379176",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request - Daniel",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-daniel/379066",
+      "title": "Jumbo frames support on Drive AGX Thor",
+      "url": "https://forums.developer.nvidia.com/t/jumbo-frames-support-on-drive-agx-thor/379175",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Subject: Please continue maintaining the 470.xx Legacy Linux driver for Kepler mobile GPUs",
-      "url": "https://forums.developer.nvidia.com/t/subject-please-continue-maintaining-the-470-xx-legacy-linux-driver-for-kepler-mobile-gpus/379062",
+      "title": "Full Kimi K3 running on 16x GB10 cluster",
+      "url": "https://forums.developer.nvidia.com/t/full-kimi-k3-running-on-16x-gb10-cluster/379174",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "One-Forward-Pass Readout Engine for TensorRT-LLM—and Somehow It Works",
-      "url": "https://forums.developer.nvidia.com/t/one-forward-pass-readout-engine-for-tensorrt-llm-and-somehow-it-works/379060",
+      "title": "JetPack 7.2 - setup failing",
+      "url": "https://forums.developer.nvidia.com/t/jetpack-7-2-setup-failing/379173",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Jetson Orin NX boots slower after setting mb1/mb2 log_level=<0>",
-      "url": "https://forums.developer.nvidia.com/t/jetson-orin-nx-boots-slower-after-setting-mb1-mb2-log-level-0/379059",
+      "title": "Request to enable Public API Endpoints for my account",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-account/379171",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Account Verification Request – Region: Russia (+7)",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-region-russia-7/379058",
+      "title": "Request to enable \"Public API Endpoints\" for my personal organization",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-personal-organization/379170",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual account verification",
-      "url": "https://forums.developer.nvidia.com/t/manual-account-verification/379056",
+      "title": "RTX 5080 eGPU (USB4/Thunderbolt) on Ubuntu 24.04: cuCtxCreate() returns CUDA_ERROR_UNKNOWN or hangs, while nvidia-smi works",
+      "url": "https://forums.developer.nvidia.com/t/rtx-5080-egpu-usb4-thunderbolt-on-ubuntu-24-04-cuctxcreate-returns-cuda-error-unknown-or-hangs-while-nvidia-smi-works/379169",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Запрос на ручную верификацию аккаунта",
-      "url": "https://forums.developer.nvidia.com/t/topic/379050",
+      "title": "Vllm:26.04-py3 — \"compatibility mode is UNAVAILABLE\" on driver 580.173.02; no DGX Dashboard path to >=595.58",
+      "url": "https://forums.developer.nvidia.com/t/vllm-26-04-py3-compatibility-mode-is-unavailable-on-driver-580-173-02-no-dgx-dashboard-path-to-595-58/379168",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Found the solution to odmfuseread.sh failure",
-      "url": "https://forums.developer.nvidia.com/t/found-the-solution-to-odmfuseread-sh-failure/379048",
+      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+      "url": "https://forums.developer.nvidia.com/t/beyond-vlas-how-world-action-models-reshape-robot-manipulation/379167",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "[ovrtx 0.4.0] Absolute-candela IES (LM-63) photometry — is PhysicalIlluminantAPI supported?",
-      "url": "https://forums.developer.nvidia.com/t/ovrtx-0-4-0-absolute-candela-ies-lm-63-photometry-is-physicalilluminantapi-supported/379047",
+      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+      "url": "https://forums.developer.nvidia.com/t/beyond-vlas-how-world-action-models-reshape-robot-manipulation/379166",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Need help, system recovery of DGX OS after Ubuntu 26.04 LTS upgrade corrupted Spark",
-      "url": "https://forums.developer.nvidia.com/t/need-help-system-recovery-of-dgx-os-after-ubuntu-26-04-lts-upgrade-corrupted-spark/379046",
+      "title": "Jetson AGX Orin carrier connect power to J41 card don&#39;t thern on",
+      "url": "https://forums.developer.nvidia.com/t/jetson-agx-orin-carrier-connect-power-to-j41-card-dont-thern-on/379165",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "[ovrtx 0.4.0] Physical irradiance output (AOV) for lighting calculations — supported or planned?",
-      "url": "https://forums.developer.nvidia.com/t/ovrtx-0-4-0-physical-irradiance-output-aov-for-lighting-calculations-supported-or-planned/379045",
+      "title": "Beyond VLAs: How World Action Models Reshape Robot Manipulation",
+      "url": "https://forums.developer.nvidia.com/t/beyond-vlas-how-world-action-models-reshape-robot-manipulation/379164",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
-      "url": "https://huggingface.co/papers/2607.29684",
+      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+      "url": "https://huggingface.co/papers/2608.02603",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Scaling Properties of Text Conditioning in Visual Generation",
-      "url": "https://huggingface.co/papers/2607.29679",
+      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "url": "https://huggingface.co/papers/2608.02602",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-      "url": "https://huggingface.co/papers/2607.29677",
+      "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
+      "url": "https://huggingface.co/papers/2608.02589",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember",
-      "url": "https://huggingface.co/papers/2607.29468",
+      "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+      "url": "https://huggingface.co/papers/2608.02585",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-      "url": "https://huggingface.co/papers/2607.29377",
+      "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+      "url": "https://huggingface.co/papers/2608.02583",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SatEdit: Mask-Conditioned Image Editing via VLM-Guided Segment Annotation",
-      "url": "https://huggingface.co/papers/2607.29367",
+      "title": "Beyond the Final Prompt: Measuring the Effect of Within-Conversation Context on AI Answers",
+      "url": "https://huggingface.co/papers/2608.02556",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Language Models Agree With Each Other, Not With Readers",
-      "url": "https://huggingface.co/papers/2607.29274",
+      "title": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
+      "url": "https://huggingface.co/papers/2608.02499",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents",
-      "url": "https://huggingface.co/papers/2607.29254",
+      "title": "Real-Time Detection and Repair of LLM Agent Failures",
+      "url": "https://huggingface.co/papers/2608.02464",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Data Turnstile: A Scalable Open Framework for Function-Calling Data Generation",
-      "url": "https://huggingface.co/papers/2607.29250",
+      "title": "InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis",
+      "url": "https://huggingface.co/papers/2608.02437",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters",
-      "url": "https://huggingface.co/papers/2607.29238",
+      "title": "ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step",
+      "url": "https://huggingface.co/papers/2608.02358",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SAF-OPD: Stable Advantage Fusion for On-Policy Distillation",
-      "url": "https://huggingface.co/papers/2607.29209",
+      "title": "GEOID-Flood: A Large-Scale Multi-Modal Benchmark Dataset for Flood Segmentation",
+      "url": "https://huggingface.co/papers/2608.02315",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image",
-      "url": "https://huggingface.co/papers/2607.29106",
+      "title": "SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation",
+      "url": "https://huggingface.co/papers/2608.02287",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Learning from Adversity: Semantic-Aware Mask Refinement through Adversarial Perturbation",
-      "url": "https://huggingface.co/papers/2607.29059",
+      "title": "PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs",
+      "url": "https://huggingface.co/papers/2608.02218",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Evaluation-Verification Reward for Consistent Multi-Reference Image Editing",
-      "url": "https://huggingface.co/papers/2607.29025",
+      "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+      "url": "https://huggingface.co/papers/2608.02023",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift",
-      "url": "https://huggingface.co/papers/2607.28996",
+      "title": "Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis",
+      "url": "https://huggingface.co/papers/2608.01973",
       "source": "Hugging Face",
       "site": "huggingface.co"
+    },
+    {
+      "title": "Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks",
+      "url": "https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
+    },
+    {
+      "title": "Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
+      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
+    },
+    {
+      "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
+      "url": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
+    },
+    {
+      "title": "Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF",
+      "url": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
+      "source": "Marktechpost OpenSource",
+      "site": "marktechpost.com"
     },
     {
       "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
@@ -369,27 +393,15 @@
       "site": "marktechpost.com"
     },
     {
-      "title": "Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bidirectional Encoders That Stay Fast at 8K Context on CPU",
-      "url": "https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/",
-      "source": "Marktechpost OpenSource",
+      "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
+      "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distributed System that Powers Agentic Reinforcement Learning (RL) Training for Kimi K3",
-      "url": "https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/",
-      "source": "Marktechpost OpenSource",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
-      "url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-      "source": "Marktechpost OpenSource",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
-      "url": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
-      "source": "Marktechpost OpenSource",
+      "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
+      "url": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+      "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
@@ -437,18 +449,6 @@
     {
       "title": "Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI",
       "url": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Google Cloud&#8217;s Always-On Memory Agent Replaces RAG and Embeddings With Continuous LLM Consolidation on Gemini 3.1 Flash-Lite",
-      "url": "https://www.marktechpost.com/2026/07/18/google-clouds-always-on-memory-agent-replaces-rag-and-embeddings-with-continuous-llm-consolidation-on-gemini-3-1-flash-lite/",
-      "source": "Marktechpost AI Agent",
-      "site": "marktechpost.com"
-    },
-    {
-      "title": "Build an Agentic Event Venue Operator with MongoDB Atlas, Voyage, and LangGraph",
-      "url": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }
