@@ -1,94 +1,94 @@
 {
-  "updated": "2026-08-05 06:00",
+  "updated": "2026-08-06 06:00",
   "category": "Security",
   "items": [
     {
-      "title": "Chrome 151補上單頁網站效能監測缺口，可分開量測各網址核心網頁指標",
-      "url": "https://www.ithome.com.tw/news/177865",
+      "title": "邁向機器速度防禦！趨勢科技攜手Anthropic、Nvidia、AWS於黑帽大會AI Summit直指核心挑戰，聯防重要性更勝於以往",
+      "url": "https://www.ithome.com.tw/news/177897",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "網路廣告公司Adform遭駭，廣告指令碼被用於竊取加密貨幣資產",
-      "url": "https://www.ithome.com.tw/news/177869",
+      "title": "歐洲刑警組織聯手9國執法單位，要求清除逾4,300個涉及極端主義與犯罪內容的網址",
+      "url": "https://www.ithome.com.tw/news/177900",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "巴基斯坦駭客組織APT36冒充印度政府徵才，鎖定求職者散布木馬程式",
-      "url": "https://www.ithome.com.tw/news/177868",
+      "title": "AWS基礎模型服務Bedrock內建網路搜尋，模型可查詢近期資料並附來源",
+      "url": "https://www.ithome.com.tw/news/177898",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "MedTech醫療科技雙周報第52期：新加坡NUHS打造AI藥事平臺，4款AI工具每周可省850小時藥師工時",
-      "url": "https://www.ithome.com.tw/news/177867",
+      "title": "瑞士聯邦資訊技術與通訊辦公室遭駭，疑因SharePoint漏洞所致",
+      "url": "https://www.ithome.com.tw/news/177896",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "中國駭客針對中亞政府散布後門程式OctLurk、SilkLurk",
-      "url": "https://www.ithome.com.tw/news/177866",
+      "title": "77個惡意套件出現在Open VSX，企圖竊取開發者資訊",
+      "url": "https://www.ithome.com.tw/news/177895",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "DOUBLECUP將ClickFix攻擊打包成租用服務，散布CountLoader與新型RAT",
-      "url": "https://www.ithome.com.tw/news/177864",
+      "title": "政院編列2027年科技預算1,823億元創新高，加碼主權AI、算力基礎建設與推動智慧國家2.0",
+      "url": "https://www.ithome.com.tw/news/177892",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Hugging Face程式庫Diffusers存在漏洞FaceHugger，恐允許模型儲存庫執行任意程式碼",
-      "url": "https://www.ithome.com.tw/news/177863",
+      "title": "針對6月發生的資安事故，尼得科超眾表示尚未發現資料外流的跡象",
+      "url": "https://www.ithome.com.tw/news/177890",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "詐騙網站防線前移！數發部開放詐騙情資給民間業者，從「網域封鎖」提前到「即時警示」",
-      "url": "https://www.ithome.com.tw/news/177861",
+      "title": "Cursor開源MoE訓練核心MoK，Composer模型訓練吞吐量提升41%",
+      "url": "https://www.ithome.com.tw/news/177889",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "勒索軟體Inc利用SonicWall防火牆弱點取得root權限，藉此在受害組織加密檔案",
-      "url": "https://www.ithome.com.tw/news/177862",
+      "title": "【資安日報】8月5日，熱門NPM套件keyv遭植入竊密蠕蟲，至少400個套件受感染",
+      "url": "https://www.ithome.com.tw/news/177888",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "歐盟AI內容透明化規定生效，深偽與AI客服未揭露最高罰全球營收3%",
-      "url": "https://www.ithome.com.tw/news/177860",
+      "title": "Bending Spoons以12.85億美元併購Airtable，估值較高峰縮水逾8成",
+      "url": "https://www.ithome.com.tw/news/177887",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】8月4日，Google同步通行密鑰被找出弱點，研究人員揭露3種竊取私密金鑰手法",
-      "url": "https://www.ithome.com.tw/news/177859",
+      "title": "Cloudflare公布可程式化錢包Cloudflare Wallets服務",
+      "url": "https://www.ithome.com.tw/news/177886",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "英國證實警方資料庫被駭，可能外洩10萬員警、公務員個資",
-      "url": "https://www.ithome.com.tw/news/177858",
+      "title": "Mistral開放Shieldstral 3B多模態安全分類模型，審核政策可隨使用情境調整",
+      "url": "https://www.ithome.com.tw/news/177884",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "IT遠端管理平臺N-central驗證繞過漏洞已遭利用，管理員帳號恐被接管",
-      "url": "https://www.ithome.com.tw/news/177854",
+      "title": "TP-Link修補Omada設備7項軟體漏洞，用戶若置之不理，可能造成通訊、憑證曝險",
+      "url": "https://www.ithome.com.tw/news/177885",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "阿里巴巴發布2.4兆參數Qwen3.8-Max，下週開放模型權重",
-      "url": "https://www.ithome.com.tw/news/177857",
+      "title": "波蘭連鎖便利商店Żabka遭駭，原因是攻擊者透過第三方帳號入侵",
+      "url": "https://www.ithome.com.tw/news/177883",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Cloudflare開源Computer代理工作區，按任務切換Workers與容器",
-      "url": "https://www.ithome.com.tw/news/177846",
+      "title": "研究人員揭露AI蠕蟲攻擊新手法，透過Word中的隱藏提示可誘導Microsoft Copilot自我傳播",
+      "url": "https://www.ithome.com.tw/news/177882",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
@@ -165,12 +165,6 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "AI代理人「YOLO模式」滲透泰國財政部 資安業者揭露自主式駭客攻擊",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13113",
-      "source": "資安人",
-      "site": "informationsecurity.com.tw"
-    },
-    {
       "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
       "source": "資安人",
@@ -183,98 +177,104 @@
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "輝達攜37家科技巨頭成立「開放安全AI聯盟」 呼應Hugging Face遭AI代理入侵事件",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13114",
+      "title": "AI代理人「YOLO模式」滲透泰國財政部 資安業者揭露自主式駭客攻擊",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13113",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
+      "title": "F5與NVIDIA攜手推出新功能加速 AI 推論，共同提升AI 工廠的經濟效益",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13024",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "source": "The Hacker News",
+      "site": "thehackernews.com"
+    },
+    {
       "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
       "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
-      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-      "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-      "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "source": "The Hacker News",
-      "site": "thehackernews.com"
-    },
-    {
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

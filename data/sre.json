@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 06:00",
+  "updated": "2026-08-06 06:01",
   "category": "Sre",
   "items": [
     {
@@ -33,6 +33,30 @@
       "site": "sreweekly.com"
     },
     {
+      "title": "JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale",
+      "url": "https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Presentation: Automatically Retrofitting JIT Compilers",
+      "url": "https://www.infoq.com/presentations/yk-meta-tracing-jit-compiler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge",
+      "url": "https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
+      "title": "SkiaSharp 4.0 Establishes Milestone-Aligned Release Cadence",
+      "url": "https://www.infoq.com/news/2026/08/skia-sharp-4-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "source": "InfoQ",
+      "site": "infoq.com"
+    },
+    {
       "title": "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
       "url": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
@@ -63,7 +87,7 @@
       "site": "infoq.com"
     },
     {
-      "title": "Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent",
+      "title": "Azure and Community Guidelines on Choosing between a Skill or a Sub-Agent",
       "url": "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
@@ -95,30 +119,6 @@
     {
       "title": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability",
       "url": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "HashiCorp Ships Public Beta of Vault Kubernetes Key Management",
-      "url": "https://www.infoq.com/news/2026/08/vault-kubernetes-key-management/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer",
-      "url": "https://www.infoq.com/presentations/agentic-compute/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds",
-      "url": "https://www.infoq.com/news/2026/08/typescript-7-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
-      "source": "InfoQ",
-      "site": "infoq.com"
-    },
-    {
-      "title": "Embabel Agent Framework Reaches 1.0",
-      "url": "https://www.infoq.com/news/2026/08/embabel-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
