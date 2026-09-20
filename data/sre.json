@@ -1,124 +1,124 @@
 {
-  "updated": "2026-08-06 06:01",
+  "updated": "2026-09-20 21:19",
   "category": "Sre",
   "items": [
     {
-      "title": "SRE Weekly Issue #528",
-      "url": "https://sreweekly.com/sre-weekly-issue-528/",
+      "title": "SRE Weekly Issue #534",
+      "url": "https://sreweekly.com/sre-weekly-issue-534/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #527",
-      "url": "https://sreweekly.com/sre-weekly-issue-527/",
+      "title": "SRE Weekly Issue #533",
+      "url": "https://sreweekly.com/sre-weekly-issue-533/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #526",
-      "url": "https://sreweekly.com/sre-weekly-issue-526/",
+      "title": "SRE Weekly Issue #532",
+      "url": "https://sreweekly.com/sre-weekly-issue-532/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #525",
-      "url": "https://sreweekly.com/sre-weekly-issue-525/",
+      "title": "SRE Weekly Issue #531",
+      "url": "https://sreweekly.com/sre-weekly-issue-531/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
     {
-      "title": "SRE Weekly Issue #524",
-      "url": "https://sreweekly.com/sre-weekly-issue-524/",
+      "title": "SRE Weekly Issue #530",
+      "url": "https://sreweekly.com/sre-weekly-issue-530/",
       "source": "SRE Weekly",
       "site": "sreweekly.com"
     },
     {
-      "title": "JioHotstar Explains the Distributed Engineering Behind Personalized Ad Requests at Streaming Scale",
-      "url": "https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Alibaba Open Sources OpenCodeReview for AI-Assisted Code Review",
+      "url": "https://www.infoq.com/news/2026/09/alibaba-opencodereview/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Presentation: Automatically Retrofitting JIT Compilers",
-      "url": "https://www.infoq.com/presentations/yk-meta-tracing-jit-compiler/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI",
+      "url": "https://www.infoq.com/news/2026/09/google-adk-1-0-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Ponytail Agent Skill Corrects Its Own Benchmark After Contributor Challenge",
-      "url": "https://www.infoq.com/news/2026/08/ponytail-agent-skill-benchmark/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%",
+      "url": "https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "SkiaSharp 4.0 Establishes Milestone-Aligned Release Cadence",
-      "url": "https://www.infoq.com/news/2026/08/skia-sharp-4-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP",
+      "url": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Presentation: The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
-      "url": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "AWS Lambda Pushes Serverless Toward Long-Running Workloads",
+      "url": "https://www.infoq.com/news/2026/09/lambda-90-minute-timeout/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Platform Engineering Maturity Emerges as a Key Differentiator for Enterprise AI Success",
-      "url": "https://www.infoq.com/news/2026/08/perforce-maturity-ai-success/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "SolidStart 2: Replaces Vinxi with a Vite 8 and Enters Maintenance as Its Role Winds Down",
+      "url": "https://www.infoq.com/news/2026/09/solid-start-v2/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns",
-      "url": "https://www.infoq.com/presentations/microservices-platform-team-topology/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability",
+      "url": "https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem",
-      "url": "https://www.infoq.com/news/2026/08/eslint-rspack-plugin-5/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags",
+      "url": "https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
-      "url": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "WSO2 Releases Agent Manager as Enterprises Look to Control Growing AI Agent Sprawl",
+      "url": "https://www.infoq.com/news/2026/09/ws02-agent-manager/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Azure and Community Guidelines on Choosing between a Skill or a Sub-Agent",
-      "url": "https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Presentation: Complexity and Creativity in Software Engineering",
+      "url": "https://www.infoq.com/presentations/ai-software-engineering-complexity/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven",
-      "url": "https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "htmx 4.0: a Fetch-Based Rewrite, Built-In Morphing Swaps, and Explicit Attribute Inheritance",
+      "url": "https://www.infoq.com/news/2026/09/htmx-4-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "HubSpot Redesigns JITA Authorization with Rule Engine Architecture",
-      "url": "https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Podcast: Signals and Levers: Building Thriving Engineering Organizations",
+      "url": "https://www.infoq.com/podcasts/building-thriving-engineering-organizations/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality",
-      "url": "https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Article: Architecting Secure and Scalable Facial Verification Systems",
+      "url": "https://www.infoq.com/articles/secure-scalable-facial-verification/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive",
-      "url": "https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "OpenAI Introduces Triage Framework and Case Studies to Report Model Misalignment",
+      "url": "https://www.infoq.com/news/2026/09/openai-misalignment-framework/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     },
     {
-      "title": "Microsoft Agent Framework Harness and Hosted Agents Reach General Availability",
-      "url": "https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
+      "title": "Building an Internal Developer Platform with Artificial Intelligence",
+      "url": "https://www.infoq.com/news/2026/09/platform-artificial-intelligence/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global",
       "source": "InfoQ",
       "site": "infoq.com"
     }
